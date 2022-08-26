@@ -1,0 +1,970 @@
+name,brand,model,version,nbDoor,nbSeats,turningCircle,turningRadius,length,width,widthWSideMirror,height,wheelbase,wheelTrackFront,trackWidthRear,Clearance,luggageCapacity,luggageMin
+Lexus SC I,lexus,sc,i,2,4,4850 mm,1790 mm,1330 mm,2690 mm,1525 mm,1550 mm,973 mm,917 mm,1422 mm,1339 mm,1825 mm,1490 mm
+Peugeot RCZ 2012,peugeot,rcz,coupe,2,4,4287 mm,1845 mm,2107 mm,1362 mm,2596 mm,412 mm,637 mm,898 mm,865 mm,496 mm,583 mm,730 mm
+Mazda MX-5 II 1.6 16V 110KM 2002,mazda,mx-5,ii,2,2,3955 mm,1680 mm,1220 mm,2265 mm,1415 mm,1440 mm,130 mm,900 mm,510 mm,1025 mm,145 l,145 l
+Peugeot RCZ 2012,peugeot,rcz,coupe-facelifting,2,4,11.5 m,5.8 m,4287 mm,1845 mm,2107 mm,1359 mm,2612 mm,111 mm,412 mm,637 mm,898 mm,496 mm
+Lexus SC II 430 286KM 2005,sc,ii,silnik-benzynowy-430-286km-2001-2010,2,4,4515 mm,1825 mm,1350 mm,2620 mm,1550 mm,1535 mm,450 l,135 l,od 2001 do 2010 roku,4293 cm³,benzynowy,286 
+ZAZ Tavria Sedan,zaz,tavria,sedan,3,5,3860 mm,1578 mm,1782 mm,1425 mm,1950 mm,2320 mm,1314 mm,1306 mm,905 mm,160 mm,630 l,250 l
+ZAZ Tavria Hatchback,zaz,tavria,hatchback,3,5,3708 mm,1554 mm,1410 mm,2320 mm,1314 mm,1290 mm,687 mm,710 mm,370 mm,960 mm,630 l,250 l
+Mini Paceman Hatchback 3d Facelifting,mini,paceman,hatchback-3d-facelifting,3,5,4109 mm,1786 mm,1996 mm,1518 mm,2596 mm,1538 mm,1566 mm,764 mm,749 mm,1080 l,330 l,470 kg
+Mini Paceman Hatchback 3d,mini,paceman,hatchback-3d,3,4,4115 mm,1786 mm,1996 mm,1522 mm,2596 mm,1525 mm,1551 mm,769 mm,750 mm,993 mm,941 mm,1390 mm
+Hyundai Veloster Coupe Turbo 1.6 T-GDI 186KM 2013,veloster,coupe,silnik-benzynowy-1.6-gdi-140km-2011-2014,4,5,10.5 m,5.2 m,4220 mm,1790 mm,1399 mm,2650 mm,1561 mm,1574 mm,830 mm,740 mm,143 mm,1114 mm
+Hyundai Veloster Coupe Turbo 1.6 T-GDI 186KM 2013,veloster,coupe-turbo,silnik-benzynowy-1.6-t-gdi-186km-2013-2014,3,5,4250 mm,1805 mm,1399 mm,2650 mm,1557 mm,1570 mm,153 mm,1114 mm,945 mm,805 mm,896 mm,1412 mm
+Mini Mini R50 1.6 S 163KM 2004,mini,mini,r50,3,4,10.8 m,5.4 m,3597 mm,1688 mm,1918 mm,1390 mm,2464 mm,1441 mm,1460 mm,622 mm,511 mm,143 mm
+Mini One I,mini,one,i,3,4,3626 mm,1688 mm,1925 mm,1413 mm,2467 mm,1460 mm,1466 mm,622 mm,537 mm,985 mm,955 mm,1239 mm
+Jaguar XJ8 II,jaguar,xj8,ii,4,5,11.7 m,5090 mm,1860 mm,1448 mm,3034 mm,1556 mm,1546 mm,975 mm,980 mm,1480 mm,1480 mm,470 l
+Jaguar XJ8 I,jaguar,xj8,i,4,5,12.1 m,5024 mm,1799 mm,1314 mm,2870 mm,1500 mm,1498 mm,985 mm,923 mm,1456 mm,1456 mm,370 l
+Jaguar XJ III,jaguar,xj,iii,4,5,13.5 m,4959 mm,1770 mm,1377 mm,2865 mm,1480 mm,1496 mm,178 mm,991 mm,914 mm,1378 mm,1364 mm
+Jaguar XJ VI X308,jaguar,xj,vi-x308,4,5,5149 mm,1799 mm,1333 mm,2995 mm,1500 mm,1498 mm,1047 mm,945 mm,938 mm,1456 mm,1456 mm,430 l
+Jaguar XJ IV,jaguar,xj,iv,4,5,12.4 m,4988 mm,1798 mm,1380 mm,2870 mm,1500 mm,1498 mm,930 mm,935 mm,1460 mm,1463 mm,430 l
+Jaguar XJ V,jaguar,xj,v,4,5,12.1 m,5149 mm,1799 mm,1333 mm,2995 mm,1500 mm,1498 mm,116 mm,1047 mm,945 mm,1982 mm,933 mm
+Jaguar XJR I,jaguar,xjr,i,4,5,12.1 m,5024 mm,1799 mm,1303 mm,2870 mm,1500 mm,1498 mm,116 mm,985 mm,923 mm,1456 mm,1456 mm
+Jaguar XJS I 5.3 289KM 213kW 1975-1980,xjs,i,silnik-benzynowy-5.3-289km-1975-1980,2,11.9 m,4870 mm,1793 mm,1261 mm,2591 mm,1473 mm,1488 mm,140 mm,940 mm,864 mm,1410 mm,1321 mm,430 l
+Jaguar XJR II,jaguar,xjr,ii,4,5,12.1 m,5024 mm,1799 mm,1303 mm,2870 mm,1500 mm,1498 mm,985 mm,923 mm,1456 mm,1456 mm,360 l
+Jaguar XJR III 4.2 396KM 291kW 2003-2009,xjr,iii,silnik-benzynowy-4.2-396km-2003-2009,4,5,11.7 m,5090 mm,1860 mm,1448 mm,3034 mm,1556 mm,1546 mm,975 mm,980 mm,1480 mm,1480 mm,470 l
+Jaguar XE Sedan Facelifting,jaguar,xe,sedan-facelifting,4,5,11.2 m,5.6 m,4678 mm,1967 mm,2075 mm,1967 mm,1416 mm,2835 mm,1602 mm,1585 mm,125 mm,410 l
+Jaguar F-Pace SUV 2.0 i4D 180KM 2016,jaguar,f-pace,suv,5,5,11.6 m,5.8 m,4731 mm,2175 mm,1652 mm,2874 mm,1641 mm,1654 mm,834 mm,1023 mm,213 mm,213 mm
+Jaguar X-Type Sedan,jaguar,x-type,sedan,4,5,4672 mm,1789 mm,2002 mm,1392 mm,2710 mm,1522 mm,1537 mm,1076 mm,947 mm,953 mm,1384 mm,1363 mm
+Jaguar X-Type Kombi,jaguar,x-type,kombi,5,5,4716 mm,1789 mm,2003 mm,1483 mm,2710 mm,1522 mm,1537 mm,902 mm,1104 mm,962 mm,988 mm,1384 mm
+Porsche 968 Cabrio 3.0 i 16V 240KM 177kW 1991-1995,968,cabrio,silnik-benzynowy-3.0-i-16v-240km-1991-1995,2,2,4320 mm,1735 mm,1275 mm,2400 mm,1471 mm,1448 mm,510 l,225 l,od 1991 do 1995 roku,2990 cm³,benzynowy,240 
+Lexus RX L SUV Facelifting 3.5 450h 313KM 230kW 2019-2021,rx-l,suv-facelifting,silnik-hybrydowy-3.5-450h-313km-2019-2021,5,5,11.8 m,5.9 m,4890 mm,1895 mm,1690 mm,1710 mm,2790 mm,1640 mm,1630 mm,1080 mm,1020 mm,200 mm
+Jaguar F-Pace 2020,f-pace,svr,silnik-benzynowy-5.0-v8-550km-2018-2020,5,5,11.6 m,5.8 m,4737 mm,2071 mm,2175 mm,1670 mm,2874 mm,1648 mm,1666 mm,150 mm,1023 mm,1007 mm
+Jaguar E-Pace SUV 2.0 i4P 200KM 2020,jaguar,e-pace,suv,5,5,11.4 m,5.7 m,4395 mm,1984 mm,2088 mm,1647 mm,1649 mm,2681 mm,1625 mm,1624 mm,185 mm,1018 mm
+Jaguar F-Type Kabriolet SVR 5.0 S/C 575KM 423kW od 2016,f-type,kabriolet-svr,silnik-benzynowy-5.0-sc-575km-2016-2016,2,2,11.3 m,4475 mm,2042 mm,1923 mm,1308 mm,2622 mm,1585 mm,1611 mm,207 l,w 2016 roku,5000 cm³,benzynowy
+Jaguar F-Type 2017,f-type,kabriolet-svr-facelifting,silnik-benzynowy-5.0-575km-2016-2019,2,2,11.3 m,4475 mm,2042 mm,1923 mm,1308 mm,2622 mm,1585 mm,1611 mm,107 mm,207 l,od 2016 do 2019 roku,5000 cm³
+Jaguar F-Type Kabriolet R Facelifting 5.0 V8 575KM 423kW od 2020,f-type,kabriolet-r-facelifting,silnik-benzynowy-5.0-v8-575km-od-2020,2,2,11.2 m,4470 mm,1923 mm,2042 mm,1307 mm,2622 mm,1596 mm,1647 mm,100 mm,132 l,od 2020 roku,5000 cm³
+Jaguar F-Type 2017,jaguar,f-type,coupe-facelifting,2,2,10.7 m,5.3 m,4482 mm,2042 mm,2042 mm,1923 mm,1311 mm,2622 mm,1597 mm,1649 mm,112 mm,310 l
+Jaguar E-Pace SUV Facelifting 1.5P MHEV 160KM 2021,jaguar,e-pace,suv-facelifting,5,5,11.6 m,4395 mm,2088 mm,1984 mm,1648 mm,2681 mm,1625 mm,1624 mm,882 mm,832 mm,212 mm,1386 l
+Jaguar F-Pace SUV Facelifting,jaguar,f-pace,suv-facelifting,5,5,11.4 m,5.7 m,4747 mm,2071 mm,2175 mm,2071 mm,1664 mm,2874 mm,1640 mm,1656 mm,845 mm,1028 mm
+Jaguar F-Type Coupe SVR 5.0 S/C 575KM 423kW od 2016,f-type,coupe-svr,silnik-benzynowy-5.0-sc-575km-2016-2016,2,2,11.3 m,4475 mm,2042 mm,1923 mm,1311 mm,2622 mm,1585 mm,1611 mm,310 l,w 2016 roku,5000 cm³,benzynowy
+Jaguar F-Type 2017,f-type,coupe-svr-facelifting,silnik-benzynowy-5.0-575km-2016-2019,2,2,11.3 m,4475 mm,2042 mm,1923 mm,1311 mm,2622 mm,1585 mm,1611 mm,107 mm,408 l,310 l,od 2016 do 2019 roku
+Jaguar E-Pace SUV Facelifting 1.5P MHEV 160KM 2021,e-pace,suv-plug-in,silnik-hybrydowy-1.5p-309km-od-2020,5,5,11.6 m,4395 mm,2088 mm,1984 mm,1648 mm,2681 mm,1625 mm,1624 mm,882 mm,832 mm,212 mm,1386 l
+Jaguar F-Type Coupe R Facelifting 5.0 V8 575KM 423kW od 2020,f-type,coupe-r-facelifting,silnik-benzynowy-5.0-v8-575km-od-2020,2,2,11.2 m,4470 mm,1923 mm,2042 mm,1311 mm,2622 mm,1596 mm,1647 mm,100 mm,336 l,od 2020 roku,5000 cm³
+Jaguar F-Pace 2020,f-pace,suv-plug-in,silnik-hybrydowy-2.0-p-phev-404km-od-2020,5,5,11.9 m,6.0 m,4747 mm,2071 mm,2175 mm,1664 mm,2874 mm,1640 mm,1656 mm,845 mm,1028 mm,213 mm
+Jaguar F-Pace 2022,f-pace,svr-facelifting,silnik-benzynowy-5.0p-v8-550km-od-2021,5,5,11.9 m,6.0 m,4731 mm,2070 mm,2175 mm,1651 mm,2874 mm,1641 mm,1654 mm,213 mm,1440 l,613 l
+Hyundai Sonata V 2022,hyundai,sonata,ii,4,5,10.5 m,4700 mm,1770 mm,1405 mm,2700 mm,1520 mm,1510 mm,170 mm,978 mm,958 mm,1478 mm,1433 mm
+Hyundai Sonata III,hyundai,sonata,iii,4,5,10.5 m,4710 mm,1818 mm,1410 mm,2700 mm,1540 mm,1520 mm,998 mm,955 mm,1445 mm,1415 mm,1970 mm
+Honda Prelude I,honda,prelude,i,2,2,4090 mm,1635 mm,1290 mm,2320 mm,1400 mm,1410 mm,860 mm,910 mm,160 mm,910 mm,455 mm,870 mm
+Honda Pilot II 2019,honda,pilot,i,5,5,4775 mm,1793 mm,1964 mm,2700 mm,1689 mm,1694 mm,198 mm,1064 mm,1019 mm,1565 mm,1560 mm,2557 l
+Honda Prelude III,honda,prelude,iii,2,4,11.4 m,4510 mm,1695 mm,1295 mm,2565 mm,1480 mm,1470 mm,145 mm,1695 mm,1420 mm,1060 mm,380 l
+Honda Shuttle II 1.6 110KM 81kW 1987-1995,shuttle,ii,silnik-benzynowy-1.6-110km-1987-1995,5,6,4750 mm,1770 mm,1675 mm,2830 mm,1525 mm,1540 mm,155 mm,990 mm,485 mm,980 mm,465 mm,2810 mm
+Honda Prelude IV,honda,prelude,iv,2,4,4440 mm,1765 mm,1290 mm,2550 mm,1525 mm,1515 mm,145 mm,915 mm,500 mm,855 mm,415 mm,1695 mm
+Honda Prelude V,honda,prelude,v,2,4,4520 mm,1750 mm,1315 mm,2585 mm,1525 mm,1515 mm,140 mm,945 mm,495 mm,900 mm,415 mm,1755 mm
+Honda Pilot II 2019,pilot,ii,silnik-benzynowy-3.5-i-250km-2009-2015,5,7,11.7 m,4849 mm,1994 mm,1847 mm,2774 mm,1720 mm,203 mm,1016 mm,1011 mm,1562 mm,1580 mm,2464 l
+Honda Odyssey IV 3.5 V6 252KM 185kW 2011-2017,odyssey,iv,silnik-benzynowy-3.5-v6-252km-2011-2017,5,5,11.2 m,5.6 m,5154 mm,2012 mm,1737 mm,3000 mm,1730 mm,1732 mm,114 mm,1636 mm,1613 mm,1478 mm
+Honda Odyssey I,honda,odyssey,i,5,7,4750 mm,1770 mm,1645 mm,1675 mm,2830 mm,1525 mm,1540 mm,155 mm,990 mm,485 mm,980 mm,485 mm
+Honda Odyssey III,honda,odyssey,iii,5,7,4765 mm,1800 mm,1550 mm,2830 mm,1560 mm,1560 mm,155 mm,985 mm,485 mm,985 mm,480 mm,2790 mm
+Honda Odyssey II,honda,odyssey,ii,4,7,4770 mm,1795 mm,1630 mm,2830 mm,1560 mm,1555 mm,155 mm,975 mm,490 mm,960 mm,490 mm,2740 mm
+Honda CRX I,honda,crx,i,3,3675 mm,1625 mm,1290 mm,2200 mm,1400 mm,1415 mm,770 mm,705 mm,160 mm,925 mm,485 mm,850 mm,410 mm
+Honda Integra II,honda,integra,ii,2,5,4380 mm,1695 mm,1320 mm,2570 mm,1480 mm,1470 mm,130 mm,935 mm,500 mm,300 mm,870 mm,415 mm
+Honda Insight Coupe,honda,insight,coupe,3,2,3940 mm,1695 mm,1355 mm,2400 mm,1435 mm,1325 mm,150 mm,880 mm,965 mm,495 mm,1390 mm,1090 mm
+Honda CRX II,honda,crx,ii,3,4,3755 mm,1675 mm,1270 mm,2300 mm,1450 mm,1455 mm,150 mm,905 mm,480 mm,175 mm,850 mm,415 mm
+Honda Insight Hatchback Facelifting 1.3 IMA CVT 88KM 65kW 2012-2013,insight,hatchback-facelifting,silnik-hybrydowy-1.3-ima-cvt-88km-2012-2013,5,5,10.4 m,4395 mm,1695 mm,2030 mm,1425 mm,1545 mm,2545 mm,1485 mm,1475 mm,125 mm,982 l,408 l
+Honda Insight Hatchback 1.3 IMA Hybrid 88KM 65kW 2009-2012,insight,hatchback,silnik-benzynowy-1.3-ima-hybrid-88km-2009-2012,5,5,10.4 m,4395 mm,1695 mm,2029 mm,1425 mm,1545 mm,2545 mm,1495 mm,1475 mm,125 mm,982 l,373 l
+Honda Jazz II,honda,jazz,ii,5,5,10.2 m,5.1 m,3830 mm,1675 mm,1525 mm,2450 mm,1460 mm,1445 mm,150 mm,500 mm,450 mm,1280 mm
+Honda HR-V I 1.6 i 16V 2WD 105KM 2000,honda,hr-v,i,3,4,4095 mm,1695 mm,1580 mm,2460 mm,1470 mm,1470 mm,175 mm,960 mm,490 mm,960 mm,445 mm,1805 mm
+Honda Jazz III,honda,jazz,iii,5,5,9.5 m,3900 mm,1695 mm,2029 mm,1525 mm,1655 mm,2495 mm,1492 mm,1475 mm,150 mm,1320 l,375 l
+Honda Concerto Sedan,honda,concerto,sedan,4,5,4415 mm,1690 mm,1395 mm,2550 mm,1450 mm,1455 mm,150 mm,950 mm,490 mm,345 mm,935 mm,450 mm
+Honda Concerto Hatchback,honda,concerto,hatchback,5,5,4270 mm,1690 mm,1395 mm,2550 mm,1450 mm,1455 mm,150 mm,950 mm,490 mm,320 mm,910 mm,495 mm
+Honda City III,honda,city,iii,4,4450 mm,1695 mm,1390 mm,2620 mm,1475 mm,1475 mm,150 mm,945 mm,490 mm,895 mm,465 mm,1815 mm,1405 mm
+Honda City II,honda,city,ii,3,5,3560 mm,1620 mm,1335 mm,2400 mm,1400 mm,1410 mm,915 mm,460 mm,235 mm,905 mm,440 mm,1675 mm
+Honda HR-V III 1.5 i-MMD 131KM 96kW od 2021,hr-v,iii,silnik-hybrydowy-1.5-i-mmd-131km-od-2021,5,5,11.3 m,5.7 m,4340 mm,1790 mm,2027 mm,1866 mm,1582 mm,2610 mm,188 mm,971 l,319 l,od 2021 roku
+Honda CRX III,honda,crx,iii,2,2,3995 mm,1695 mm,1255 mm,2370 mm,1475 mm,1465 mm,140 mm,890 mm,510 mm,865 mm,1355 mm,1035 mm
+Honda City VI 1.4 i 100KM 74kW 2009-2011,city,vi,silnik-benzynowy-1.4-i-100km-2009-2011,4,5,10.0 m,4420 mm,1715 mm,1970 mm,1470 mm,1575 mm,2540 mm,1495 mm,1475 mm,135 mm,506 l,45 kg
+Honda Integra IV,honda,integra,iv,2,4,4385 mm,1725 mm,1400 mm,2570 mm,1485 mm,1485 mm,150 mm,965 mm,500 mm,295 mm,890 mm,465 mm
+Honda NSX II 3.5 V6 573KM 421kW od 2015,nsx,ii,silnik-hybrydowy-3.5-v6-573km-od-2015,2,2,12.1 m,6.0 m,4470 mm,1940 mm,2225 mm,1214 mm,2630 mm,1656 mm,1618 mm,94 mm,110 l,9.2 °
+Honda Integra III,honda,integra,iii,4,5,4450 mm,1695 mm,1390 mm,2620 mm,1475 mm,1475 mm,150 mm,945 mm,490 mm,895 mm,465 mm,1815 mm
+Honda CR-Z Coupe Facelifting 1.5 i-VTEC IMA 137KM 101kW 2013,cr-z,coupe-facelifting,silnik-benzynowy-1.5-i-vtec-ima-137km-2013-2013,3,4,4075 mm,1740 mm,2014 mm,1395 mm,2425 mm,135 mm,381 l,207 l,381 kg,57 kg,w 2013 roku,1497 cm³
+Honda Legend IV,honda,legend,iv,4,5,4930 mm,1845 mm,1445 mm,2800 mm,1575 mm,1585 mm,145 mm,925 mm,495 mm,920 mm,510 mm,2025 mm
+Honda Legend III 3.5 i 24V 208KM 153kW 1996-2004,legend,iii,silnik-benzynowy-3.5-i-24v-208km-1996-2004,4,5,4995 mm,1810 mm,1435 mm,2910 mm,1540 mm,1550 mm,150 mm,960 mm,510 mm,345 mm,930 mm,470 mm
+Infiniti Q60 II 2020,infiniti,q60,ii,2,4,10.6 m,5.3 m,4690 mm,2052 mm,2052 mm,2052 mm,1395 mm,2850 mm,1554 mm,1580 mm,115 mm,342 l
+Infiniti M II,infiniti,m,ii,4,5010 mm,1770 mm,1463 mm,2800 mm,1509 mm,1509 mm,145 mm,1006 mm,490 mm,920 mm,535 mm,1535 mm,1240 mm
+Honda CR-V I 2.0 16V 147KM 2001,honda,cr-v,i,5,5,4470 mm,1750 mm,1675 mm,1705 mm,2620 mm,1535 mm,1535 mm,205 mm,1020 mm,475 mm,440 mm,1020 mm
+Honda Civic XII 2022,civic,xii,silnik-hybrydowy-2.0-i-mmd-184km-od-2022,5,5,10.8 m,5.4 m,4551 mm,1802 mm,2081 mm,1408 mm,2734 mm,1537 mm,1565 mm,140 mm,1225 l,415 l
+Infiniti M I 4.5 V8 340KM 250kW 2003-2005,m,i,silnik-benzynowy-4.5-v8-340km-2003-2005,4,4796 mm,1689 mm,1321 mm,2616 mm,od 2003 do 2005 roku,4494 cm³,benzynowy,340 , (250 ,) przy 6400 obr/min,451 , przy 4000 obr/min,"z przodu, podłużnie"
+Honda CR-V II,honda,cr-v,ii,5,5,10.3 m,5.2 m,4570 mm,1780 mm,1682 mm,1710 mm,2620 mm,1535 mm,1535 mm,205 mm,1025 mm,490 mm
+Hyundai Grand Santa Fe SUV 2.2 CRDi 197KM 145kW 2014-2016,grand-santa-fe,suv,silnik-diesla-2.2-crdi-197km-2014-2016,5,6,4915 mm,1885 mm,1685 mm,2800 mm,1628 mm,1639 mm,180 mm,1048 mm,971 mm,1050 mm,974 mm,1508 mm
+Hyundai ix35 SUV,hyundai,ix35,suv,5,5,10.6 m,5.3 m,4410 mm,1820 mm,1660 mm,2640 mm,1591 mm,1592 mm,880 mm,890 mm,170 mm,1047 mm
+Hyundai Coupe I,hyundai,coupe,i,3,4,4340 mm,1730 mm,1303 mm,2475 mm,1465 mm,1450 mm,973 mm,892 mm,145 mm,505 mm,115 mm,490 mm
+Infiniti G G20 II 2.0 140KM 103kW 1999-2002,g,g20-ii,silnik-benzynowy-2.0-140km-1999-2002,4,5,4509 mm,1694 mm,1400 mm,2601 mm,1415 mm,1455 mm,160 mm,od 1999 do 2002 roku,1999 cm³,benzynowy,140 , (103 
+Hyundai Excel I,hyundai,excel,i,3,10.3 m,4087 mm,1603 mm,1374 mm,2380 mm,1374 mm,1341 mm,165 mm,952 mm,937 mm,1323 mm,1311 mm,753 l
+Hyundai Grand Santa Fe SUV Facelifting 2.2 CRDi 200KM 147kW 2016-2019,grand-santa-fe,suv-facelifting,silnik-diesla-2.2-crdi-200km-2016-2019,5,7,10.9 m,5.5 m,4905 mm,1885 mm,1685 mm,2800 mm,180 mm,1048 mm,971 mm,1050 mm,974 mm,1508 mm
+Hyundai ix20 Mikrovan Facelifting,hyundai,ix20,mikrovan-facelifting,5,5,10.4 m,5.2 m,4115 mm,1765 mm,1600 mm,2615 mm,1553 mm,1557 mm,805 mm,680 mm,156 mm,1080 mm
+Hyundai Genesis I,hyundai,genesis,i,4,5,11.1 m,5.5 m,4990 mm,1890 mm,1480 mm,3100 mm,1599 mm,1615 mm,835 mm,1135 mm,130 mm,1135 l
+Hyundai Galloper I 3.0 V6 141KM 104kW 1991-1998,galloper,i,silnik-benzynowy-3.0-v6-141km-1991-1998,5,4650 mm,1680 mm,1850 mm,2695 mm,1400 mm,1375 mm,745 mm,1145 mm,od 1991 do 1998 roku,2972 cm³,benzynowy,141 , (104 
+Hyundai i40 Kombi 1.7 CRDi LOW 115KM 2011,hyundai,i40,kombi,5,5,4770 mm,1815 mm,1470 mm,2770 mm,1591 mm,1597 mm,920 mm,1080 mm,140 mm,1170 mm,1025 mm,985 mm
+Hyundai ix35 SUV R 2.0 CRDi 136KM 2013,hyundai,ix35,suv-facelifting,5,5,4410 mm,1820 mm,1655 mm,1660 mm,2640 mm,1591 mm,1592 mm,170 mm,1047 mm,1000 mm,982 mm,994 mm
+Hyundai i40 Kombi Facelifting,hyundai,i40,kombi-facelifting,5,5,10.9 m,5.5 m,4775 mm,1815 mm,1470 mm,2770 mm,1579 mm,1585 mm,925 mm,1080 mm,140 mm,1170 mm
+Hyundai Equus II 4.5 V8 266KM 196kW 2002-2008,equus,ii,silnik-benzynowy-4.5-v8-266km-2002-2008,4,5160 mm,1900 mm,1490 mm,3045 mm,1625 mm,1641 mm,1025 mm,967 mm,1500 mm,1473 mm,474 l,od 2002 do 2008 roku,4498 cm³
+Hyundai i40 Sedan,hyundai,i40,sedan,4,5,10.9 m,5.5 m,4740 mm,1815 mm,1470 mm,2770 mm,920 mm,1050 mm,130 mm,1672 l,520 l,717 mm
+Hyundai i40 Sedan Facelifting,hyundai,i40,sedan-facelifting,4,5,10.9 m,5.5 m,4745 mm,1815 mm,1470 mm,2770 mm,1579 mm,1585 mm,925 mm,1050 mm,140 mm,1170 mm
+Hyundai i10 III,hyundai,i10,iii,5,5,10.0 m,5.0 m,3670 mm,1680 mm,1680 mm,1480 mm,2385 mm,1467 mm,1480 mm,705 mm,540 mm,149 mm
+Hyundai Kona Crossover,hyundai,kona,crossover,5,5,10.6 m,5.3 m,4165 mm,1800 mm,2090 mm,1550 mm,1565 mm,2600 mm,1575 mm,1584 mm,845 mm,720 mm
+Hyundai H1 II 2008,h1,i,silnik-diesla-2.5-td-80km-1999-2008,5,9,2810 mm,od 1999 do 2008 roku,2476 cm³,diesel,80 , (59 ,) przy 3900 obr/min,210 , przy 1800 obr/min,"z przodu, poprzecznie",turbosprężarkowe,SOHC (OHC)
+Hyundai Kona Crossover Electric,hyundai,kona,crossover-electric,5,5,10.6 m,5.3 m,4180 mm,1800 mm,1570 mm,2600 mm,1564 mm,1575 mm,846 mm,734 mm,158 mm,1114 l
+Nissan Xterra II 2005,xterra,ii,silnik-benzynowy-4.0-v6-261km-2004-2008,5,5,4550 mm,1860 mm,1820 mm,2710 mm,od 2004 do 2008 roku,3954 cm³,benzynowy,261 , (192 ,) przy 5600 obr/min,381 , przy 4000 obr/min
+Hyundai Elantra VII 1.6 MPI 123KM 2021,elantra,vii,silnik-benzynowy-1.6-mpi-123km-od-2021,4,5,4650 mm,1825 mm,1430 mm,2720 mm,1593 mm,1604 mm,150 mm,989 mm,947 mm,474 l,od 2021 roku,1598 cm³
+Hyundai Kona Crossover N 2.0 T-GDI 280KM 206kW od 2021,kona,crossover-n,silnik-benzynowy-2.0-t-gdi-280km-od-2021,5,5,10.6 m,4215 mm,1800 mm,2040 mm,1550 mm,1565 mm,2600 mm,1579 mm,1575 mm,173 mm,1005 mm,961 mm
+Hyundai IONIQ Hatchback 1.6 GDi 141KM 104kW 2016-2019,ioniq,hatchback,silnik-hybrydowy-1.6-gdi-141km-2016-2019,5,5,10.6 m,5.3 m,4470 mm,1820 mm,1450 mm,2700 mm,1563 mm,1577 mm,140 mm,1073 mm,994 mm,906 mm
+Hyundai Santa Fe I,hyundai,santa-fe,i,5,5,4500 mm,1845 mm,1655 mm,1730 mm,2620 mm,1540 mm,1540 mm,895 mm,985 mm,200 mm,1473 l,469 l
+Hyundai IONIQ Electric Synchroniczny z magnesami stałymi 120KM 88kW 2016-2019,ioniq,electric,silnik-elektryczny-synchroniczny-z-magnesami-stalymi-120km-2016-2019,5,5,10.6 m,5.3 m,4470 mm,1820 mm,1450 mm,2700 mm,1563 mm,1577 mm,140 mm,1073 mm,994 mm,906 mm
+Hyundai IONIQ Electric Facelifting Elektryczny 136KM 100kW 2019-2022,ioniq,electric-facelifting,silnik-elektryczny-elektryczny-136km-2019-2022,5,5,10.8 m,5.4 m,4470 mm,1820 mm,1450 mm,2700 mm,1555 mm,1569 mm,140 mm,1073 mm,995 mm,907 mm
+Hyundai IONIQ 2019,ioniq,plug-in,silnik-hybrydowy-1.6-gdi-141km-2017-2019,5,5,10.6 m,5.3 m,4470 mm,1820 mm,1450 mm,2700 mm,1555 mm,1569 mm,140 mm,1073 mm,994 mm,906 mm
+Hyundai IONIQ 2021,ioniq,plug-in-facelifting,silnik-hybrydowy-1.6-gdi-141km-2019-2022,5,5,10.8 m,5.4 m,4470 mm,1820 mm,1450 mm,2700 mm,1555 mm,1569 mm,140 mm,1073 mm,995 mm,907 mm
+Nissan Tiida Hatchback Facelifting 1.6 110KM 2011,tiida,hatchback-facelifting,silnik-benzynowy-1.6-110km-2010-2012,5,5,10.4 m,4303 mm,1695 mm,1525 mm,2603 mm,1480 mm,1485 mm,425 l,300 l,75 kg,od 2010 do 2012 roku,1598 cm³
+Nissan Quest I 3.0 i 151KM 111kW 1992-1999,quest,i,silnik-benzynowy-3.0-i-151km-1992-1999,4,5,4823 mm,1872 mm,1717 mm,2850 mm,1610 mm,1610 mm,130 mm,2102 l,196 l,od 1992 do 1999 roku,2960 cm³,benzynowy
+Nissan Sunny B10 1.4 66KM 49kW 1966-1968,sunny,b10,silnik-benzynowy-1.4-66km-1966-1968,4,5,3820 mm,1445 mm,1345 mm,2280 mm,625 mm,875 mm,430 mm,410 mm,1630 mm,1255 mm,1100 mm,od 1966 do 1968 roku
+Nissan Prairie I,nissan,prairie,i,5,5,4325 mm,1665 mm,1645 mm,2515 mm,1430 mm,1390 mm,870 mm,940 mm,990 mm,460 mm,960 mm,435 mm
+Nissan Terrano II,nissan,terrano,ii,3,5,4697 mm,1755 mm,1850 mm,2650 mm,1455 mm,1430 mm,812 mm,1115 mm,205 mm,1005 mm,500 mm,985 mm
+Nissan Prairie III,nissan,prairie,iii,4,5,4575 mm,1695 mm,1630 mm,2600 mm,1479 mm,1470 mm,1050 mm,485 mm,980 mm,485 mm,2620 mm,1470 mm
+Nissan Serena I,nissan,serena,i,4,8,4320 mm,1700 mm,1840 mm,2740 mm,1460 mm,1450 mm,1050 mm,970 mm,990 mm,1010 mm,1980 mm,1430 mm
+Nissan Serena II,nissan,serena,ii,4,8,4520 mm,1695 mm,1825 mm,2695 mm,800 mm,955 mm,1050 mm,475 mm,1010 mm,485 mm,2640 mm,1470 mm
+Nissan President II 4.5 i V8 32V 270KM 199kW 1990-2002,president,ii,silnik-benzynowy-4.5-i-v8-32v-270km-1990-2002,4,5,5225 mm,1830 mm,1425 mm,3030 mm,1570 mm,1570 mm,995 mm,510 mm,905 mm,490 mm,2080 mm,1520 mm
+Nissan Terrano II 3.0 TDi 16V 154KM 2003,nissan,terrano,i,3,5,4365 mm,1730 mm,1680 mm,2650 mm,1425 mm,1385 mm,725 mm,990 mm,210 mm,1550 l,425 l,965 mm
+Nissan President III 4.5 i V8 32V 280KM 206kW 2002-2010,president,iii,silnik-benzynowy-4.5-i-v8-32v-280km-2002-2010,4,5,5060 mm,1845 mm,1500 mm,2870 mm,1575 mm,1555 mm,150 mm,355 l,od 2002 do 2010 roku,4494 cm³,benzynowy,280 
+Nissan Sentra VI 2.0 i 16V 135KM 99kW 2006-2012,sentra,vi,silnik-benzynowy-2.0-i-16v-135km-2006-2012,4,5,4567 mm,1791 mm,1511 mm,2685 mm,1519 mm,1544 mm,142 mm,371 l,od 2006 do 2012 roku,1997 cm³,benzynowy,135 
+Nissan Teana J31,nissan,teana,j31,4,5,4845 mm,1765 mm,1475 mm,2775 mm,1530 mm,1535 mm,125 mm,860 mm,875 mm,450 mm,895 mm,420 mm
+Nissan Sunny B20 1.4 70KM 51kW 1968-1970,sunny,b20,silnik-benzynowy-1.4-70km-1968-1970,4,4,3800 mm,1445 mm,1345 mm,2280 mm,1190 mm,1180 mm,160 mm,od 1968 do 1970 roku,benzynowy,70 , (51 ,)
+Nissan Pathfinder II,nissan,pathfinder,ii,5,5,4530 mm,1840 mm,1750 mm,2700 mm,1520 mm,1525 mm,785 mm,1045 mm,210 mm,975 mm,510 mm,990 mm
+Nissan Laurel II,nissan,laurel,ii,4,5,4635 mm,1690 mm,1400 mm,2670 mm,1410 mm,1390 mm,845 mm,1120 mm,940 mm,490 mm,880 mm,470 mm
+Nissan Laurel V,nissan,laurel,v,4,5,4765 mm,1730 mm,1400 mm,2720 mm,1460 mm,1470 mm,140 mm,950 mm,500 mm,875 mm,480 mm,1980 mm
+Nissan NP300 Single Cab 2.5 TD 133KM 98kW 2008-2012,np300,single-cab,silnik-diesla-2.5-td-133km-2008-2012,2,2,12.0 m,5010 mm,1690 mm,1610 mm,2950 mm,1525 mm,1505 mm,230 mm,430 mm,1465 mm,2235 mm,31.0 °
+Kia Sephia II,kia,sephia,ii,4,5,10.6 m,4430 mm,1700 mm,1410 mm,2560 mm,1465 mm,1465 mm,1006 mm,958 mm,1367 mm,1377 mm,692 l
+Nissan Altima II 2.4 16V 152KM 112kW 1998-2002,altima,ii,silnik-benzynowy-2.4-16v-152km-1998-2002,4,5,4660 mm,1760 mm,1420 mm,2620 mm,1510 mm,1500 mm,390 l,od 1998 do 2002 roku,2389 cm³,benzynowy,152 , (112 
+Nissan Bluebird I 1.8 88KM 65kW 1974-1979,bluebird,i,silnik-benzynowy-1.8-88km-1974-1979,4,5,10.7 m,4215 mm,1600 mm,1405 mm,2500 mm,1310 mm,1320 mm,185 mm,od 1974 do 1979 roku,1770 cm³,benzynowy,88 
+Nissan Bluebird V,nissan,bluebird,v,4,5,4470 mm,1685 mm,1445 mm,2535 mm,1480 mm,1460 mm,860 mm,945 mm,145 mm,980 mm,480 mm,925 mm
+Nissan Altima I 2.4 150KM 110kW 1993-1997,altima,i,silnik-benzynowy-2.4-150km-1993-1997,4,5,4585 mm,1704 mm,1420 mm,2619 mm,1466 mm,1455 mm,od 1993 do 1997 roku,2389 cm³,benzynowy,150 , (110 ,) przy 5500 obr/min
+Kia Shuma I,kia,shuma,i,5,5,10.6 m,4475 mm,1700 mm,1410 mm,2560 mm,1465 mm,1455 mm,1006 mm,958 mm,1367 mm,1377 mm,1870 mm
+Kia Venga Mikrovan Facelifting,kia,venga,mikrovan-facelifting,5,5,10.2 m,5.1 m,4075 mm,1765 mm,1600 mm,2615 mm,1553 mm,1557 mm,792 mm,668 mm,156 mm,440 l
+Nissan NP300 Double Cab 2.5 TD 133KM 98kW 2008-2012,np300,double-cab,silnik-diesla-2.5-td-133km-2008-2012,4,4,12.0 m,4945 mm,1825 mm,1710 mm,2950 mm,1525 mm,1505 mm,230 mm,435 mm,1390 mm,1485 mm,31.0 °
+Nissan Maxima IV,nissan,maxima,iv,4,5,4770 mm,1770 mm,1415 mm,2700 mm,1530 mm,1510 mm,1010 mm,510 mm,910 mm,490 mm,2075 mm,1480 mm
+Nissan Pick Up II,nissan,pick-up,ii,2,5,4840 mm,1730 mm,1705 mm,2950 mm,1435 mm,1410 mm,725 mm,1165 mm,215 mm,790 mm,41.0 °,25.0 °
+Nissan Pick Up IV 2.5 Di 133KM 98kW 2002-2007,pick-up,iv,silnik-diesla-2.5-di-133km-2002-2007,2,4,5133 mm,1850 mm,1750 mm,1771 mm,3200 mm,1570 mm,1570 mm,1130 mm,od 2002 do 2007 roku,diesel,133 , (98 
+Nissan 370Z Coupe 3.7 V6 328KM 241kW 2009-2012,370z,coupe,silnik-benzynowy-3.7-v6-328km-2009-2012,2,2,10.6 m,5.3 m,4250 mm,1845 mm,1315 mm,2550 mm,1550 mm,1595 mm,235 l,od 2009 do 2012 roku,3696 cm³,benzynowy
+Nissan 370Z Nismo 3.7 V6 344KM 253kW 2016-2020,370z,nismo,silnik-benzynowy-3.7-v6-344km-2016-2020,2,2,12.1 m,6.0 m,4430 mm,1870 mm,1315 mm,2550 mm,1555 mm,1580 mm,115 mm,235 l,od 2016 do 2020 roku,3696 cm³
+Nissan Micra I,nissan,micra,i,3,5,3645 mm,1560 mm,1395 mm,2300 mm,1345 mm,1330 mm,735 mm,610 mm,175 mm,952 mm,510 mm,923 mm
+Nissan 370Z Roadster 3.7 V6 328KM 241kW 2009-2012,370z,roadster,silnik-benzynowy-3.7-v6-328km-2009-2012,2,2,4250 mm,1845 mm,1325 mm,2550 mm,1550 mm,1595 mm,140 l,od 2009 do 2012 roku,3696 cm³,benzynowy,328 , (241 
+Nissan Micra II,nissan,micra,ii,5,5,3746 mm,1595 mm,1430 mm,1805 mm,2360 mm,1360 mm,1325 mm,870 mm,490 mm,350 mm,810 mm,145 mm
+Nissan Townstar Kombi 1.3 DIG-T 130KM 96kW od 2022,townstar,kombi,silnik-benzynowy-1.3-dig-t-130km-od-2022,5,5,11.8 m,5.9 m,4486 mm,1860 mm,2159 mm,1860 mm,2716 mm,144 mm,2800 l,775 l,100 kg,od 2022 roku
+Nissan NV200 Van,nissan,nv200,van,5,2,11.1 m,4400 mm,1695 mm,2011 mm,1860 mm,2725 mm,1490 mm,1510 mm,835 mm,840 mm,158 mm,524 mm
+Nissan 370Z Roadster Facelifting 3.7 V6 328KM 241kW 2012-2020,370z,roadster-facelifting,silnik-benzynowy-3.7-v6-328km-2012-2020,2,2,12.1 m,6.0 m,4250 mm,1845 mm,1325 mm,2550 mm,1550 mm,1595 mm,125 mm,140 l,od 2012 do 2020 roku,3696 cm³
+Nissan NV200 Combi,nissan,nv200,combi,5,5,11.1 m,4400 mm,1695 mm,2011 mm,1860 mm,2725 mm,1490 mm,1510 mm,835 mm,840 mm,158 mm,2300 l
+Nissan Townstar Van 1.3 DIG-T 130KM 96kW od 2022,townstar,van,silnik-benzynowy-1.3-dig-t-130km-od-2022,4,2,11.8 m,5.9 m,4486 mm,1860 mm,2159 mm,1864 mm,2716 mm,144 mm,3900 l,100 kg,od 2022 roku,1332 cm³
+Nissan Navara I 2.5 TD 96KM 71kW 1986-1997,navara,i,silnik-benzynowy-2.5-td-96km-1986-1997,2,2,4840 mm,1730 mm,1705 mm,2950 mm,1435 mm,1410 mm,725 mm,1165 mm,215 mm,790 mm,41.0 °,25.0 °
+Nissan X-Trail II,nissan,x-trail,ii,5,5,11.6 m,5.8 m,4630 mm,1785 mm,1680 mm,1765 mm,2630 mm,1530 mm,1535 mm,210 mm,1773 l,603 l
+Nissan NV200 Van 1.5 L dCi 110KM 2012,nv200,e-van,silnik-elektryczny-elektryczny-109km-od-2015,4,2,10.6 m,5.3 m,4560 mm,1755 mm,2011 mm,1858 mm,2725 mm,1530 mm,1530 mm,987 mm,847 mm,153 mm
+Nissan NV200 e-Combi Elektryczny 109KM 80kW od 2015,nv200,e-combi,silnik-elektryczny-elektryczny-109km-od-2015,5,9,11.3 m,5.7 m,4560 mm,1755 mm,2011 mm,1858 mm,2725 mm,1530 mm,1530 mm,987 mm,846 mm,153 mm
+Nissan 200SX IV,nissan,200sx,iv,2,4,4560 mm,1730 mm,1295 mm,2525 mm,1480 mm,1470 mm,990 mm,1045 mm,940 mm,505 mm,895 mm,450 mm
+Nissan Micra V 1.0 IG-T 92KM 2022,nissan,micra,v,5,5,10.3 m,5.2 m,3999 mm,1743 mm,1935 mm,1455 mm,2525 mm,1510 mm,1520 mm,827 mm,647 mm,145 mm
+Nissan NV200 Van 1.5 L dCi 110KM 2012,nv200,evalia,silnik-elektryczny-elektryczny-109km-od-2015,5,5,11.1 m,5.5 m,4560 mm,1755 mm,2011 mm,1858 mm,2725 mm,1530 mm,1530 mm,987 mm,846 mm,153 mm
+Nissan 200SX I,nissan,200sx,i,2,4,4350 mm,1660 mm,1330 mm,2425 mm,1400 mm,1425 mm,910 mm,1015 mm,900 mm,485 mm,880 mm,440 mm
+Kia Sedona I,kia,sedona,i,5,7,12.8 m,4925 mm,1900 mm,1730 mm,2905 mm,1625 mm,1600 mm,1024 mm,1021 mm,1580 mm,1600 mm,2595 mm
+Nissan GT-R Coupe 3.8 485KM 357kW 2007-2011,gt-r,coupe,silnik-benzynowy-3.8-485km-2007-2011,3,4,12.1 m,4670 mm,1895 mm,1370 mm,2780 mm,1590 mm,1600 mm,105 mm,315 l,795 mm,500 mm,1470 mm
+Nissan GT-R Coupe Facelifting 2014 3.8 550KM 405kW 2014-2014,gt-r,coupe-facelifting-2014,silnik-benzynowy-3.8-550km-2014-2014,2,4,12.1 m,4670 mm,1895 mm,1370 mm,2780 mm,1590 mm,1600 mm,105 mm,910 mm,520 mm,810 mm,465 mm
+Kia Magentis I,kia,magentis,i,4,5,10.8 m,4800 mm,1805 mm,1480 mm,2720 mm,1558 mm,1552 mm,160 mm,1011 mm,965 mm,1450 mm,1430 mm
+Kia Pride Kombi 1.3 i 64KM 47kW 1998-2002,pride,kombi,silnik-benzynowy-1.3-i-64km-1998-2002,5,5,3940 mm,1605 mm,1460 mm,2345 mm,1400 mm,1384 mm,1315 mm,1205 mm,1083 l,384 l,od 1998 do 2002 roku,1324 cm³
+Nissan GT-R Coupe Facelifting 3.8 550KM 405kW 2011-2013,gt-r,coupe-facelifting,silnik-benzynowy-3.8-550km-2011-2013,2,4,4670 mm,1895 mm,1370 mm,2780 mm,1590 mm,1600 mm,910 mm,520 mm,810 mm,485 mm,1750 mm,1475 mm
+Kia K2900 Double Cab 2.9 TCI 125KM 92kW 2003-2009,k2900,double-cab,silnik-diesla-2.9-tci-125km-2003-2009,od 2003 do 2009 roku,2902 cm³,diesel,125 , (92 ,) przy 3800 obr/min,245 , przy 1500-3250 obr/min,4,rzędowy,16,195/75 R15,tarczowe wentylowane,bębnowe
+Kia K2900 Single Cab 2.9 TCI 125KM 92kW 2003-2009,k2900,single-cab,silnik-diesla-2.9-tci-125km-2003-2009,2,5120 mm,1740 mm,1970 mm,2615 mm,1490 mm,1340 mm,1200 mm,1305 mm,3110 mm,1630 mm,355 mm,od 2003 do 2009 roku,2902 cm³
+Kia Cerato Hatchback,kia,cerato,hatchback,5,5,10.4 m,5.2 m,4340 mm,1735 mm,1470 mm,2610 mm,1495 mm,1495 mm,150 mm,1016 mm,986 mm,1400 mm
+Nissan GT-R Nismo 3.8 600KM 441kW 2014-2016,gt-r,nismo,silnik-benzynowy-3.8-600km-2014-2016,2,4,12.3 m,4680 mm,1895 mm,1370 mm,2780 mm,1600 mm,1600 mm,105 mm,910 mm,520 mm,810 mm,485 mm
+Nissan GT-R Nismo Facelifting 3.8 600KM 441kW od 2016,gt-r,nismo-facelifting,silnik-benzynowy-3.8-600km-od-2016,2,4,12.2 m,4690 mm,1895 mm,1370 mm,2780 mm,105 mm,320 l,795 mm,1470 mm,695 mm,840 mm,od 2016 roku
+Kia Carnival I,kia,carnival,i,5,7,13.0 m,6.5 m,4890 mm,1900 mm,1730 mm,2910 mm,1635 mm,1600 mm,2595 mm,1625 mm,1235 mm,1159 l
+Kia Carens III,kia,carens,iii,5,5,10.8 m,5.4 m,4545 mm,1820 mm,1700 mm,2700 mm,1573 mm,1569 mm,935 mm,910 mm,155 mm,74 l
+Kia Stonic Crossover,kia,stonic,crossover,5,5,10.4 m,5.2 m,4140 mm,1760 mm,1500 mm,1520 mm,2580 mm,830 mm,730 mm,183 mm,1135 l,332 l
+Kia XCeed Crossover,kia,xceed,crossover,5,5,10.6 m,5.3 m,4395 mm,1826 mm,1483 mm,1495 mm,2650 mm,1585 mm,1583 mm,905 mm,840 mm,172 mm
+Kia Stinger Liftback,kia,stinger,liftback,5,5,11.2 m,5.6 m,4831 mm,1869 mm,1400 mm,2906 mm,1596 mm,831 mm,1095 mm,130 mm,1001 mm,925 mm
+Nissan GT-R Coupe Facelifting 2016 3.8 570KM 419kW od 2016,gt-r,coupe-facelifting-2016,silnik-benzynowy-3.8-570km-od-2016,2,4,12.2 m,4710 mm,1895 mm,1370 mm,2780 mm,105 mm,840 l,320 l,od 2016 roku,3799 cm³,benzynowy,570 
+Kia K2900 King Cab 2.9 TCI 125KM 92kW 2003-2009,k2900,king-cab,silnik-diesla-2.9-tci-125km-2003-2009,od 2003 do 2009 roku,2902 cm³,diesel,125 , (92 ,) przy 3800 obr/min,245 , przy 1500-3250 obr/min,4,rzędowy,16,145/70 R13,tarczowe,bębnowe
+Kia Sportage II,kia,sportage,ii,5,5,10.6 m,5.3 m,4350 mm,1840 mm,1730 mm,2630 mm,1540 mm,1550 mm,880 mm,840 mm,195 mm,400 l
+Kia Proceed Shooting Brake Facelifting,kia,proceed,shooting-brake-facelifting,5,5,10.6 m,5.3 m,4605 mm,1800 mm,2055 mm,1422 mm,2650 mm,1555 mm,1563 mm,885 mm,1070 mm,134 mm
+Kia Sorento I,kia,sorento,i,5,5,11.0 m,4567 mm,1857 mm,1884 mm,1730 mm,1804 mm,2710 mm,1580 mm,1580 mm,203 mm,1008 mm,1003 mm
+Kia Proceed Shooting Brake,kia,proceed,shooting-brake,5,5,10.6 m,5.3 m,4605 mm,1800 mm,1422 mm,2650 mm,1559 mm,1567 mm,885 mm,1070 mm,130 mm,1545 l
+Kia Picanto I,kia,picanto,i,5,5,3495 mm,1595 mm,1480 mm,2370 mm,1400 mm,1385 mm,1003 mm,966 mm,1290 mm,1292 mm,1790 mm,1322 mm
+Kia Soul III,kia,soul,iii,5,5,10.6 m,5.3 m,4195 mm,1800 mm,1605 mm,2600 mm,1565 mm,1575 mm,865 mm,730 mm,155 mm,1013 mm
+Kia Stinger 2021,stinger,liftback-facelifting,silnik-benzynowy-3.3-t-gdi-366km-od-2020,5,5,11.4 m,5.7 m,4830 mm,1870 mm,1490 mm,2905 mm,1596 mm,1619 mm,830 mm,1095 mm,130 mm,406 l
+Jeep Cherokee II 1989,jeep,cherokee,ii,3,5,4200 mm,1760 mm,1630 mm,2000 mm,2575 mm,1448 mm,1448 mm,698 mm,926 mm,196 mm,196 mm,972 mm
+Kia XCeed Crossover 1.5 T-GDI 160KM 2021,xceed,phev,silnik-hybrydowy-1.6-gdi-plug-in-hybrid-141km-od-2020,5,5,4395 mm,1826 mm,1495 mm,2650 mm,1575 mm,1573 mm,905 mm,840 mm,172 mm,1243 l,291 l,od 2020 roku
+Jeep Grand Cherokee I 1995,jeep,grand-cherokee,i,5,5,4550 mm,1800 mm,1645 mm,2690 mm,1473 mm,1473 mm,300 mm,970 mm,975 mm,1440 mm,1400 mm,1170 mm
+Jeep Grand Cherokee II 2000,jeep,grand-cherokee,ii,5,5,11.6 m,5.8 m,4610 mm,1836 mm,1763 mm,2690 mm,1511 mm,1511 mm,210 mm,875 mm,923 mm,315 mm
+Jeep Renegade SUV,jeep,renegade,suv,5,5,10.7 m,5.3 m,4232 mm,1804 mm,1667 mm,2570 mm,1540 mm,1540 mm,175 mm,198 mm,1297 l,270 l
+Jeep Renegade SUV Facelifting,jeep,renegade,suv-facelifting,5,5,11.7 m,4236 mm,1805 mm,1667 mm,2570 mm,1540 mm,1540 mm,175 mm,198 mm,351 l,17.9 °,21.2 °
+Jeep Cherokee II 1989,cherokee,i,silnik-benzynowy-4.0-173km-1974-1983,5,5,4661 mm,1920 mm,1699 mm,2761 mm,1509 mm,1468 mm,196 mm,965 mm,945 mm,1481 mm,1481 mm,38.0 °
+Jeep Cherokee IV 2.8 CRD 200KM 147kW 2008-2013,cherokee,iv,silnik-diesla-2.8-crd-200km-2008-2013,5,5,4493 mm,2096 mm,1804 mm,2694 mm,1549 mm,1549 mm,744 mm,1055 mm,198 mm,198 mm,1036 mm,1025 mm
+Jeep Wrangler I,jeep,wrangler,i,2,4,3859 mm,1676 mm,1735 mm,2373 mm,1473 mm,1473 mm,1022 mm,1028 mm,1348 mm,1430 mm,1223 l,354 l
+Jeep Renegade 2022,jeep,renegade,suv-seria-7,5,5,11.0 m,5.5 m,4236 mm,1805 mm,1667 mm,2570 mm,1541 mm,1541 mm,166 mm,175 mm,1297 l,351 l
+Jeep Wrangler II,jeep,wrangler,ii,2,4,3883 mm,1693 mm,1740 mm,1782 mm,2373 mm,1473 mm,1473 mm,205 mm,1000 mm,925 mm,1045 l,252 l
+Jeep Wagoneer II 5.2 220KM 162kW 1992-1993,wagoneer,ii,silnik-benzynowy-5.2-220km-1992-1993,5,4200 mm,1790 mm,1615 mm,2576 mm,1448 mm,1448 mm,205 mm,972 mm,965 mm,1404 mm,1404 mm,2016 l,994 l
+Jeep Patriot SUV Facelifting 2.2 CRD 163KM 120kW od 2011,patriot,suv-facelifting,silnik-diesla-2.2-crd-163km-2011-2016,5,5,10.8 m,4424 mm,1808 mm,1667 mm,1712 mm,2635 mm,1520 mm,1520 mm,895 mm,893 mm,205 mm,1032 mm
+Mitsubishi Sigma Sedan,mitsubishi,sigma,sedan,4,5,4750 mm,1775 mm,1435 mm,2720 mm,1535 mm,1530 mm,965 mm,1060 mm,155 mm,1430 mm,1440 mm,1430 mm
+Mitsubishi Sapporo I,mitsubishi,sapporo,i,2,5,4430 mm,1675 mm,1345 mm,2515 mm,1370 mm,1355 mm,890 mm,1025 mm,160 mm,485 mm,450 mm,1705 mm
+Mitsubishi Sigma Kombi 3.0 V6 177KM 130kW 1993-1996,sigma,kombi,silnik-benzynowy-3.0-v6-177km-1993-1996,5,5,4800 mm,1775 mm,1505 mm,2720 mm,1535 mm,1505 mm,737 l,428 l,od 1993 do 1996 roku,2972 cm³,benzynowy,177 
+Mitsubishi Lancer Evolution X 2014,mitsubishi,lancer-evolution,viii,4,5,4490 mm,1770 mm,1450 mm,2625 mm,1500 mm,1500 mm,140 mm,1030 mm,490 mm,885 mm,460 mm,1880 mm
+Mitsubishi Lancer Evolution I 2.0 Turbo 250KM 184kW 1991-1994,lancer-evolution,i,silnik-benzynowy-2.0-turbo-250km-1991-1994,4,5,4310 mm,1695 mm,1395 mm,2500 mm,1450 mm,1460 mm,150 mm,od 1991 do 1994 roku,1997 cm³,benzynowy,250 , (184 
+Mitsubishi Lancer Evolution II 2.0 Turbo 260KM 191kW 1994-1995,lancer-evolution,ii,silnik-benzynowy-2.0-turbo-260km-1994-1995,4,5,4310 mm,1695 mm,1420 mm,2510 mm,1465 mm,1470 mm,175 mm,od 1994 do 1995 roku,1997 cm³,benzynowy,260 , (191 
+Mitsubishi Lancer Evolution V 2.0 Turbo 280KM 206kW 1998-1999,lancer-evolution,v,silnik-benzynowy-2.0-turbo-280km-1998-1999,4,5,4350 mm,1770 mm,1415 mm,2510 mm,1510 mm,1505 mm,150 mm,995 mm,865 mm,1805 mm,1430 mm,1175 mm
+Mitsubishi Lancer Evolution VI 2.0 Turbo 280KM 206kW 1999-2001,lancer-evolution,vi,silnik-benzynowy-2.0-turbo-280km-1999-2001,4,5,4350 mm,1770 mm,1415 mm,2510 mm,1510 mm,1505 mm,150 mm,od 1999 do 2001 roku,1997 cm³,benzynowy,280 , (206 
+Mitsubishi Lancer Evolution III 2.0 Turbo 270KM 199kW 1995-1996,lancer-evolution,iii,silnik-benzynowy-2.0-turbo-270km-1995-1996,4,5,4310 mm,1695 mm,1420 mm,2510 mm,1465 mm,1470 mm,175 mm,od 1995 do 1996 roku,1997 cm³,benzynowy,270 , (199 
+Mitsubishi Lancer Evolution IV 2.0 Turbo 280KM 206kW 1996-1998,lancer-evolution,iv,silnik-benzynowy-2.0-turbo-280km-1996-1998,4,5,4330 mm,1690 mm,1415 mm,2510 mm,1470 mm,1470 mm,155 mm,od 1996 do 1998 roku,1997 cm³,benzynowy,280 , (206 
+Mitsubishi Lancer Evolution VII 2.0 Turbo 280KM 206kW 2001-2003,lancer-evolution,vii,silnik-benzynowy-2.0-turbo-280km-2001-2003,4,5,4455 mm,1770 mm,1450 mm,2625 mm,1515 mm,1515 mm,140 mm,1010 mm,485 mm,885 mm,470 mm,1880 mm
+Mitsubishi Galant III,mitsubishi,galant,iii,4,5,4330 mm,1655 mm,1355 mm,2515 mm,1350 mm,1340 mm,780 mm,1035 mm,165 mm,925 mm,475 mm,230 mm
+Mitsubishi Pajero Pinin,mitsubishi,pajero,pinin,5,5,10.8 m,5.4 m,4035 mm,1695 mm,1700 mm,1735 mm,2450 mm,1435 mm,1445 mm,755 mm,830 mm,200 mm
+Mitsubishi Pajero Sport I,mitsubishi,pajero-sport,i,5,5,11.5 m,5.8 m,4610 mm,1695 mm,1720 mm,2725 mm,1420 mm,1435 mm,830 mm,1055 mm,205 mm,220 mm
+Mitsubishi Lancer VIII Sedan 1.6 i 16V 98KM 2004,mitsubishi,lancer,i,4,4105 mm,1545 mm,1355 mm,2340 mm,1285 mm,1255 mm,775 mm,990 mm,915 mm,475 mm,880 mm,445 mm,1690 mm
+Mitsubishi Pajero III,mitsubishi,pajero,iii,3,5,5.3 m,10.6 m,4610 mm,1775 mm,1735 mm,2725 mm,1465 mm,1480 mm,710 mm,1025 mm,215 mm,1253 l
+Mitsubishi Lancer II,mitsubishi,lancer,ii,4,5,4225 mm,1620 mm,1385 mm,2440 mm,1335 mm,1325 mm,750 mm,1035 mm,165 mm,470 mm,460 mm,1750 mm
+Mitsubishi Lancer Evolution IX 2.0 Turbo 280KM 206kW 2005-2007,lancer-evolution,ix,silnik-benzynowy-2.0-turbo-280km-2005-2007,4,5,4490 mm,1770 mm,1450 mm,2625 mm,1515 mm,1515 mm,140 mm,od 2005 do 2007 roku,1997 cm³,benzynowy,280 , (206 
+Mitsubishi Sapporo II,mitsubishi,sapporo,ii,2,5,4525 mm,1675 mm,1355 mm,2530 mm,1375 mm,1385 mm,915 mm,1080 mm,155 mm,995 mm,480 mm,880 mm
+Mitsubishi Sapporo III 2.3 124KM 91kW 1987-1990,sapporo,iii,silnik-benzynowy-2.3-124km-1987-1990,4,5,4670 mm,1700 mm,1380 mm,2610 mm,od 1987 do 1990 roku,2351 cm³,benzynowy,124 , (91 ,) przy 5000 obr/min,189 , przy 3500 obr/min
+Mitsubishi Space Star Hatchback 5d Facelifting,mitsubishi,space-star,hatchback-5d-facelifting,5,5,9.2 m,4.6 m,3795 mm,1665 mm,1505 mm,2450 mm,1430 mm,1415 mm,745 mm,600 mm,150 mm,912 l
+Mitsubishi Eclipse Cross SUV PHEV 2.4 188KM 2021,mitsubishi,eclipse-cross,suv,5,5,10.6 m,5.3 m,4405 mm,1805 mm,1685 mm,2670 mm,1545 mm,1545 mm,183 mm,341 l,18.8 °,29.6 °
+Mitsubishi ASX SUV 1.8 DID MIVEC 116KM 2011,mitsubishi,asx,suv,5,5,10.6 m,5.3 m,4295 mm,1770 mm,1615 mm,1625 mm,2670 mm,1525 mm,1525 mm,195 mm,1193 l,419 l
+Mitsubishi Outlander I 2.0 i 16V 136KM 2006,mitsubishi,outlander,ii,5,5,11.5 m,5.8 m,4665 mm,1800 mm,1680 mm,1720 mm,2670 mm,1540 mm,1540 mm,990 mm,1005 mm,176 mm
+Mercedes Viano Van,mercedes,viano,van,4,8,12.6 m,6.3 m,4748 mm,1901 mm,2258 mm,2010 mm,1872 mm,3200 mm,783 mm,145 mm,970 l,518 mm
+Mercedes Viano Van Facelifting,mercedes,viano,van-facelifting,5,8,11.0 m,4763 mm,1901 mm,2253 mm,1875 mm,1923 mm,3200 mm,1338 mm,1196 mm,1428 mm,1405 mm,2409 mm
+Mercedes W123 Sedan,mercedes,w123,sedan,4,5,4725 mm,1786 mm,1438 mm,2795 mm,1488 mm,1446 mm,165 mm,484 mm,973 mm,652 mm,948 mm,1476 mm
+Mitsubishi Diamante II,mitsubishi,diamante,ii,4,5,4785 mm,1785 mm,1435 mm,2720 mm,1535 mm,1545 mm,920 mm,1070 mm,165 mm,990 mm,505 mm,900 mm
+Mitsubishi Eclipse Cross SUV PHEV 2.4 188KM 138kW od 2021,eclipse-cross,suv-phev,silnik-hybrydowy-2.4-188km-od-2021,5,5,10.6 m,5.3 m,4545 mm,1805 mm,2166 mm,1685 mm,2670 mm,1540 mm,1540 mm,990 mm,885 mm,184 mm
+Mitsubishi Outlander I,mitsubishi,outlander,i,5,5,11.4 m,5.7 m,4550 mm,1780 mm,1605 mm,1685 mm,2625 mm,1495 mm,1505 mm,170 mm,1000 mm,495 mm
+Mitsubishi Carisma Hatchback,mitsubishi,carisma,hatchback,5,5,11.6 m,5.8 m,4475 mm,1710 mm,1405 mm,2550 mm,1475 mm,1470 mm,905 mm,1020 mm,155 mm,660 l
+Mercedes W123 Sedan 3.0 D 88KM 1978,mercedes,w123,kombi,5,5,4725 mm,1786 mm,1470 mm,2795 mm,1488 mm,1453 mm,975 mm,952 mm,1422 mm,1410 mm,1476 mm,1481 mm
+Mercedes W124 Sedan 2.5 D 94KM 1991,mercedes,w124,coupe,2,4,5.8 m,11.7 m,4655 mm,1740 mm,1395 mm,2715 mm,1501 mm,1491 mm,815 mm,1125 mm,484 mm,952 mm
+Mercedes W124 Kombi,mercedes,w124,kombi,5,5,11.2 m,5.6 m,4765 mm,1740 mm,1460 mm,1490 mm,2800 mm,1497 mm,1488 mm,815 mm,1150 mm,145 mm
+Mercedes W124 Cabrio,mercedes,w124,cabrio,2,5,4655 mm,1740 mm,1391 mm,2715 mm,1501 mm,1491 mm,815 mm,1125 mm,484 mm,954 mm,490 mm,598 mm
+Mercedes W124 Sedan,mercedes,w124,sedan,4,5,11.2 m,5.6 m,4740 mm,1740 mm,1431 mm,2800 mm,1501 mm,1491 mm,815 mm,1125 mm,150 mm,482 mm
+Mitsubishi ASX SUV Facelifting,mitsubishi,asx,suv-facelifting,5,5,10.6 m,5.3 m,4295 mm,1770 mm,1615 mm,2670 mm,1525 mm,1530 mm,195 mm,495 mm,455 mm,1169 l
+Mercedes W124 Coupe AMG 3.6 AMG 272KM 200kW 1993-1996,w124,coupe-amg,silnik-benzynowy-3.6-amg-272km-1993-1996,2,4,5.8 m,11.7 m,4655 mm,1740 mm,1395 mm,2715 mm,1501 mm,1491 mm,815 mm,1125 mm,484 mm,952 mm
+Mitsubishi 3000GT I,mitsubishi,3000gt,i,2,4,4544 mm,1839 mm,1285 mm,2470 mm,1560 mm,1580 mm,145 mm,910 mm,500 mm,945 mm,1510 mm,1076 mm
+Mitsubishi ASX SUV Facelifting 2015,mitsubishi,asx,suv-facelifting-2015,5,5,5.3 m,4295 mm,1770 mm,2080 mm,1615 mm,1625 mm,2670 mm,1525 mm,1530 mm,195 mm,180 mm,495 mm
+Mercedes W124 Cabrio AMG 3.4 AMG 252KM 185kW 1992-1997,w124,cabrio-amg,silnik-benzynowy-3.4-amg-252km-1992-1997,2,5,4655 mm,1740 mm,1391 mm,2715 mm,1501 mm,1491 mm,815 mm,1125 mm,484 mm,954 mm,490 mm,598 mm
+Mitsubishi ASX SUV Facelifting 2016 1.6 117KM 2019,mitsubishi,asx,suv-facelifting-2016,5,5,10.6 m,5.3 m,4355 mm,1770 mm,2080 mm,1640 mm,2670 mm,1525 mm,1530 mm,190 mm,180 mm,1219 l
+Mercedes W124 Kombi AMG 3.6 AMG 272KM 200kW 1993-1996,w124,kombi-amg,silnik-benzynowy-3.6-amg-272km-1993-1996,5,5,11.2 m,5.6 m,4765 mm,1740 mm,1460 mm,1490 mm,2800 mm,1497 mm,1488 mm,815 mm,1150 mm,145 mm
+Mitsubishi ASX SUV Facelifting 2019 2.0 150KM 110kW 2019-2021,asx,suv-facelifting-2019,silnik-benzynowy-2.0-150km-2019-2021,5,5,10.6 m,5.3 m,4365 mm,1770 mm,2080 mm,1640 mm,2670 mm,1525 mm,1530 mm,190 mm,406 l,20.1 °
+Mitsubishi Colt I,mitsubishi,colt,i,2,9.8 m,3995 mm,1535 mm,1360 mm,2340 mm,1285 mm,1255 mm,735 mm,920 mm,165 mm,930 mm,460 mm,890 mm
+Mercedes W124 Sedan AMG 6.0 AMG 381KM 280kW 1993-1994,w124,sedan-amg,silnik-benzynowy-6.0-amg-381km-1993-1994,4,5,11.2 m,5.6 m,4740 mm,1740 mm,1431 mm,2800 mm,1501 mm,1491 mm,815 mm,1125 mm,150 mm,482 mm
+Mitsubishi L200 VI 2.2 Diesel 150KM 2021,l200,vi,silnik-diesla-2.2-diesel-150km-od-2019,4,5,11.8 m,5.9 m,5225 mm,5305 mm,1815 mm,1775 mm,3000 mm,1520 mm,1515 mm,885 mm,1340 mm,205 mm
+Mitsubishi Colt III,mitsubishi,colt,iii,3,5,3950 mm,1670 mm,1380 mm,2385 mm,1430 mm,1430 mm,825 mm,680 mm,155 mm,1415 mm,1050 l,222 l
+Mercedes Strich 8 Sedan W114,mercedes,strich-8,sedan-w114,4,5,10.9 m,4680 mm,1790 mm,3410 mm,1440 mm,1540 mm,1830 mm,2750 mm,1448 mm,1440 mm,775 mm,1155 mm
+Mercedes SLS AMG Coupe,mercedes,sls-amg,coupe,2,2,11.9 m,4638 mm,1939 mm,2297 mm,2078 mm,2664 mm,1262 mm,2680 mm,1682 mm,1651 mm,942 mm,1016 mm
+Mercedes Klasa R Off-roader 3.5 272KM 2006,mercedes,klasa-r,off-roader,5,6,12.4 m,6.2 m,4922 mm,1922 mm,2168 mm,1659 mm,2980 mm,1665 mm,1658 mm,922 mm,1020 mm,200 mm
+Mercedes SLR McLaren Cabrio 5.4 i V8 24V Turbo 626KM 460kW od 2007,slr-mclaren,cabrio,silnik-benzynowy-5.4-i-v8-24v-turbo-626km-2007-2009,2,2,4656 mm,1908 mm,1903 mm,1261 mm,2700 mm,1638 mm,1569 mm,966 mm,990 mm,919 mm,1371 mm,1443 mm
+Mercedes GLK Off-roader 3.0 320 CDI 4MATIC 224KM 2009,mercedes,glk,off-roader,5,5,11.5 m,4525 mm,1840 mm,2016 mm,1683 mm,1698 mm,1689 mm,2755 mm,1567 mm,1588 mm,813 mm,957 mm
+Mercedes SLC Roadster,mercedes,slc,roadster,2,2,10.5 m,5.8 m,4133 mm,1810 mm,2006 mm,1301 mm,2430 mm,1559 mm,1565 mm,870 mm,833 mm,115 mm
+Mercedes SLR McLaren Coupe 5.4 i V8 24V Turbo 626KM 460kW 2003-2016,slr-mclaren,coupe,silnik-benzynowy-5.4-i-v8-24v-turbo-626km-2003-2016,2,2,4656 mm,1908 mm,1281 mm,2700 mm,1638 mm,1569 mm,966 mm,990 mm,874 mm,1443 mm,1371 mm,272 l
+Mercedes GLK Off-roader Facelifting,mercedes,glk,off-roader-facelifting,5,5,11.6 m,4536 mm,1840 mm,2016 mm,1669 mm,2755 mm,1674 mm,1597 mm,824 mm,957 mm,448 mm,1010 mm
+Mercedes SLC Roadster AMG 3.0 43 AMG 367KM 270kW 2015-2019,slc,roadster-amg,silnik-benzynowy-3.0-43-amg-367km-2015-2019,2,2,10.5 m,5.8 m,4133 mm,1810 mm,2006 mm,1301 mm,2430 mm,1559 mm,1565 mm,870 mm,833 mm,115 mm
+Mercedes SLS AMG Roadster,mercedes,sls-amg,roadster,2,2,11.9 m,4638 mm,1939 mm,2075 mm,1261 mm,2680 mm,1682 mm,1651 mm,942 mm,1016 mm,488 mm,965 mm
+Mercedes SLC Roadster Facelifting,mercedes,slc,roadster-facelifting,2,2,10.5 m,5.2 m,4133 mm,1810 mm,2006 mm,1301 mm,2430 mm,1559 mm,1565 mm,870 mm,833 mm,115 mm
+Mercedes Klasa R Off-roader długi Facelifting 350 CDI BlueTEC 4MATIC 211KM 2012,mercedes,klasa-r,off-roader-facelifting,5,5,4922 mm,1922 mm,2183 mm,1674 mm,2980 mm,1661 mm,1651 mm,922 mm,1020 mm,469 mm,1010 mm,510 mm
+Mercedes Strich 8 Coupe W114,mercedes,strich-8,coupe-w114,2,5,10.9 m,4680 mm,1790 mm,3750 mm,1395 mm,1540 mm,1835 mm,2750 mm,1449 mm,1440 mm,775 mm,1155 mm
+Mercedes MB-100 I 2.4 D 72KM 53kW 1989-1992,mb-100,i,silnik-diesla-2.4-d-72km-1989-1992,4,4470 mm,1810 mm,2060 mm,2450 mm,1520 mm,1510 mm,1310 mm,1415 mm,1145 mm,1415 mm,2710 mm,1640 mm,1495 mm
+Mercedes SLC Roadster 2.0 200 184KM 2017,slc,roadster-amg-facelifting,silnik-benzynowy-3.0-43-amg-390km-2016-2020,2,2,10.5 m,5.2 m,4133 mm,1810 mm,2006 mm,1301 mm,2430 mm,1559 mm,1565 mm,870 mm,833 mm,115 mm
+Mercedes Klasa R Off-roader AMG 63 AMG 510KM 375kW 2006-2010,klasa-r,off-roader-amg,silnik-benzynowy-63-amg-510km-2006-2010,5,6,11.4 m,6.2 m,4922 mm,1922 mm,2168 mm,1659 mm,2980 mm,1665 mm,1658 mm,922 mm,1020 mm,200 mm
+Mercedes MB-100 II 2.4 D 75KM 55kW 1991-1995,mb-100,ii,silnik-diesla-2.4-d-75km-1991-1995,4,5340 mm,1855 mm,2105 mm,2480 mm,1520 mm,1520 mm,1360 mm,1300 mm,495 mm,1430 mm,1590 mm,1072 mm,3290 mm
+Mercedes Vito W638,mercedes,vito,w638,4,6,4660 mm,1880 mm,2180 mm,1844 mm,3000 mm,1620 mm,1630 mm,809 mm,849 mm,512 mm,1036 mm,1050 mm
+Mercedes Sprinter I,mercedes,sprinter,i,5,9,5585 mm,1933 mm,2435 mm,3550 mm,1638 mm,1630 mm,882 mm,1005 mm,189 mm,565 mm,23.0 °,16.0 °
+Mercedes Klasa B W245,mercedes,klasa-b,w245,5,5,11.9 m,6.0 m,4270 mm,1777 mm,1975 mm,1603 mm,2778 mm,1556 mm,1551 mm,842 mm,650 mm,119 mm
+Mercedes Klasa A W168,mercedes,klasa-a,w168,5,5,10.2 m,5.1 m,3575 mm,1719 mm,1575 mm,2423 mm,1503 mm,1452 mm,575 mm,577 mm,92 mm,528 mm
+Mercedes Klasa V W639,mercedes,klasa-v,w639,4,6,4660 mm,1880 mm,2180 mm,1844 mm,3000 mm,1620 mm,1630 mm,809 mm,849 mm,512 mm,1036 mm,1050 mm
+Mercedes Klasa G W461,mercedes,klasa-g,w461,3,5,4662 mm,1760 mm,2007 mm,1931 mm,2116 mm,2850 mm,1475 mm,1475 mm,783 mm,820 mm,205 mm,460 mm
+Mercedes Maybach S II,mercedes,maybach-s,ii,4,4,12.4 m,6.2 m,5469 mm,1921 mm,2109 mm,1510 mm,3396 mm,1655 mm,1683 mm,877 mm,1196 mm,130 mm
+"Mercedes Klasa S W126 Sedan 3.8 SE,SEL 218KM 1980",mercedes,klasa-s,w116,4,5,4960 mm,1870 mm,3530 mm,1425 mm,1610 mm,1970 mm,2865 mm,1525 mm,1505 mm,945 mm,1250 mm,140 mm
+Land Rover Range Rover Sport I,land-rover,range-rover-sport,i,5,5,11.5 m,5.8 m,4783 mm,2158 mm,2004 mm,1789 mm,2745 mm,1605 mm,1612 mm,172 mm,227 mm,977 mm
+Mercedes EQV A2,mercedes,eqv,a2,5,8,12.5 m,6.2 m,5140 mm,1925 mm,1880 mm,3200 mm,895 mm,1045 mm,145 mm,1030 l,14.7 °,11.5 °
+Land Rover Freelander II,land-rover,freelander,ii,5,11.3 m,4500 mm,2195 mm,2005 mm,1740 mm,1830 mm,1765 mm,2660 mm,1611 mm,1624 mm,210 mm,990 mm,1020 mm
+Land Rover Range Rover Velar SUV,land-rover,range-rover-velar,suv,5,5,11.6 m,5.8 m,4803 mm,2145 mm,2032 mm,1660 mm,1657 mm,1685 mm,2874 mm,1640 mm,1657 mm,970 mm
+Mercedes GLB SUV 1.3 180 136KM 2022,glb,suv-amg,silnik-benzynowy-35-2.0-306km-od-2019,5,5,11.8 m,4634 mm,1834 mm,2020 mm,1658 mm,2829 mm,1605 mm,1606 mm,905 mm,900 mm,220 mm,1805 l
+Mercedes EQV A3,mercedes,eqv,a3,5,8,12.5 m,6.2 m,5370 mm,1925 mm,1880 mm,3430 mm,895 mm,1045 mm,145 mm,1410 l,14.7 °,10.2 °
+Mercedes GLC C253 SUV Facelifting 2.0 200d 163KM 2022,mercedes,glc,x254,5,5,11.0 m,5.5 m,4716 mm,1890 mm,2075 mm,1640 mm,2888 mm,1627 mm,1640 mm,180 mm,1640 l,620 l
+Land Rover Range Rover III,land-rover,range-rover,iii,5,5,12.6 m,6.3 m,4972 mm,2216 mm,2034 mm,1877 mm,2880 mm,1629 mm,1625 mm,231 mm,283 mm,997 mm
+Land Rover Range Rover Velar SUV 2.0 204KM 2021,range-rover-velar,suv-phev,silnik-hybrydowy-2.0-404km-od-2020,5,5,11.6 m,4803 mm,2145 mm,2032 mm,1660 mm,1685 mm,2874 mm,1640 mm,1657 mm,970 mm,945 mm,966 mm
+Land Rover Discovery III 2007,land-rover,discovery,ii,5,7,4520 mm,1795 mm,1883 mm,2540 mm,1540 mm,1560 mm,253 mm,1012 mm,1019 mm,1481 mm,1455 mm,1993 l
+Land Rover Discovery IV 3.0 D 255KM 2015,land-rover,discovery,iv,5,5,11.4 m,4829 mm,2176 mm,2022 mm,1837 mm,1841 mm,1888 mm,2885 mm,1605 mm,1612 mm,310 mm,1078 mm
+Mercedes GLB SUV,mercedes,glb,suv,5,5,11.8 m,5.8 m,4634 mm,1834 mm,2020 mm,1658 mm,2829 mm,1605 mm,1606 mm,905 mm,900 mm,220 mm
+Land Rover Discovery Sport SUV Facelifting,land-rover,discovery-sport,suv-facelifting,5,5,11.8 m,5.9 m,4597 mm,2069 mm,2173 mm,2069 mm,1727 mm,2741 mm,1625 mm,1623 mm,901 mm,955 mm
+Mercedes EQS Limuzyna,mercedes,eqs,limuzyna,4,5,11.9 m,6.0 m,5216 mm,1926 mm,2125 mm,1926 mm,1512 mm,3210 mm,1667 mm,1682 mm,915 mm,1091 mm
+Land Rover Discovery III,land-rover,discovery,iii,5,7,12.1 m,6.0 m,4835 mm,1915 mm,2190 mm,2009 mm,1887 mm,2885 mm,1605 mm,1612 mm,158 mm,250 mm
+Mercedes EQS Limuzyna AMG 53 AMG 658KM 484kW od 2021,eqs,limuzyna-amg,silnik-elektryczny-53-amg-658km-od-2021,5,5,12.1 m,5223 mm,1926 mm,2125 mm,1520 mm,3210 mm,1660 mm,1653 mm,922 mm,1091 mm,139 mm,1770 l
+Land Rover Discovery Sport SUV 2.0 eD4 150KM 2016,land-rover,discovery-sport,suv,5,5,11.6 m,5.8 m,4599 mm,2069 mm,2173 mm,1724 mm,2741 mm,1621 mm,1630 mm,212 mm,212 mm,1021 mm
+Land Rover Discovery Sport SUV Facelifting 2.0 P I4 200KM 2021,discovery-sport,suv-hybrid,silnik-hybrydowy-1.5-p300e-309km-od-2020,5,5,11.8 m,4597 mm,2173 mm,2069 mm,1727 mm,2741 mm,1625 mm,1630 mm,901 mm,955 mm,212 mm,1698 l
+Mercedes AMG GT Coupe,mercedes,amg-gt,coupe,2,2,4546 mm,1939 mm,2075 mm,1288 mm,2630 mm,1680 mm,1651 mm,900 mm,1016 mm,380 mm,1003 mm,538 mm
+Opel Meriva I,opel,meriva,i,5,5,10.8 m,5.4 m,4042 mm,1694 mm,1948 mm,1624 mm,2630 mm,1449 mm,1464 mm,165 mm,1410 l,350 l
+Opel Kapitan I 2.5 55KM 40kW 1938-1940,kapitan,i,silnik-benzynowy-2.5-55km-1938-1940,4,4630 mm,1670 mm,1600 mm,2700 mm,od 1938 do 1940 roku,benzynowy,55 , (40 ,),manualna,3,na tylną oś,118 km/h
+Opel Kapitan V 2.5 75KM 55kW 1955-1958,kapitan,v,silnik-benzynowy-2.5-75km-1955-1958,4,5,4735 mm,1760 mm,1512 mm,2750 mm,200 mm,380 mm,845 mm,1180 mm,909 mm,470 mm,735 mm,886 mm
+Mercedes AMG GT Roadster,mercedes,amg-gt,roadster,2,2,11.5 m,4544 mm,1939 mm,2075 mm,1259 mm,2630 mm,1684 mm,1651 mm,898 mm,1016 mm,94 mm,380 mm
+Mercedes AMG GT Roadster Facelifting,mercedes,amg-gt,roadster-facelifting,2,2,11.5 m,4544 mm,1939 mm,2075 mm,1259 mm,2630 mm,1684 mm,1651 mm,898 mm,1016 mm,94 mm,165 l
+Mercedes AMG GT Coupe 4d 3.0 43 367KM 2021,mercedes,amg-gt,coupe-4d-facelifting,5,4,12.6 m,6.3 m,5054 mm,1953 mm,2069 mm,1455 mm,2951 mm,1673 mm,1666 mm,911 mm,1192 mm,116 mm
+Mercedes AMG GT Coupe 4d Plug-In 4.0 63S E PHEV 843KM 620kW od 2021,amg-gt,coupe-4d-plug-in,silnik-hybrydowy-4.0-63s-e-phev-843km-od-2021,4,4,12.3 m,6.2 m,5054 mm,1953 mm,2069 mm,1455 mm,2951 mm,1673 mm,1666 mm,911 mm,1192 mm,122 mm
+Opel Agila A,opel,agila,a,5,4,9.8 m,4.9 m,3500 mm,1620 mm,1695 mm,2360 mm,1420 mm,1385 mm,135 mm,595 l,250 l,1400 mm
+Opel Zafira A,opel,zafira,a,5,5,10.9 m,5.5 m,4317 mm,4518 mm,1742 mm,1999 mm,1630 mm,1684 mm,2694 mm,1487 mm,1470 mm,124 mm
+Opel Movano I,opel,movano,i,4,3,5388 mm,1990 mm,2359 mm,2480 mm,3578 mm,1740 mm,1725 mm,851 mm,959 mm,528 mm,1516 mm,1632 mm
+Opel GT I,opel,gt,i,2,4,4110 mm,1580 mm,1230 mm,2431 mm,1254 mm,1278 mm,570 mm,760 mm,570 mm,400 mm,900 mm,1270 mm
+Opel Zafira B 1.9 CDTI ECOTEC 120KM 2010,opel,zafira,b,5,7,11.1 m,5.5 m,4467 mm,1801 mm,2026 mm,1801 mm,1645 mm,1670 mm,2703 mm,1488 mm,1510 mm,150 mm
+Opel Agila B,opel,agila,b,5,19.2 m,9.6 m,3740 mm,1680 mm,1932 mm,1680 mm,1590 mm,2360 mm,1470 mm,1480 mm,1050 l,225 l,1004 mm
+Opel Antara SUV Facelifting,opel,antara,suv-facelifting,5,5,12.2 m,6.1 m,4596 mm,1850 mm,2085 mm,1761 mm,2707 mm,1569 mm,1576 mm,946 mm,943 mm,155 mm
+Opel Adam Hatchback,opel,adam,hatchback,3,4,9.8 m,3698 mm,1720 mm,1966 mm,1484 mm,2311 mm,1472 mm,1464 mm,190 mm,663 l,170 l,954 mm
+Opel Antara 2007,opel,antara,suv,5,5,11.8 m,5.9 m,4575 mm,1850 mm,2085 mm,1850 mm,1704 mm,1761 mm,2707 mm,1562 mm,1572 mm,200 mm
+Opel Adam Hatchback Rocks,opel,adam,hatchback-rocks,3,4,10.2 m,5.1 m,3747 mm,1720 mm,1966 mm,1493 mm,2311 mm,1472 mm,1464 mm,140 mm,663 l,170 l
+Opel Adam Hatchback 1.2 70KM 2015,adam,hatchback-s,silnik-benzynowy-1.4-ecotec-150km-2015-2019,3,5,10.2 m,3708 mm,1720 mm,1966 mm,1484 mm,2311 mm,1472 mm,1464 mm,175 mm,663 l,170 l,954 mm
+Opel GT II 2.0 turbo ECOTEC 264KM 194kW 2006-2009,gt,ii,silnik-benzynowy-2.0-turbo-ecotec-264km-2006-2009,2,2,10.0 m,5.0 m,4100 mm,1813 mm,1274 mm,2415 mm,1543 mm,1561 mm,125 mm,153 l,66 l,od 2006 do 2009 roku
+Peugeot 807 Minivan,peugeot,807,minivan,5,7,12.3 m,6.2 m,4727 mm,1850 mm,2194 mm,1759 mm,1880 mm,2825 mm,140 mm,1680 mm,1686 mm,1530 mm
+Opel Combo B,opel,combo,b,3,2,4230 mm,1686 mm,1853 mm,2480 mm,1380 mm,1310 mm,720 mm,1030 mm,630 mm,1427 mm,1142 mm,1788 mm
+Peugeot 505 Kombi,peugeot,505,kombi,5,5,4898 mm,1730 mm,1540 mm,2900 mm,1470 mm,1400 mm,773 mm,1225 mm,2240 l,1120 l,1155 mm,825 mm
+Opel Corsa C,opel,corsa,c,5,5,9.9 m,5.0 m,3839 mm,1646 mm,1955 mm,1440 mm,2491 mm,1429 mm,1420 mm,135 mm,460 l,260 l
+Peugeot 807 Tepee,peugeot,807,tepee,5,7,12.1 m,6.0 m,4727 mm,1854 mm,2194 mm,1752 mm,1880 mm,2823 mm,1570 mm,1548 mm,1013 mm,891 mm
+Peugeot 407 Sedan,peugeot,407,sedan,4,5,12.2 m,6.1 m,4676 mm,1811 mm,1447 mm,2725 mm,1552 mm,1518 mm,1029 mm,922 mm,156 mm,1467 l
+Peugeot 407 SW 2.0 16V 136KM 2005,peugeot,407,coupe,2,4,10.8 m,5.4 m,4815 mm,1868 mm,1395 mm,2724 mm,1571 mm,1567 mm,1084 mm,1007 mm,120 mm,466 l
+Peugeot 407 SW 1.6 HDi FAP 109KM 2004,peugeot,407,sw,5,5,12.1 m,6.0 m,4763 mm,1811 mm,1486 mm,2725 mm,1554 mm,1510 mm,1029 mm,1009 mm,140 mm,876 mm
+Peugeot 406 Kombi,peugeot,406,kombi,5,5,10.8 m,5.4 m,4740 mm,1760 mm,1455 mm,1505 mm,2700 mm,1500 mm,1480 mm,937 mm,1103 mm,130 mm
+Peugeot 206 Hatchback,peugeot,206,hatchback,5,5,10.2 m,5.1 m,3822 mm,1652 mm,1426 mm,2445 mm,1419 mm,1407 mm,776 mm,601 mm,144 mm,1130 l
+Peugeot 207 Hatchback 3d 1.6 THP 150KM 2007,peugeot,207,hatchback-5d,5,5,10.4 m,5.2 m,4045 mm,1772 mm,1972 mm,1472 mm,2540 mm,1475 mm,1469 mm,165 mm,751 l,337 l
+Peugeot 301 Sedan 1.6 VTi 115KM 2017,peugeot,301,sedan,4,5,4442 mm,1748 mm,1953 mm,1466 mm,2652 mm,816 mm,974 mm,465 mm,892 mm,801 mm,849 mm,1409 mm
+Peugeot 207 Hatchback 3d,peugeot,207,hatchback-3d,3,5,4030 mm,1720 mm,1472 mm,2540 mm,1474 mm,1469 mm,829 mm,661 mm,610 mm,635 mm,870 mm,899 mm
+Peugeot 301 Sedan Facelifting,peugeot,301,sedan-facelifting,4,5,10.6 m,5.3 m,4445 mm,1748 mm,1953 mm,1466 mm,2652 mm,1501 mm,1478 mm,819 mm,974 mm,130 mm
+Peugeot 207 SW,peugeot,207,sw,5,5,4156 mm,1748 mm,1972 mm,1555 mm,2540 mm,1475 mm,1468 mm,836 mm,780 mm,870 mm,888 mm,471 mm
+Peugeot 107 Hatchback 3d,peugeot,107,hatchback-3d,3,3430 mm,1630 mm,1855 mm,1470 mm,2340 mm,1415 mm,1405 mm,645 mm,445 mm,868 mm,843 mm,1377 mm,1336 mm
+Peugeot Partner I,peugeot,partner,i,4,5,4137 mm,1724 mm,1960 mm,1810 mm,2693 mm,1420 mm,1440 mm,836 mm,608 mm,570 mm,1340 mm,1160 mm
+Peugeot Traveller Compact,peugeot,traveller,compact,5,5,11.3 m,4606 mm,1920 mm,2204 mm,1890 mm,2925 mm,1627 mm,1600 mm,881 mm,803 mm,145 mm,165 mm
+Peugeot Rifter Long,peugeot,rifter,long,5,5,11.8 m,5.9 m,4753 mm,1848 mm,2107 mm,1921 mm,1840 mm,1881 mm,2975 mm,1553 mm,1567 mm,892 mm
+Peugeot Rifter Standard 1.5 BlueHDI 102KM 2018,peugeot,rifter,standard,5,5,10.9 m,5.5 m,4403 mm,1848 mm,2107 mm,1921 mm,1837 mm,1878 mm,2785 mm,1553 mm,1567 mm,892 mm
+Mazda Tribute I 2.0 16V 124KM 2003,tribute,ii,silnik-benzynowy-2.3-150km-2007-2011,5,5,4442 mm,1806 mm,1783 mm,2619 mm,220 mm,1712 l,841 l,od 2007 do 2011 roku,benzynowy,150 , (110 ,)
+Peugeot Traveller Long Business,peugeot,traveller,long-business,5,8,12.4 m,5308 mm,1920 mm,2204 mm,1890 mm,3275 mm,1627 mm,1600 mm,881 mm,1153 mm,145 mm,165 mm
+Peugeot Traveller Standard Business,peugeot,traveller,standard-business,5,8,12.4 m,4956 mm,1920 mm,2204 mm,1890 mm,3275 mm,1627 mm,1600 mm,881 mm,803 mm,145 mm,165 mm
+Peugeot Traveller Compact Business,peugeot,traveller,compact-business,5,6,12.4 m,4606 mm,1920 mm,2204 mm,1890 mm,2925 mm,1627 mm,1600 mm,881 mm,803 mm,145 mm,165 mm
+Peugeot Traveller Compact Elektryczny 50 kWh 136KM 2022,peugeot,traveller,long,5,8,12.4 m,5308 mm,1920 mm,2204 mm,1890 mm,3275 mm,1627 mm,1600 mm,881 mm,1153 mm,145 mm,165 mm
+Peugeot Traveller Standard,peugeot,traveller,standard,5,8,12.4 m,4956 mm,1920 mm,2204 mm,1890 mm,3275 mm,1627 mm,1600 mm,881 mm,803 mm,145 mm,165 mm
+Peugeot Traveller Long Business Elektryczny,peugeot,traveller,long-business-elektryczny,5,5,12.4 m,5306 mm,1920 mm,2010 mm,2204 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,1153 mm,1700 l
+Peugeot Traveller Standard Business Elektryczny,peugeot,traveller,standard-business-elektryczny,5,5,12.4 m,4959 mm,1920 mm,2010 mm,2204 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,803 mm,1700 l
+Peugeot Rifter Standard 1.2 PureTech 110KM 2022,rifter,e-long,silnik-elektryczny-50-kwh-136km-od-2021,5,5,11.5 m,4753 mm,1848 mm,2107 mm,1921 mm,1840 mm,1879 mm,2975 mm,1553 mm,1567 mm,180 mm,2693 l
+Peugeot Traveller Long Elektryczny,peugeot,traveller,long-elektryczny,5,5,12.4 m,5306 mm,1920 mm,2010 mm,2204 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,1153 mm,1700 l
+Peugeot Rifter e-Standard 50 kWh 136KM 100kW od 2021,rifter,e-standard,silnik-elektryczny-50-kwh-136km-od-2021,5,5,10.8 m,5.4 m,4403 mm,1848 mm,2107 mm,1921 mm,1837 mm,1874 mm,2785 mm,1553 mm,1567 mm,180 mm
+Peugeot Traveller Standard Elektryczny,peugeot,traveller,standard-elektryczny,5,5,12.4 m,4959 mm,1920 mm,2010 mm,2204 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,803 mm,1700 l
+Peugeot 107 Hatchback 3d Facelifting,peugeot,107,hatchback-3d-facelifting,3,4,4.7 m,3430 mm,1530 mm,1855 mm,1470 mm,2340 mm,1415 mm,1405 mm,645 mm,445 mm,868 mm,843 mm
+Peugeot Traveller Compact Elektryczny 50 kWh 136KM 100kW od 2020,traveller,compact-elektryczny,silnik-elektryczny-50-kwh-136km-od-2020,5,5,11.3 m,4609 mm,1920 mm,2010 mm,2204 mm,1900 mm,2925 mm,1627 mm,1600 mm,881 mm,803 mm,1700 l
+Peugeot 107 Hatchback 5d Facelifting 2012 1.0 VTI 68KM 50kW 2012-2013,107,hatchback-5d-facelifting-2012,silnik-benzynowy-1.0-vti-68km-2012-2013,5,4,3430 mm,1630 mm,1855 mm,1470 mm,2340 mm,1415 mm,1405 mm,645 mm,445 mm,751 l,139 l,od 2012 do 2013 roku
+Peugeot 107 Hatchback 3d Facelifting 2012 1.0 VTI 68KM 50kW 2012-2013,107,hatchback-3d-facelifting-2012,silnik-benzynowy-1.0-vti-68km-2012-2013,3,4,3430 mm,1630 mm,1855 mm,1470 mm,2340 mm,1415 mm,1405 mm,645 mm,445 mm,712 l,139 l,od 2012 do 2013 roku
+Mazda Premacy II,mazda,premacy,ii,5,7,4565 mm,1745 mm,1615 mm,2750 mm,1530 mm,1520 mm,140 mm,995 mm,495 mm,940 mm,495 mm,2520 mm
+Mazda CX-7 SUV Facelifting 2.2 MZR-CD 173KM 2010,mazda,cx-7,suv,5,5,10.4 m,5.2 m,4675 mm,1872 mm,1645 mm,2750 mm,1617 mm,1612 mm,200 mm,1535 mm,1295 mm,1348 l
+Mazda CX-9 2016,cx-9,suv-facelifting,silnik-benzynowy-3.7-v6-277km-2012-2016,5,7,12.4 m,6.2 m,5106 mm,1936 mm,1728 mm,2875 mm,1654 mm,1644 mm,1098 mm,1133 mm,200 mm,2852 l
+Mazda 5 I 2.0 MZR 145KM 2005,mazda,5,i,5,5,10.6 m,5.3 m,4505 mm,1755 mm,1998 mm,1665 mm,2750 mm,1530 mm,1520 mm,122 mm,1566 l,112 l
+Mazda 5 I 1.8 MZR 115KM 2010,mazda,5,ii,5,7,10.6 m,5.3 m,4585 mm,1750 mm,1988 mm,1615 mm,2750 mm,1530 mm,1520 mm,130 mm,1034 mm,1000 mm
+Mazda CX-7 SUV Facelifting,mazda,cx-7,suv-facelifting,5,5,6.1 m,4700 mm,1870 mm,1645 mm,2750 mm,1615 mm,1610 mm,208 mm,1009 mm,998 mm,1472 mm,1417 mm
+Mazda Millenia II,mazda,millenia,ii,4,5,4821 mm,1770 mm,1395 mm,2745 mm,1519 mm,1519 mm,140 mm,950 mm,505 mm,885 mm,505 mm,420 l
+Mazda MPV III,mazda,mpv,iii,5,7,4860 mm,1850 mm,1685 mm,2950 mm,1610 mm,1605 mm,155 mm,980 mm,520 mm,990 mm,495 mm,2635 mm
+Lexus UX Crossover,lexus,ux,crossover,5,5,10.4 m,5.2 m,4495 mm,1840 mm,1520 mm,1540 mm,2640 mm,1550 mm,1550 mm,970 mm,885 mm,160 mm
+Lexus RX I,lexus,rx,i,5,5,4575 mm,1815 mm,1670 mm,2620 mm,1565 mm,1550 mm,195 mm,1003 mm,996 mm,1468 mm,1448 mm,1402 mm
+Lexus RC Coupe F,lexus,rc,coupe-f,2,4,10.8 m,5.4 m,4704 mm,1849 mm,2070 mm,1389 mm,2730 mm,1555 mm,1560 mm,930 mm,1045 mm,124 mm
+Mazda CX-3 Crossover,mazda,cx-3,crossover,5,5,11.4 m,5.7 m,4275 mm,1765 mm,2049 mm,1535 mm,1550 mm,2570 mm,1525 mm,1520 mm,910 mm,795 mm
+Lexus UX Crossover Facelifting,lexus,ux,crossover-facelifting,5,5,11.2 m,5.6 m,4495 mm,1840 mm,1540 mm,2640 mm,1550 mm,1550 mm,970 mm,885 mm,160 mm,455 l
+Lexus RX I 3.0 4WD 201KM 2003,lexus,rx,ii,5,5,10.9 m,5.5 m,4729 mm,4770 mm,1844 mm,1679 mm,2715 mm,1580 mm,1570 mm,240 mm,998 mm,980 mm
+Mazda CX-3 Crossover Facelifting,mazda,cx-3,crossover-facelifting,5,5,10.6 m,5.3 m,4275 mm,1765 mm,1535 mm,2570 mm,1523 mm,1521 mm,155 mm,1260 l,350 l,50 kg
+Lexus LC 2021,lexus,lc,coupe,2,4,10.6 m,5.3 m,4760 mm,1920 mm,1345 mm,2870 mm,920 mm,970 mm,1067 mm,945 mm,818 mm,1435 mm
+Lexus RC Coupe,lexus,rc,coupe,2,4,10.8 m,5.4 m,4695 mm,1840 mm,2069 mm,1395 mm,2730 mm,1580 mm,1600 mm,930 mm,1035 mm,134 mm
+Lexus UX e-Crossover 300e 204KM 150kW od 2021,ux,e-crossover,silnik-elektryczny-300e-204km-od-2021,5,5,10.4 m,4495 mm,1840 mm,2078 mm,1545 mm,2640 mm,140 mm,367 l,14.0 °,23.0 °,26.0 °,od 2021 roku
+Lexus LC Cabrio 500 V8 477KM 351kW od 2020,lc,cabrio,silnik-benzynowy-500-v8-477km-od-2020,2,4,10.8 m,5.4 m,4760 mm,1920 mm,1350 mm,2870 mm,1630 mm,1635 mm,133 mm,150 l,od 2020 roku,4969 cm³
+Lexus RC Coupe Facelifting 300h 241KM 177kW 2018-2021,rc,coupe-facelifting,silnik-hybrydowy-300h-241km-2018-2021,2,4,10.5 m,5.2 m,4699 mm,1839 mm,2070 mm,1394 mm,2730 mm,1580 mm,1570 mm,135 mm,960 mm,884 mm
+Lexus LS II 4.0 294KM 216kW 1996-2000,ls,ii,silnik-benzynowy-4.0-294km-1996-2000,4,5,5005 mm,1830 mm,1435 mm,2850 mm,1570 mm,1570 mm,465 l,od 1996 do 2000 roku,3969 cm³,benzynowy,294 , (216 
+Lexus RC Coupe 200t 245KM 2018,rc,coupe-f-facelifting,silnik-benzynowy-5.0-v8-464km-od-2019,2,4,10.6 m,5.3 m,4710 mm,1845 mm,2050 mm,1390 mm,2730 mm,930 mm,1050 mm,115 mm,366 l,od 2019 roku
+Lexus CT Hatchback 5d 200h 136KM 100kW 2010-2013,ct,hatchback-5d,silnik-hybrydowy-200h-136km-2010-2013,5,5,4320 mm,1765 mm,1430 mm,2600 mm,920 mm,800 mm,985 l,375 l,od 2010 do 2013 roku,1798 cm³,hybrydowy,136 
+Lexus CT 2017,ct,hatchback-5d-facelifting-2017,silnik-hybrydowy-200h-136km-2017-2021,5,5,10.4 m,5.2 m,4355 mm,1765 mm,2050 mm,1445 mm,2600 mm,1535 mm,1530 mm,945 mm,810 mm,130 mm
+Lexus CT Hatchback 5d Facelifting 200h 136KM 100kW 2014-2017,ct,hatchback-5d-facelifting,silnik-hybrydowy-200h-136km-2014-2017,5,5,4374 mm,1765 mm,1985 mm,1455 mm,2600 mm,od 2014 do 2017 roku,1798 cm³,hybrydowy,136 , (100 ,) przy 5200 obr/min,142 
+Porsche Taycan Grand Tourer,porsche,taycan,grand-tourer,5,4,11.2 m,5.6 m,4963 mm,1966 mm,2144 mm,1378 mm,2900 mm,1690 mm,1655 mm,90 mm,366 l,75 kg
+Porsche Taycan Sport Tourismo,porsche,taycan,sport-tourismo,5,4,11.7 m,5.8 m,4963 mm,2146 mm,2146 mm,1969 mm,1392 mm,2901 mm,127 mm,1212 l,447 l,75 kg
+Porsche 944 Coupe,porsche,944,coupe,2,4,4200 mm,1735 mm,3500 mm,1275 mm,1900 mm,1650 mm,2400 mm,1477 mm,1451 mm,829 mm,971 mm,125 mm
+Lexus ES I 2.5 158KM 116kW 1989-1991,es,i,silnik-benzynowy-2.5-158km-1989-1991,4,5,4651 mm,1699 mm,1350 mm,2601 mm,1476 mm,1445 mm,960 mm,930 mm,371 l,od 1989 do 1991 roku,2507 cm³,benzynowy
+Porsche 356 Coupe,porsche,356,coupe,2,4,3950 mm,1275 mm,2100 mm,1306 mm,1272 mm,850 mm,1000 mm,350 mm,577 mm,920 mm,605 mm,850 mm
+Porsche Macan SUV,porsche,macan,suv,5,5,10.9 m,5.5 m,4681 mm,1923 mm,2098 mm,1624 mm,2807 mm,1655 mm,1651 mm,205 mm,1500 l,500 l
+Porsche 944 Coupe 2.5 Turbo 220KM 1987,944,cabrio,silnik-benzynowy-3.0-s2-211km-1988-1991,2,4,4300 mm,1740 mm,1280 mm,2410 mm,od 1988 do 1991 roku,2990 cm³,benzynowy,211 , (155 ,) przy 5800 obr/min,280 , przy 4100 obr/min
+Porsche Macan SUV Facelifting,porsche,macan,suv-facelifting,5,5,11.1 m,5.5 m,4696 mm,1923 mm,2098 mm,1624 mm,2807 mm,1655 mm,1651 mm,190 mm,205 mm,1503 l
+Porsche Macan SUV Facelifting II,porsche,macan,suv-facelifting-ii,5,5,12.0 m,4726 mm,1922 mm,2097 mm,1621 mm,2807 mm,202 mm,1503 l,458 l,16.8 °,16.7 °,23.4 °
+Wartburg 353 Sedan,wartburg,353,sedan,4,5,4222 mm,1640 mm,1495 mm,2450 mm,1000 mm,1300 mm,730 mm,1040 mm,160 mm,1030 mm,920 mm,710 mm
+TATA Xenon Double Cab 2.2 DICOR 140KM 103kW 2008-2011,xenon,double-cab,silnik-diesla-2.2-dicor-140km-2008-2011,4,5,6.0 m,5125 mm,1860 mm,1765 mm,3150 mm,200 mm,24.0 °,15.0 °,21.0 °,1000 kg,od 2008 do 2011 roku,2179 cm³
+TATA Xenon Single Cab 2.2 DICOR 140KM 103kW 2008-2011,xenon,single-cab,silnik-diesla-2.2-dicor-140km-2008-2011,2,2,6.0 m,4800 mm,1860 mm,1765 mm,2825 mm,200 mm,24.0 °,15.0 °,21.0 °,1110 kg,od 2008 do 2011 roku,2179 cm³
+UAZ 3160 Simbir 31605 2.89 102KM 75kW 2000-2007,3160-simbir,31605,silnik-benzynowy-2.89-102km-2000-2007,5,7,4240 mm,1828 mm,1935 mm,2400 mm,1445 mm,1445 mm,od 2000 do 2007 roku,2890 cm³,benzynowy,102 , (75 ,)
+UAZ 3160 Simbir 31601 2.9 98KM 72kW 1999-2005,3160-simbir,31601,silnik-benzynowy-2.9-98km-1999-2005,5,5,4630 mm,1528 mm,2060 mm,2626 mm,1948 mm,2760 mm,1445 mm,1445 mm,833 mm,739 mm,210 mm,1330 mm
+UAZ 3160 Simbir 31602 2.7 132KM 97kW 1999-2007,3160-simbir,31602,silnik-benzynowy-2.7-132km-1999-2007,5,7,4240 mm,1528 mm,2020 mm,5580 mm,1935 mm,2400 mm,1445 mm,1445 mm,760 mm,705 mm,210 mm,716 mm
+Saab 9-5 III,saab,9-5,iii,4,5,5008 mm,1868 mm,2114 mm,1466 mm,2837 mm,1585 mm,1585 mm,1022 mm,1149 mm,1073 mm,964 mm,985 mm
+Saab 9000 II,saab,9000,ii,4,5,4780 mm,1764 mm,1420 mm,2672 mm,1522 mm,1492 mm,1012 mm,1096 mm,1055 mm,980 mm,985 mm,950 mm
+Saab 9000 I,saab,9000,i,4,5,4620 mm,1764 mm,1420 mm,2672 mm,1522 mm,1492 mm,965 mm,983 mm,1055 mm,980 mm,985 mm,950 mm
+UAZ 3151 3151 2.45 90KM 66kW 1989-1998,3151,3151,silnik-benzynowy-2.45-90km-1989-1998,5,7,4025 mm,1785 mm,2010 mm,3200 mm,2081 mm,2380 mm,1453 mm,1453 mm,680 mm,715 mm,300 mm,1698 mm
+Pontiac Trans Sport II 3.4 i V6 182KM 134kW 1996-1998,trans-sport,ii,silnik-benzynowy-3.4-i-v6-182km-1996-1998,4,5,4750 mm,1845 mm,1710 mm,2845 mm,3580 l,od 1996 do 1998 roku,3350 cm³,benzynowy,182 , (134 ,) przy 5200 obr/min,279 
+Pontiac Bonneville I 3.8 i V6 167KM 123kW 1986-1991,bonneville,i,silnik-benzynowy-3.8-i-v6-167km-1986-1991,4,5,5050 mm,1831 mm,1410 mm,2814 mm,1532 mm,1520 mm,510 l,od 1986 do 1991 roku,3791 cm³,benzynowy,167 , (123 
+Rolls-Royce Phantom Limuzyna SWB 6.7 460KM 338kW od 2003,phantom,limuzyna-swb,silnik-benzynowy-6.7-460km-od-2003,4,5,13.8 m,5842 mm,1990 mm,1638 mm,3570 mm,1686 mm,1676 mm,1042 mm,1047 mm,1104 mm,979 mm,1509 mm
+Rolls-Royce Phantom Limuzyna EWB 6.7 460KM 338kW od 2005,phantom,limuzyna-ewb,silnik-benzynowy-6.7-460km-od-2005,4,5,14.0 m,6092 mm,1990 mm,1640 mm,3820 mm,1686 mm,1676 mm,1042 mm,1047 mm,1349 mm,979 mm,1509 mm
+Rolls-Royce Phantom Drophead Coupe 6.7 460KM 338kW od 2008,phantom,drophead-coupe,silnik-benzynowy-6.7-460km-od-2008,2,4,13.1 m,5612 mm,1987 mm,1566 mm,3320 mm,1686 mm,1676 mm,1040 mm,1026 mm,936 mm,943 mm,1491 mm
+Rolls-Royce Phantom Coupe 6.7 460KM 338kW od 2008,phantom,coupe,silnik-benzynowy-6.7-460km-od-2008,2,4,13.1 m,5612 mm,1987 mm,1598 mm,3320 mm,1686 mm,1676 mm,1040 mm,1021 mm,936 mm,943 mm,1491 mm
+Pontiac Montana II,pontiac,montana,ii,5,7,5103 mm,1829 mm,1730 mm,3984 mm,1570 mm,1608 mm,168 mm,1014 mm,998 mm,1519 mm,1572 mm,2396 l
+Pontiac Firebird III,pontiac,firebird,iii,2,4,4777 mm,1838 mm,1271 mm,2566 mm,1541 mm,1564 mm,940 mm,905 mm,1460 mm,1430 mm,1430 mm,1087 mm
+Rolls-Royce Ghost EWB V 6.6 601KM 442kW od 2010,ghost,ewb-v,silnik-benzynowy-6.6-601km-od-2010,4,5,14.0 m,5569 mm,1948 mm,1550 mm,3465 mm,1622 mm,1660 mm,1060 mm,1030 mm,1245 mm,990 mm,1510 mm
+UAZ 3160 Simbir 31608 2.24 D 98KM 72kW 2002-2006,3160-simbir,31608,silnik-benzynowy-2.24-d-98km-2002-2006,5,7,4313 mm,2060 mm,2060 mm,2400 mm,1445 mm,1445 mm,830 mm,1060 mm,210 mm,od 2002 do 2006 roku,benzynowy,98 
+UAZ 3160 Simbir 31604 2.5 TDI 103KM 76kW 2000-2004,3160-simbir,31604,silnik-diesla-2.5-tdi-103km-2000-2004,5,7,4240 mm,1828 mm,1935 mm,2400 mm,1445 mm,1445 mm,od 2000 do 2004 roku,2500 cm³,diesel,103 , (76 ,)
+Rolls-Royce Ghost EWB 6.6 570KM 419kW od 2010,ghost,ewb,silnik-benzynowy-6.6-570km-od-2010,4,5,14.0 m,5569 mm,1948 mm,1550 mm,3465 mm,1510 mm,1418 mm,1060 mm,1030 mm,1245 mm,990 mm,1510 mm
+Rover Mini Cabrio 1.3 63KM 46kW 1992-1995,mini,cabrio,silnik-benzynowy-1.3-63km-1992-1995,2,5,3100 mm,1440 mm,1350 mm,2035 mm,1234 mm,1203 mm,120 l,od 1992 do 1995 roku,1273 cm³,benzynowy,63 , (46 
+Rover 45 Sedan 2.0 TD 101KM 2005,rover,45,sedan,4,5,4520 mm,1700 mm,1920 mm,1394 mm,2620 mm,1480 mm,1470 mm,1060 mm,940 mm,850 mm,930 mm,1340 mm
+Rover 75 Sedan 2.0 V6 150KM 2001,rover,75,kombi,5,5,4792 mm,1778 mm,1970 mm,1440 mm,1460 mm,2750 mm,1510 mm,1510 mm,1060 mm,990 mm,920 mm,970 mm
+Rolls-Royce Ghost SWB 6.6 570KM 419kW od 2010,ghost,swb,silnik-benzynowy-6.6-570km-od-2010,4,5,13.4 m,5399 mm,1948 mm,1550 mm,3295 mm,1622 mm,1660 mm,1060 mm,1075 mm,1075 mm,990 mm,1510 mm
+Rover 75 Sedan,rover,75,sedan,4,5,4750 mm,1780 mm,1970 mm,1430 mm,2750 mm,1519 mm,1510 mm,1060 mm,950 mm,910 mm,950 mm,1400 mm
+Rolls-Royce Ghost SWB V 6.6 601KM 442kW od 2010,ghost,swb-v,silnik-benzynowy-6.6-601km-od-2010,4,5,13.4 m,5399 mm,1948 mm,1550 mm,3295 mm,1622 mm,1660 mm,1060 mm,1030 mm,1075 mm,990 mm,1510 mm
+Rover 100 I,rover,100,i,3,5,3570 mm,1560 mm,1780 mm,1380 mm,2270 mm,1350 mm,1360 mm,1010 mm,960 mm,770 mm,930 mm,1290 mm
+Rover 45 Hatchback,rover,45,hatchback,5,5,4362 mm,1700 mm,1920 mm,1394 mm,2620 mm,1480 mm,1470 mm,1060 mm,940 mm,830 mm,920 mm,1340 mm
+Rover 100 II,rover,100,ii,5,5,3570 mm,1560 mm,1780 mm,1380 mm,2270 mm,1350 mm,1360 mm,1020 mm,950 mm,770 mm,930 mm,1290 mm
+Rover 25 Hatchback,rover,25,hatchback,5,5,3990 mm,1690 mm,1900 mm,1420 mm,2500 mm,1470 mm,1470 mm,1060 mm,950 mm,810 mm,930 mm,1360 mm
+Rover 200 III,rover,200,iii,5,5,3973 mm,1690 mm,1890 mm,1420 mm,2502 mm,1470 mm,1470 mm,1060 mm,950 mm,810 mm,930 mm,1360 mm
+Maybach 62 X223,maybach,62,x223,4,4,13.4 m,6.7 m,5469 mm,1921 mm,2109 mm,1510 mm,3396 mm,1655 mm,1683 mm,877 mm,1196 mm,145 mm
+LDV Maxus Furgon,ldv,maxus,furgon,4,12.4 m,4920 mm,1991 mm,2383 mm,2070 mm,3100 mm,835 mm,985 mm,1555 mm,1090 mm,1595 mm,2586 mm,1770 mm
+Maserati GranSport Coupe 4.2 i V8 32V 400KM 294kW 2004-2007,gransport,coupe,silnik-benzynowy-4.2-i-v8-32v-400km-2004-2007,2,4,12.0 m,4523 mm,1822 mm,1295 mm,2660 mm,1525 mm,1538 mm,315 l,od 2004 do 2007 roku,4244 cm³,benzynowy,400 
+Lotus Exige S Roadster 3.5 DOHC V6 VVT-i 350KM 257kW od 2011,exige-s,roadster,silnik-benzynowy-3.5-dohc-v6-vvt-i-350km-od-2011,2,2,4084 mm,1802 mm,1129 mm,2370 mm,od 2011 roku,3456 cm³,benzynowy,350 , (257 ,) przy 7000 obr/min,400 , przy 4500 obr/min
+Lotus Europa II 2.0 T 203KM 149kW od 2006,europa,ii,silnik-benzynowy-2.0-t-203km-od-2006,2,2,3900 mm,1714 mm,1120 mm,2330 mm,1457 mm,1490 mm,154 l,od 2006 roku,1998 cm³,benzynowy,203 , (149 
+Maserati GranSport Cabrio 4.2 i V8 32V 400KM 294kW 2004-2007,gransport,cabrio,silnik-benzynowy-4.2-i-v8-32v-400km-2004-2007,2,4,11.5 m,4303 mm,1822 mm,1295 mm,2440 mm,1525 mm,1538 mm,300 l,od 2004 do 2007 roku,4244 cm³,benzynowy,400 
+Lotus Exige S Coupe 3.5 DOHC V6 VVT-i 350KM 257kW od 2011,exige-s,coupe,silnik-benzynowy-3.5-dohc-v6-vvt-i-350km-od-2011,2,2,4084 mm,1802 mm,1129 mm,2370 mm,od 2011 roku,3456 cm³,benzynowy,350 , (257 ,) przy 7000 obr/min,400 , przy 4500 obr/min
+Man TGE Furgon,man,tge,furgon,5,3,13.6 m,6.8 m,5986 mm,2040 mm,2427 mm,2355 mm,3640 mm,1000 mm,1346 mm,200 mm,570 mm,3450 mm
+Lotus Europa I 1.6 106KM 78kW 1966-1976,europa,i,silnik-benzynowy-1.6-106km-1966-1976,2,2,13.0 m,3960 mm,1630 mm,1070 mm,2311 mm,1346 mm,1346 mm,140 mm,od 1966 do 1976 roku,1558 cm³,benzynowy,106 
+Lincoln Town Car II,lincoln,town-car,ii,4,5,12.1 m,5558 mm,1984 mm,1440 mm,2982 mm,1595 mm,1608 mm,993 mm,965 mm,1575 mm,1575 mm,1453 mm
+Lincoln Town Car III,lincoln,town-car,iii,4,5,12.9 m,5471 mm,1987 mm,1499 mm,2990 mm,1611 mm,1673 mm,137 mm,1001 mm,950 mm,1532 mm,1521 mm
+Microcar MGo Hatchback Family,microcar,mgo,hatchback-family,3,4,8.2 m,4.1 m,3026 mm,1673 mm,1553 mm,2020 mm,1294 mm,1307 mm,522 mm,175 mm,830 mm,1295 mm
+Man TGE e Furgon 36 kWh 136KM 100kW od 2021,tge,e-furgon,silnik-elektryczny-36-kwh-136km-od-2021,5,3,13.6 m,6.8 m,5986 mm,2040 mm,2427 mm,2590 mm,3640 mm,1000 mm,1346 mm,200 mm,570 mm,3450 mm
+Lincoln Town Car I 5.0 152KM 112kW 1981-1989,town-car,i,silnik-benzynowy-5.0-152km-1981-1989,4,5,12.1 m,5563 mm,1984 mm,1420 mm,2979 mm,1580 mm,1575 mm,991 mm,970 mm,1542 mm,1542 mm,1435 mm
+Microcar Flex Furgon otwarty 0.5 5KM 4kW 2015-2019,flex,furgon-otwarty,silnik-diesla-0.5-5km-2015-2019,2,2,3643 mm,1765 mm,1768 mm,2400 mm,1309 mm,1309 mm,433 mm,497 mm,1626 mm,1531 mm,200 kg,od 2015 do 2019 roku
+Maybach 57 Limuzyna Facelifting,maybach,57,limuzyna-facelifting,4,5,5734 mm,1980 mm,2151 mm,1572 mm,3390 mm,1675 mm,1695 mm,1020 mm,1324 mm,520 mm,985 mm,566 mm
+Maybach 57 Limuzyna,maybach,57,limuzyna,4,5,5728 mm,1968 mm,2134 mm,1572 mm,3390 mm,1675 mm,1695 mm,1014 mm,1324 mm,985 mm,1133 mm,1003 mm
+Lancia Ypsilon II,lancia,ypsilon,ii,3,5,3741 mm,1690 mm,1435 mm,2380 mm,1410 mm,1395 mm,795 mm,584 mm,495 mm,613 mm,978 mm,490 mm
+Lancia Dedra Sedan,lancia,dedra,sedan,4,5,4343 mm,1700 mm,1430 mm,2540 mm,1449 mm,1411 mm,881 mm,922 mm,520 mm,600 mm,953 mm,520 mm
+Maybach 57 Limuzyna Facelifting 2017,maybach,57,limuzyna-facelifting-2017,4,4,12.9 m,6.5 m,5462 mm,1899 mm,2130 mm,1498 mm,3365 mm,1634 mm,1632 mm,897 mm,1200 mm,490 mm
+Lancia Kappa Sedan,lancia,kappa,sedan,4,5,4687 mm,1826 mm,1462 mm,2700 mm,1544 mm,1530 mm,947 mm,1040 mm,463 mm,600 mm,991 mm,480 mm
+Lancia Delta II,lancia,delta,ii,5,5,4011 mm,1759 mm,1401 mm,2540 mm,1482 mm,1421 mm,838 mm,633 mm,530 mm,631 mm,953 mm,515 mm
+Lancia Musa 2006,lancia,musa,mikrovan-seria-2,5,5,10.0 m,4035 mm,1698 mm,1660 mm,1688 mm,2508 mm,1444 mm,1431 mm,848 mm,679 mm,1488 l,390 l
+Lancia Delta I,lancia,delta,i,5,5,3885 mm,1620 mm,1300 mm,2475 mm,1400 mm,1400 mm,740 mm,670 mm,420 mm,860 mm,630 mm,1335 mm
+Lancia Kappa Coupe,lancia,kappa,coupe,2,5,4567 mm,1830 mm,1425 mm,2580 mm,1547 mm,1533 mm,947 mm,1040 mm,500 mm,617 mm,872 mm,684 mm
+Lancia Kappa Kombi,lancia,kappa,kombi,5,5,4687 mm,1826 mm,1484 mm,2700 mm,1547 mm,1530 mm,947 mm,1040 mm,463 mm,600 mm,991 mm,480 mm
+Lincoln LS I,lincoln,ls,i,4,5,12.1 m,4925 mm,1859 mm,1425 mm,2908 mm,1537 mm,1544 mm,1026 mm,952 mm,1466 mm,1448 mm,1346 mm
+Lincoln LS II,lincoln,ls,ii,4,5,11.4 m,4938 mm,1859 mm,1433 mm,2908 mm,1537 mm,1544 mm,109 mm,1029 mm,950 mm,1463 mm,1448 mm
+Lincoln Continental IV,lincoln,continental,iv,2,5918 mm,2022 mm,1402 mm,3231 mm,1633 mm,1633 mm,965 mm,968 mm,1554 mm,1521 mm,1422 mm,1532 mm,600 l
+Lincoln Navigator I,lincoln,navigator,i,5,5,12.3 m,5202 mm,2027 mm,1847 mm,3023 mm,1661 mm,1664 mm,210 mm,1011 mm,1011 mm,1621 mm,1636 mm
+Maserati Biturbo Coupe,maserati,biturbo,coupe,2,4,4153 mm,1705 mm,1305 mm,2514 mm,1420 mm,1431 mm,783 mm,856 mm,510 mm,900 mm,500 mm,690 mm
+Lincoln Continental V,lincoln,continental,v,2,5565 mm,1984 mm,1407 mm,2979 mm,1580 mm,1575 mm,991 mm,965 mm,1542 mm,1542 mm,1438 mm,1448 mm,634 l
+Maserati Quattroporte II,maserati,quattroporte,ii,4,5,11.8 m,5.9 m,5262 mm,1948 mm,2128 mm,1481 mm,3171 mm,1634 mm,1647 mm,968 mm,1123 mm,530 l
+Lincoln Navigator II,lincoln,navigator,ii,5,8,11.8 m,5232 mm,2037 mm,1976 mm,3018 mm,1701 mm,1704 mm,218 mm,1006 mm,1008 mm,1608 mm,1610 mm
+Maserati Biturbo Coupe Si 2.0 V6 Si 188KM 138kW 1981-1989,biturbo,coupe-si,silnik-benzynowy-2.0-v6-si-188km-1981-1989,2,4,4153 mm,1705 mm,1255 mm,2514 mm,1442 mm,1450 mm,783 mm,856 mm,510 mm,900 mm,500 mm,690 mm
+Maserati Quattroporte I 4.2 i 400KM 294kW od 2003,quattroporte,i,silnik-benzynowy-4.2-i-400km-2003-2012,4,5,12.3 m,5097 mm,1895 mm,1438 mm,3064 mm,1582 mm,1595 mm,1572 mm,1562 mm,450 l,od 2003 do 2012 roku,4244 cm³
+Lincoln Continental VIII 4.6 V8 32V 279KM 205kW 1995-1997,continental,viii,silnik-benzynowy-4.6-v8-32v-279km-1995-1997,4,5,5260 mm,1870 mm,1420 mm,2770 mm,1600 mm,1562 mm,150 mm,991 mm,996 mm,1450 mm,1438 mm,1415 mm
+Lincoln Continental IX 4.6 V8 32V 279KM 205kW 1998-2003,continental,ix,silnik-benzynowy-4.6-v8-32v-279km-1998-2003,4,5,5296 mm,1869 mm,1422 mm,2769 mm,1600 mm,1562 mm,988 mm,965 mm,1450 mm,1438 mm,1417 mm,1438 mm
+Łada Samara 2109,lada,samara,2109,5,5,4006 mm,1650 mm,1750 mm,1402 mm,2460 mm,1400 mm,1370 mm,761 mm,785 mm,210 mm,1000 l,270 l
+Łada OKA II 0.75 35KM 26kW 1996-2008,oka,ii,silnik-benzynowy-0.75-35km-1996-2008,3,4,3210 mm,1430 mm,1410 mm,2190 mm,1210 mm,1200 mm,160 mm,630 l,210 l,od 1996 do 2008 roku,750 cm³,benzynowy
+Łada OKA I 0.65 29KM 21kW 1990-1996,oka,i,silnik-benzynowy-0.65-29km-1990-1996,3,4,3200 mm,1420 mm,1565 mm,1400 mm,2180 mm,1210 mm,1200 mm,544 mm,650 l,210 l,od 1990 do 1996 roku,649 cm³
+Łada 2107 2107 Sedan 1.5 72KM 53kW 1982-1990,2107,2107-sedan,silnik-benzynowy-1.5-72km-1982-1990,4,5,4145 mm,1620 mm,1680 mm,1446 mm,2424 mm,1365 mm,1321 mm,664 mm,1057 mm,325 l,od 1982 do 1990 roku,1451 cm³
+Łada 2107 21072 Sedan 1.3 64KM 47kW 1982-1990,2107,21072-sedan,silnik-benzynowy-1.3-64km-1982-1990,4,5,4145 mm,1620 mm,1680 mm,1446 mm,2424 mm,1365 mm,1321 mm,664 mm,1057 mm,325 l,od 1982 do 1990 roku,1294 cm³
+Łada Kalina Hatchback 1.6i 81KM 60kW 2006-2016,kalina,hatchback,silnik-benzynowy-1.6i-81km-2006-2016,5,5,3850 mm,1700 mm,1500 mm,2470 mm,1430 mm,1410 mm,740 mm,640 mm,235 l,od 2006 do 2016 roku,1596 cm³,benzynowy
+Łada 2107 21073 Sedan 1.7 i 80KM 59kW 1996-2003,2107,21073-sedan,silnik-benzynowy-1.7-i-80km-1996-2003,4,5,4145 mm,1680 mm,1435 mm,2424 mm,1365 mm,1321 mm,664 mm,157 mm,911 mm,850 mm,325 l,33.0 °
+Łada 2102 21021 Sedan 1.3 70KM 51kW 1971-1985,2102,21021-sedan,silnik-benzynowy-1.3-70km-1971-1985,5,5,4059 mm,1611 mm,1458 mm,2424 mm,1345 mm,1304 mm,1035 l,345 l,od 1971 do 1985 roku,1300 cm³,benzynowy,70 
+Łada 2104 210413 Kombi 1.2 58KM 43kW 1984-1992,2104,210413-kombi,silnik-benzynowy-1.2-58km-1984-1992,5,5,4115 mm,1620 mm,1443 mm,2424 mm,1365 mm,1321 mm,1035 l,345 l,od 1984 do 1992 roku,1198 cm³,benzynowy,58 
+Łada 2104 21045 Kombi 1.5 D 53KM 39kW 1999-2000,2104,21045-kombi,silnik-diesla-1.5-d-53km-1999-2000,5,5,4115 mm,1620 mm,1740 mm,1443 mm,2424 mm,1365 mm,1321 mm,651 mm,1040 mm,1145 l,345 l,od 1999 do 2000 roku
+Isuzu Trooper III,isuzu,trooper,iii,3,5,4795 mm,1835 mm,1835 mm,2760 mm,1515 mm,1520 mm,210 mm,1011 mm,1011 mm,1455 mm,1455 mm,1770 mm
+Łada 2104 21044 Kombi 1.7 79KM 58kW 1997-2003,2104,21044-kombi,silnik-benzynowy-1.7-79km-1997-2003,5,5,4115 mm,1620 mm,1740 mm,1443 mm,2424 mm,1365 mm,1321 mm,651 mm,1040 mm,1035 l,345 l,od 1997 do 2003 roku
+Hummer H2 Pick Up 6.0 V8 329KM 242kW 2005-2010,h2,pick-up,silnik-benzynowy-6.0-v8-329km-2005-2010,4,5171 mm,2062 mm,2011 mm,3116 mm,1762 mm,1762 mm,246 mm,246 mm,40.8 °,25.8 °,38.1 °,od 2005 do 2010 roku,5967 cm³
+Łada 2101 21011 1.3 70KM 51kW 1974-1988,2101,21011,silnik-benzynowy-1.3-70km-1974-1988,4,5,4043 mm,1611 mm,1382 mm,2424 mm,1343 mm,1305 mm,588 mm,1031 mm,325 l,od 1974 do 1988 roku,1300 cm³,benzynowy
+Łada 2101 21013 1.2 64KM 47kW 1978-1988,2101,21013,silnik-benzynowy-1.2-64km-1978-1988,4,5,4043 mm,1611 mm,1382 mm,2424 mm,1349 mm,1305 mm,588 mm,1031 mm,325 l,od 1978 do 1988 roku,1198 cm³,benzynowy
+Łada 2105 21051 Sedan 1.2 64KM 47kW 1981-1999,2105,21051-sedan,silnik-benzynowy-1.2-64km-1981-1999,4,5,4145 mm,1620 mm,1680 mm,1446 mm,2424 mm,1365 mm,1321 mm,664 mm,385 l,od 1981 do 1999 roku,1198 cm³,benzynowy
+Łada 2105 21055 Kombi 1.5 D 53KM 39kW 1999-2000,2105,21055-kombi,silnik-diesla-1.5-d-53km-1999-2000,5,5,4128 mm,1620 mm,1443 mm,2420 mm,1365 mm,1321 mm,385 l,od 1999 do 2000 roku,1452 cm³,diesel,53 , (39 
+Isuzu Rodeo Sport,isuzu,rodeo,sport,3,5,4262 mm,1788 mm,1704 mm,2460 mm,1514 mm,1519 mm,988 mm,947 mm,1430 mm,1415 mm,1765 mm,1390 mm
+Iveco Daily II,iveco,daily,ii,4,7,6890 mm,2000 mm,2770 mm,3950 mm,1683 mm,1540 mm,960 mm,1980 mm,810 mm,1510 mm,1663 mm,1060 mm
+Isuzu Gemini Sedan,isuzu,gemini,sedan,4,5,4035 mm,1615 mm,1380 mm,2400 mm,1390 mm,1390 mm,725 mm,765 mm,915 mm,905 mm,1340 mm,325 l
+Isuzu Rodeo Standard,isuzu,rodeo,standard,5,5,4488 mm,1788 mm,1666 mm,2703 mm,1514 mm,1519 mm,988 mm,973 mm,1430 mm,1430 mm,2297 l,933 l
+Isuzu Rodeo Sport Cabrio 2.2 i 16V 2WD 132KM 97kW 1998-2002,rodeo,sport-cabrio,silnik-benzynowy-2.2-i-16v-2wd-132km-1998-2002,3,5,4262 mm,1788 mm,1704 mm,2460 mm,1514 mm,1519 mm,988 mm,947 mm,1430 mm,1415 mm,1765 mm,1390 mm
+Isuzu Amigo II,isuzu,amigo,ii,3,10.8 m,4262 mm,1788 mm,1692 mm,2460 mm,1514 mm,1519 mm,988 mm,947 mm,1430 mm,1415 mm,1765 mm,1390 mm
+Isuzu Amigo I,isuzu,amigo,i,3,10.7 m,4170 mm,1780 mm,1655 mm,2330 mm,1495 mm,1500 mm,210 mm,965 mm,813 mm,1880 mm,1355 mm,1140 mm
+Iveco Daily VI,iveco,daily,vi,4,3,11.0 m,5.5 m,5077 mm,1995 mm,2385 mm,3000 mm,1696 mm,1540 mm,998 mm,1079 mm,200 mm,1540 mm
+Lamborghini Gallardo Coupe 5.0 i V10 40V 500KM 368kW 2003-2013,gallardo,coupe,silnik-benzynowy-5.0-i-v10-40v-500km-2003-2013,2,2,11.5 m,4300 mm,1900 mm,1116 mm,2560 mm,1622 mm,1592 mm,110 l,od 2003 do 2013 roku,4961 cm³,benzynowy,500 
+Łada 2102 2102 Kombi,lada,2102,2102-kombi,5,5,4059 mm,1611 mm,1400 mm,2424 mm,1347 mm,1305 mm,603 mm,1032 mm,915 mm,390 mm,468 mm,870 mm
+Lamborghini Gallardo Cabrio 5.0 i V10 40V 520KM 382kW 2005-2013,gallardo,cabrio,silnik-benzynowy-5.0-i-v10-40v-520km-2005-2013,2,2,11.5 m,4300 mm,1900 mm,1184 mm,2560 mm,1622 mm,1592 mm,110 l,od 2005 do 2013 roku,4961 cm³,benzynowy,520 
+Lamborghini Diablo Cabrio 5.7 530KM 390kW 1998-2001,diablo,cabrio,silnik-benzynowy-5.7-530km-1998-2001,2,13.2 m,4460 mm,2040 mm,1105 mm,2650 mm,1540 mm,1640 mm,140 mm,od 1998 do 2001 roku,5707 cm³,benzynowy,530 , (390 
+Lamborghini Miura Coupe 3.9 V12 415KM 305kW 1966-1975,miura,coupe,silnik-benzynowy-3.9-v12-415km-1966-1975,2,11.5 m,4360 mm,1760 mm,1050 mm,2500 mm,1420 mm,1420 mm,140 l,od 1966 do 1975 roku,3929 cm³,benzynowy,415 , (305 
+Lamborghini Miura Cabrio 3.9 V12 350KM 257kW 1966-1975,miura,cabrio,silnik-benzynowy-3.9-v12-350km-1966-1975,2,11.5 m,4360 mm,1760 mm,1050 mm,2500 mm,1420 mm,1420 mm,140 l,od 1966 do 1975 roku,3929 cm³,benzynowy,350 , (257 
+Łada 2103 21035 Sedan 1.2 64KM 47kW 1972-1983,2103,21035-sedan,silnik-benzynowy-1.2-64km-1972-1983,4,5,4116 mm,1611 mm,1440 mm,2424 mm,1365 mm,1321 mm,400 l,od 1972 do 1983 roku,1198 cm³,benzynowy,64 , (47 
+Łada 2103 2103 Sedan 1.5 72KM 53kW 1972-1983,2103,2103-sedan,silnik-benzynowy-1.5-72km-1972-1983,4,5,4116 mm,1611 mm,1388 mm,2424 mm,1365 mm,1321 mm,628 mm,1064 mm,400 l,od 1972 do 1983 roku,1458 cm³,benzynowy
+Łada 2103 21033 Sedan 1.3 70KM 51kW 1977-1983,2103,21033-sedan,silnik-benzynowy-1.3-70km-1977-1983,4,5,4116 mm,1611 mm,1440 mm,2424 mm,1365 mm,1321 mm,400 l,od 1977 do 1983 roku,1300 cm³,benzynowy,70 , (51 
+Łada 2106 21065 Sedan 1.6 75KM 55kW 1976-1990,2106,21065-sedan,silnik-benzynowy-1.6-75km-1976-1990,4,5,4166 mm,1611 mm,1700 mm,1440 mm,2424 mm,1365 mm,1611 mm,650 mm,1092 mm,325 l,od 1976 do 1990 roku,1569 cm³
+Lamborghini Veneno Roadster 6.5 751KM 552kW od 2014,veneno,roadster,silnik-benzynowy-6.5-751km-od-2014,2,5020 mm,2075 mm,1165 mm,2700 mm,od 2014 roku,6498 cm³,benzynowy,751 , (552 ,) przy 8400 obr/min,690 , przy 5500 obr/min,DOHC
+Łada Niva 2121,lada,niva,2121,3,5,10.4 m,5.2 m,3740 mm,1680 mm,1814 mm,1640 mm,2200 mm,1430 mm,1400 mm,705 mm,835 mm,220 mm
+Lamborghini Huracan Spyder 5.2 610KM 449kW od 2014,huracan,spyder,silnik-benzynowy-5.2-610km-od-2014,2,4460 mm,1923 mm,1166 mm,2619 mm,1669 mm,1621 mm,135 mm,od 2014 roku,5204 cm³,benzynowy,610 , (449 ,) przy 8250 obr/min
+Łada Kalina Kombi 1.6i 81KM 60kW 2007-2016,kalina,kombi,silnik-benzynowy-1.6i-81km-2007-2016,4,5,4040 mm,1700 mm,1500 mm,2470 mm,1430 mm,1410 mm,740 mm,830 mm,od 2007 do 2016 roku,1596 cm³,benzynowy,81 
+Lamborghini Huracan Coupe 5.2 610KM 449kW od 2014,huracan,coupe,silnik-benzynowy-5.2-610km-od-2014,2,4460 mm,1923 mm,1166 mm,2619 mm,1669 mm,1621 mm,135 mm,od 2014 roku,5204 cm³,benzynowy,610 , (449 ,) przy 8250 obr/min
+Lamborghini Veneno Coupe 6.5 751KM 552kW od 2014,veneno,coupe,silnik-benzynowy-6.5-751km-od-2014,2,2,5020 mm,2075 mm,1165 mm,2700 mm,od 2014 roku,6498 cm³,benzynowy,751 , (552 ,) przy 8400 obr/min,690 , przy 5500 obr/min
+Lamborghini Aventador 2014,aventador,coupe,silnik-benzynowy-6.5-700km-od-2015,2,2,4780 mm,2030 mm,2265 mm,1136 mm,2700 mm,1720 mm,1700 mm,od 2015 roku,6498 cm³,benzynowy,700 , (515 
+Łada Niva 21312 1.8 82KM 60kW 1995-2004,niva,21312,silnik-benzynowy-1.8-82km-1995-2004,3,5,3740 mm,1680 mm,1814 mm,1640 mm,2200 mm,1430 mm,1400 mm,705 mm,835 mm,od 1995 do 2004 roku,1774 cm³,benzynowy
+Lamborghini Aventador Roadster 6.5 700KM 515kW od 2015,aventador,roadster,silnik-benzynowy-6.5-700km-od-2015,2,2,12.5 m,6.2 m,4780 mm,2030 mm,2265 mm,1136 mm,2700 mm,1720 mm,1700 mm,60 l,od 2015 roku,6498 cm³
+Cupra Formentor Crossover 2.0 TSI 310KM 2020,cupra,formentor,crossover,5,5,10.7 m,4450 mm,1839 mm,1992 mm,1511 mm,1528 mm,2680 mm,1585 mm,1559 mm,893 mm,877 mm,165 mm
+Cupra Formentor Crossover PHEV,cupra,formentor,crossover-phev,5,5,10.7 m,4450 mm,1839 mm,1992 mm,1511 mm,1528 mm,2680 mm,1585 mm,1559 mm,893 mm,877 mm,177 mm
+GAZ 24 II,gaz,24,ii,4,5,13.2 m,6.6 m,4735 mm,1800 mm,1476 mm,2800 mm,1496 mm,1428 mm,180 mm,1495 mm,1495 mm,540 l
+Cupra Ateca Crossover Facelifting 2.0 TSI 300KM 221kW od 2020,ateca,crossover-facelifting,silnik-benzynowy-2.0-tsi-300km-od-2020,5,5,10.8 m,5.4 m,4386 mm,1841 mm,2078 mm,1599 mm,1613 mm,2630 mm,1575 mm,1549 mm,877 mm,879 mm
+Cupra Ateca Crossover 2.0 TSI 300KM 221kW 2018-2020,ateca,crossover,silnik-benzynowy-2.0-tsi-300km-2018-2020,5,5,10.8 m,5.4 m,4363 mm,1841 mm,2078 mm,1581 mm,1595 mm,2638 mm,1576 mm,1541 mm,868 mm,857 mm
+Dodge Viper III 2013,viper,i,silnik-benzynowy-8.0-v10-406km-1992-1996,2,2,12.4 m,4448 mm,1923 mm,1115 mm,2443 mm,1514 mm,1539 mm,935 mm,1379 mm,334 l,od 1992 do 1996 roku,7994 cm³
+Daihatsu Opti I 0.7 58KM 43kW 1992-1997,opti,i,silnik-benzynowy-0.7-58km-1992-1997,3,9.0 m,3295 mm,1395 mm,1395 mm,2280 mm,1220 mm,1210 mm,od 1992 do 1997 roku,659 cm³,benzynowy,58 , (43 ,) przy 7600 obr/min
+Daihatsu Opti II 0.7 58KM 43kW 1997-2007,opti,ii,silnik-benzynowy-0.7-58km-1997-2007,4,8.6 m,3395 mm,1475 mm,1405 mm,2360 mm,1320 mm,1300 mm,od 1997 do 2007 roku,659 cm³,benzynowy,58 , (43 ,) przy 7600 obr/min
+Daihatsu Feroza Cabrio 1.6 i 16V 95KM 70kW 1988-1997,feroza,cabrio,silnik-benzynowy-1.6-i-16v-95km-1988-1997,3,4,10.2 m,3785 mm,1635 mm,1720 mm,2175 mm,1335 mm,1335 mm,920 l,295 l,od 1988 do 1997 roku,1589 cm³,benzynowy
+Daihatsu Feroza Standard 1.6 i 16V 95KM 70kW 1988-1997,feroza,standard,silnik-benzynowy-1.6-i-16v-95km-1988-1997,3,4,10.2 m,3770 mm,1590 mm,1720 mm,2175 mm,1335 mm,1335 mm,440 l,272 l,od 1988 do 1997 roku,1589 cm³,benzynowy
+Daihatsu Terios II 1.5 16V 105KM 2010,daihatsu,terios,ii,5,5,4055 mm,1695 mm,1680 mm,1730 mm,2580 mm,1450 mm,1460 mm,675 mm,800 mm,200 mm,755 l,380 l
+Chatenet Crossover SXZ CH30 0.5 Lombardini MPI 20KM 15kW 2016-2019,crossover-sxz,ch30,silnik-benzynowy-0.5-lombardini-mpi-20km-2016-2019,2,2,8.0 m,4.0 m,3065 mm,1567 mm,1453 mm,2054 mm,107 mm,150 l,od 2016 do 2019 roku,505 cm³,benzynowy,20 
+Chatenet Crossover SXZ CH26 0.5 Lombardini MPI 5KM 4kW 2016-2019,crossover-sxz,ch26,silnik-benzynowy-0.5-lombardini-mpi-5km-2016-2019,2,2,8.0 m,4.0 m,3065 mm,1567 mm,1453 mm,2054 mm,107 mm,150 l,od 2016 do 2019 roku,505 cm³,benzynowy,5 
+Chatenet CH32 Kombi 0.5Y 5KM 4kW 2015-2019,ch32,kombi,silnik-diesla-0.5y-5km-2015-2019,2,2,9.6 m,4.8 m,3215 mm,1567 mm,1475 mm,2054 mm,220 mm,1080 l,600 l,od 2015 do 2019 roku,523 cm³,diesel
+Daihatsu Cuore IV 0.8 i 44KM 32kW 1995-1999,cuore,iv,silnik-benzynowy-0.8-i-44km-1995-1999,3,4,3410 mm,1475 mm,1420 mm,2345 mm,1330 mm,1300 mm,585 mm,480 mm,145 mm,186 l,od 1995 do 1999 roku,847 cm³
+Daihatsu Cuore VI 2006,cuore,vi,silnik-benzynowy-1.0-i-58km-2003-2007,3,4,3410 mm,1475 mm,1420 mm,2345 mm,430 l,155 l,od 2003 do 2007 roku,989 cm³,benzynowy,58 , (43 ,) przy 5200 obr/min
+Daihatsu Cuore V 1.0 55KM 40kW 1999-2003,cuore,v,silnik-benzynowy-1.0-55km-1999-2003,5,5,3410 mm,1475 mm,1420 mm,2345 mm,1330 mm,1300 mm,585 mm,480 mm,145 mm,830 l,186 l,od 1999 do 2003 roku
+Daihatsu Cuore III 0.8 41KM 30kW 1990-1994,cuore,iii,silnik-benzynowy-0.8-41km-1990-1994,3,4,3295 mm,1395 mm,1410 mm,2280 mm,1215 mm,1205 mm,409 l,188 l,od 1990 do 1994 roku,847 cm³,benzynowy,41 
+Daihatsu Applause II 1.6 16V 99KM 73kW 1997-2000,applause,ii,silnik-benzynowy-1.6-16v-99km-1997-2000,5,5,4350 mm,1660 mm,1385 mm,2470 mm,765 l,410 l,od 1997 do 2000 roku,1590 cm³,benzynowy,99 , (73 ,) przy 6000 obr/min
+Daihatsu Cuore VII 1.0 i 70KM 2009,cuore,vii,silnik-benzynowy-1.0-i-70km-od-2007,5,4,10.2 m,5.1 m,3470 mm,1475 mm,1530 mm,2490 mm,1310 mm,1305 mm,550 mm,420 mm,140 mm,160 l
+Dodge Challenger III,dodge,challenger,iii,2,4,11.9 m,5023 mm,1923 mm,1449 mm,2946 mm,1603 mm,1604 mm,145 mm,999 mm,950 mm,1477 mm,1368 mm
+Dodge Charger VII,dodge,charger,vii,4,5,11.5 m,5.8 m,5040 mm,1905 mm,1479 mm,1610 mm,1620 mm,137 mm,1061 mm,981 mm,931 mm,1510 mm
+Dodge Charger V,dodge,charger,v,4,5,11.9 m,5082 mm,1891 mm,1469 mm,3048 mm,1600 mm,1603 mm,983 mm,919 mm,1506 mm,1463 mm,460 l
+Dodge Ram V 5.7 HEMI 401KM 295kW od 2019,ram,v,silnik-benzynowy-5.7-hemi-401km-od-2019,4,5,12.5 m,6.2 m,5916 mm,2085 mm,1971 mm,3673 mm,1740 mm,1730 mm,208 mm,221 mm,1526 l,14.6 °
+Dodge Avenger II 2.0 CRD 140KM 2008,dodge,avenger,ii,4,5,11.7 m,4848 mm,1824 mm,1495 mm,2765 mm,1570 mm,1570 mm,1016 mm,973 mm,1433 mm,1430 mm,438 l
+Cadillac DeVille II,cadillac,deville,ii,2,5484 mm,2032 mm,1499 mm,3289 mm,1549 mm,1549 mm,178 mm,889 mm,886 mm,1656 mm,1651 mm,1499 mm,1448 mm
+Cadillac DeVille I 5.4 200KM 147kW 1949-1954,deville,i,silnik-benzynowy-5.4-200km-1949-1954,2,2,13.7 m,6.8 m,5458 mm,2037 mm,1427 mm,3277 mm,1499 mm,1600 mm,od 1949 do 1954 roku,5425 cm³,benzynowy,200 
+Cadillac DeVille IV 7.7 380KM 279kW 1964-1968,deville,iv,silnik-benzynowy-7.7-380km-1964-1968,2,5677 mm,2026 mm,1391 mm,3289 mm,1550 mm,1550 mm,od 1964 do 1968 roku,7729 cm³,benzynowy,380 , (279 ,) przy 4400 obr/min,712 
+Cadillac DeVille IX 4.1 137KM 101kW 1985-1988,deville,ix,silnik-benzynowy-4.1-137km-1985-1988,4,4953 mm,1821 mm,1397 mm,2814 mm,od 1985 do 1988 roku,4087 cm³,benzynowy,137 , (101 ,) przy 4300 obr/min,278 , przy 2300 obr/min,"z przodu, poprzecznie"
+Buick Electra I Nailhead V8 401 330KM 243kW 1959-1960,electra,i,silnik-benzynowy-nailhead-v8-401-330km-1959-1960,4,5,13.9 m,7.0 m,5725 mm,2050 mm,1410 mm,3208 mm,1575 mm,1524 mm,175 mm,450 l,od 1959 do 1960 roku,6572 cm³
+Buick Electra II Nailhead V8 364 319KM 235kW 1961-1964,electra,ii,silnik-benzynowy-nailhead-v8-364-319km-1961-1964,4,5,14.9 m,7.5 m,5568 mm,1981 mm,1450 mm,3200 mm,1575 mm,1549 mm,175 mm,540 l,od 1961 do 1964 roku,5957 cm³
+Buick Park Avenue II 3.8 V6 243KM 179kW 1996-2005,park-avenue,ii,silnik-benzynowy-3.8-v6-243km-1996-2005,4,5,4368 mm,1219 mm,2400 mm,1320 mm,1320 mm,od 1996 do 2005 roku,benzynowy,243 , (179 ,),225/60 R16,225/55 R17; 235/45 R18; 245/40 R19
+Ferrari Testarossa III 4.9 i V12 48V 428KM 315kW 1991-1994,testarossa,iii,silnik-benzynowy-4.9-i-v12-48v-428km-1991-1994,2,2,4480 mm,1976 mm,1135 mm,2550 mm,1532 mm,1644 mm,1095 mm,835 mm,9.0 °,17.0 °,od 1991 do 1994 roku,4942 cm³
+Ferrari Testarossa II 4.9 i V12 48V 440KM 324kW 1994-1996,testarossa,ii,silnik-benzynowy-4.9-i-v12-48v-440km-1994-1996,2,2,4480 mm,1976 mm,1135 mm,2550 mm,1532 mm,1644 mm,1095 mm,835 mm,od 1994 do 1996 roku,4942 cm³,benzynowy,440 
+Ferrari 430 Spider 4.3 i V8 32V 490KM 360kW 2004-2009,430,spider,silnik-benzynowy-4.3-i-v8-32v-490km-2004-2009,2,2,4512 mm,1923 mm,1234 mm,2600 mm,1669 mm,1617 mm,250 l,od 2004 do 2009 roku,4308 cm³,benzynowy,490 , (360 
+Ferrari 430 Coupe 4.3 i V8 32V 490KM 360kW 2004-2009,430,coupe,silnik-benzynowy-4.3-i-v8-32v-490km-2004-2009,2,2,4512 mm,1923 mm,2142 mm,1199 mm,2600 mm,1669 mm,1616 mm,1100 mm,812 mm,250 l,9.0 °,13.5 °
+Cadillac Escalade I 5.7 255KM 188kW 1998-2002,escalade,i,silnik-benzynowy-5.7-255km-1998-2002,5,5,5116 mm,1956 mm,1905 mm,2985 mm,1894 l,od 1998 do 2002 roku,5733 cm³,benzynowy,255 , (188 ,) przy 4600 obr/min,447 
+FSO Polonez Kombi 1.6 84KM 62kW 1999-2002,polonez,kombi,silnik-benzynowy-1.6-84km-1999-2002,5,5,11.2 m,5.6 m,4369 mm,1650 mm,1470 mm,1510 mm,2509 mm,1375 mm,1352 mm,847 mm,1013 mm,145 mm
+FSO Warszawa 210 2.5 82KM 60kW 1964,warszawa,210,silnik-benzynowy-2.5-82km-1964-1964,4,5,4700 mm,1750 mm,1430 mm,2700 mm,w 1964 roku,2500 cm³,benzynowy,82 , (60 ,),"z przodu, podłużnie",SOHC (OHC)
+Cadillac Escalade III 2018,escalade,iii,silnik-benzynowy-6.2-v8-409km-od-2007,5,8,11.9 m,5144 mm,2007 mm,1887 mm,2946 mm,1732 mm,1702 mm,305 mm,1707 l,98 l,od 2007 roku,6200 cm³
+Ferrari 360 Spider 360 400KM 294kW 1999-2005,360,spider,silnik-benzynowy-360-400km-1999-2005,2,2,4477 mm,1922 mm,1214 mm,2600 mm,1669 mm,1617 mm,220 l,od 1999 do 2005 roku,3586 cm³,benzynowy,400 , (294 
+Volvo V70 II,volvo,v70,ii,5,5,12.0 m,6.0 m,4733 mm,1860 mm,1562 mm,2763 mm,1611 mm,1548 mm,140 mm,1082 mm,997 mm,894 mm
+Volvo XC70 I 2006,volvo,xc70,i,5,5,4733 mm,1860 mm,1562 mm,2763 mm,1611 mm,1548 mm,200 mm,1082 mm,997 mm,894 mm,988 mm,1427 mm
+Volvo V70 I,volvo,v70,i,5,5,4722 mm,1761 mm,1428 mm,2664 mm,1521 mm,1468 mm,992 mm,964 mm,1404 mm,1452 mm,1580 l,420 l
+Bentley Continental T 6.8 i V8 426KM 313kW 1996-2000,continental,t,silnik-benzynowy-6.8-i-v8-426km-1996-2000,2,4,5222 mm,1872 mm,1462 mm,2961 mm,350 l,od 1996 do 2000 roku,6750 cm³,benzynowy,426 , (313 ,) przy 4000 obr/min,875 
+Bentley Continental Flying Spur 6.0 W12 Twin-Turbo 560KM 2006,continental,s,silnik-benzynowy-6.7-320km-1994-1995,od 1994 do 1995 roku,6750 cm³,benzynowy,320 , (235 ,) przy 4500 obr/min,650 , przy 2250 obr/min,"z przodu, podłużnie",SOHC (OHC),8,widlasty,16,wielopunktowy (MPI)
+Acura RL II,acura,rl,ii,4,5,4973 mm,1847 mm,1455 mm,2800 mm,1576 mm,1585 mm,977 mm,948 mm,1487 mm,1426 mm,1400 mm,1372 mm
+Volvo V40 I,volvo,v40,i,5,5,11.8 m,5.9 m,4483 mm,1717 mm,1413 mm,2550 mm,1454 mm,1474 mm,130 mm,982 mm,972 mm,1371 mm
+Acura RL I 3.5 225KM 165kW 1996-2004,rl,i,silnik-benzynowy-3.5-225km-1996-2004,4,5,4956 mm,1811 mm,1384 mm,2911 mm,od 1996 do 2004 roku,3474 cm³,benzynowy,225 , (165 ,) przy 5200 obr/min,313 , przy 2800 obr/min
+Acura Integra I 1.6 113KM 83kW 1985-1989,integra,i,silnik-benzynowy-1.6-113km-1985-1989,3,4280 mm,1665 mm,1345 mm,2450 mm,1420 mm,1435 mm,od 1985 do 1989 roku,1590 cm³,benzynowy,113 , (83 ,) przy 6250 obr/min,134 
+Acura TL IV,acura,tl,iv,3,4928 mm,1880 mm,2118 mm,1452 mm,2775 mm,1605 mm,1620 mm,976 mm,932 mm,1477 mm,1428 mm,1415 mm,1392 mm
+Acura EL I 1.6 127KM 93kW 1996-2000,el,i,silnik-benzynowy-1.6-127km-1996-2000,4,4478 mm,1704 mm,1394 mm,2619 mm,od 1996 do 2000 roku,1590 cm³,benzynowy,127 , (93 ,) przy 6200 obr/min,4,rzędowy,16
+Acura Integra II 1.7 160KM 118kW 1989-1993,integra,ii,silnik-benzynowy-1.7-160km-1989-1993,3,4382 mm,1714 mm,1325 mm,2550 mm,1475 mm,1475 mm,od 1989 do 1993 roku,1678 cm³,benzynowy,160 , (118 ,) przy 7600 obr/min,159 
+Acura Integra III 1.8 142KM 104kW 1994-2001,integra,iii,silnik-benzynowy-1.8-142km-1994-2001,3,4380 mm,1695 mm,1335 mm,2570 mm,1475 mm,1465 mm,505 mm,295 mm,415 mm,1650 mm,od 1994 do 2001 roku,1834 cm³,benzynowy
+Acura EL II 1.7 127KM 93kW 2001-2005,el,ii,silnik-benzynowy-1.7-127km-2001-2005,4,4488 mm,1715 mm,1440 mm,2620 mm,od 2001 do 2005 roku,1668 cm³,benzynowy,127 , (93 ,) przy 6300 obr/min,155 , przy 4800 obr/min,DOHC
+Acura MDX II 2021,mdx,i,silnik-benzynowy-3.5-240km-2001-2006,5,4788 mm,1955 mm,1745 mm,2700 mm,od 2001 do 2006 roku,3471 cm³,benzynowy,240 , (177 ,) przy 5300 obr/min,332 , przy 3000 obr/min,SOHC (OHC)
+Volvo 940 Kombi,volvo,940,kombi,5,5,4844 mm,1750 mm,1450 mm,2770 mm,1471 mm,1460 mm,1004 mm,943 mm,1428 mm,1430 mm,2125 l,992 l
+Volvo 960 Sedan,volvo,960,sedan,4,5,4870 mm,1750 mm,1420 mm,2770 mm,1500 mm,1520 mm,980 mm,950 mm,1380 mm,1390 mm,491 l,680 mm
+Volvo 960 Kombi,volvo,960,kombi,5,5,4860 mm,1750 mm,1450 mm,2770 mm,1500 mm,1520 mm,1000 mm,940 mm,1380 mm,1390 mm,2125 l,992 l
+Volvo S40 I,volvo,s40,i,4,5,4483 mm,1717 mm,1411 mm,2550 mm,1454 mm,1474 mm,982 mm,945 mm,1371 mm,1374 mm,853 l,470 l
+Volvo S80 I,volvo,s80,i,4,5,12.1 m,6.0 m,4822 mm,1832 mm,1434 mm,2791 mm,1582 mm,1560 mm,964 mm,1067 mm,145 mm,988 mm
+Volvo S40 II,volvo,s40,ii,4,5,11.1 m,5.5 m,4476 mm,1770 mm,2022 mm,1454 mm,2640 mm,1535 mm,1531 mm,135 mm,1057 mm,988 mm
+Acura TSX II,acura,tsx,ii,4,5,4715 mm,1840 mm,1440 mm,2705 mm,1580 mm,1580 mm,955 mm,941 mm,1468 mm,1426 mm,1411 mm,1377 mm
+Volvo C30 Hatchback 3d,volvo,c30,hatchback-3d,3,4,11.1 m,5.5 m,4266 mm,1782 mm,2039 mm,1477 mm,2640 mm,1535 mm,1531 mm,148 mm,1057 mm,988 mm
+Acura TSX I 2.4 205KM 151kW 2004-2008,tsx,i,silnik-benzynowy-2.4-205km-2004-2008,4,5,4656 mm,1763 mm,1455 mm,2670 mm,od 2004 do 2008 roku,2354 cm³,benzynowy,205 , (151 ,) przy 7000 obr/min,233 , przy 4300 obr/min
+Volvo C30 Hatchback 3d Facelifting,volvo,c30,hatchback-3d-facelifting,3,4,4266 mm,1782 mm,2039 mm,1447 mm,2640 mm,1535 mm,1531 mm,1057 mm,988 mm,869 mm,959 mm,1390 mm
+Acura MDX II 2021,mdx,ii,silnik-benzynowy-3.7-300km-od-2007,5,4843 mm,1993 mm,1732 mm,2750 mm,1719 mm,1714 mm,208 mm,od 2007 roku,3664 cm³,benzynowy,300 , (221 ,) przy 6000 obr/min
+Acura RDX I 2.3 Turbo 240KM 177kW 2006-2012,rdx,i,silnik-benzynowy-2.3-turbo-240km-2006-2012,5,4635 mm,1870 mm,1655 mm,2650 mm,1572 mm,1590 mm,158 mm,982 mm,972 mm,1479 mm,1430 mm,1383 mm,1347 mm
+Volvo 740 Sedan,volvo,740,sedan,4,5,4785 mm,1750 mm,1410 mm,2770 mm,1470 mm,1460 mm,980 mm,500 mm,945 mm,490 mm,1430 mm,1430 mm
+Volvo 740 Kombi,volvo,740,kombi,5,5,4785 mm,1750 mm,1435 mm,2770 mm,1470 mm,1460 mm,980 mm,500 mm,955 mm,490 mm,1430 mm,1430 mm
+Volvo S60 I 2006,volvo,s60,i,4,5,11.8 m,5.9 m,4576 mm,1804 mm,1428 mm,1910 mm,2715 mm,1563 mm,1556 mm,140 mm,1082 mm,984 mm
+Volvo 360 Sedan,volvo,360,sedan,4,5,4415 mm,1660 mm,1392 mm,2400 mm,1381 mm,1400 mm,141 mm,970 mm,935 mm,1412 mm,1360 mm,1375 mm
+Volvo 360 Hatchback,volvo,360,hatchback,5,5,4300 mm,1660 mm,1392 mm,2400 mm,1380 mm,1400 mm,141 mm,970 mm,920 mm,1412 mm,1360 mm,1375 mm
+Volvo 340 Sedan,volvo,340,sedan,4,5,4435 mm,1661 mm,1392 mm,2400 mm,1379 mm,1405 mm,970 mm,935 mm,1412 mm,1359 mm,1374 mm,1054 mm
+Volvo 340 Hatchback,volvo,340,hatchback,3,5,9.1 m,4.5 m,4300 mm,1660 mm,1392 mm,2395 mm,1370 mm,1400 mm,154 mm,1072 mm,480 mm,1024 mm
+Volvo XC40 Crossover Facelifting,volvo,xc40,crossover-facelifting,5,5,11.8 m,5.9 m,4425 mm,1863 mm,2034 mm,1910 mm,1652 mm,2702 mm,1601 mm,1626 mm,855 mm,868 mm
+Volvo XC40 Crossover,volvo,xc40,crossover,5,5,11.4 m,5.7 m,4425 mm,1863 mm,2034 mm,1658 mm,2702 mm,1601 mm,1626 mm,855 mm,868 mm,211 mm
+Volvo V90 II Kombi 2.0 T5 254KM 2016,volvo,v90,i,5,5,4861 mm,1750 mm,1450 mm,2770 mm,1502 mm,1515 mm,1004 mm,943 mm,1383 mm,1389 mm,1280 mm,829 mm
+Volvo XC40 2021,volvo,xc40,crossover-plug-in,5,5,11.4 m,5.7 m,4425 mm,1863 mm,2034 mm,1652 mm,2702 mm,1601 mm,1626 mm,855 mm,868 mm,211 mm
+Volvo XC40 Crossover Plug-In Facelifting,volvo,xc40,crossover-plug-in-facelifting,5,5,11.4 m,5.7 m,4425 mm,1863 mm,2034 mm,1910 mm,1652 mm,2702 mm,1601 mm,1626 mm,855 mm,868 mm
+Volvo XC40 Recharge P6 69kWh 231KM 2022,volvo,xc40,recharge,5,5,11.8 m,5.9 m,4440 mm,1863 mm,2034 mm,1910 mm,1647 mm,2702 mm,1601 mm,1610 mm,175 mm,1295 l
+Volvo XC90 I,volvo,xc90,i,5,5,12.7 m,6.3 m,4807 mm,1898 mm,2112 mm,1784 mm,2857 mm,1634 mm,1624 mm,218 mm,1041 mm,1019 mm
+Aixam City 2020,city,city-ev,silnik-elektryczny-elektryczny-5km-od-2017,3,2,8.0 m,4.0 m,2758 mm,1500 mm,1795 mm,1345 mm,1345 mm,170 mm,700 l,700 l,od 2017 roku,elektryczny
+Aixam Coupe Coupe EV Elektryczny 12KM 9kW od 2017,coupe,coupe-ev,silnik-elektryczny-elektryczny-12km-od-2017,3,2,8.0 m,4.0 m,3000 mm,1500 mm,2000 mm,1345 mm,1345 mm,170 mm,1000 l,1000 l,od 2017 roku,elektryczny
+Bentley Brooklands II 6.8 V8 537KM 395kW od 2008,brooklands,ii,silnik-benzynowy-6.8-v8-537km-od-2008,2,5411 mm,1473 mm,3116 mm,1610 mm,1608 mm,od 2008 roku,6761 cm³,benzynowy,537 , (395 ,) przy 4100 obr/min,1050 , przy 3250 obr/min
+Aston Martin DB9 2005,db9,volante,silnik-benzynowy-5.9-i-v12-48v-450km-2003-2017,2,4,4710 mm,1875 mm,1270 mm,2745 mm,1570 mm,1560 mm,197 l,od 2003 do 2017 roku,5935 cm³,benzynowy,450 , (331 
+Aston Martin DB5 Volante 4.0 286KM 210kW 1963-1965,db5,volante,silnik-benzynowy-4.0-286km-1963-1965,2,4572 mm,1676 mm,1350 mm,2489 mm,1372 mm,1359 mm,od 1963 do 1965 roku,3996 cm³,benzynowy,286 , (210 ,) przy 5500 obr/min,390 
+Suzuki Wagon II,suzuki,wagon,ii,5,5,3500 mm,1620 mm,1700 mm,2360 mm,1420 mm,1385 mm,155 mm,475 mm,1045 mm,450 mm,1345 mm,1220 mm
+Suzuki Baleno III,suzuki,baleno,iii,5,5,9.8 m,4.9 m,3995 mm,1745 mm,1470 mm,2520 mm,1530 mm,1530 mm,120 mm,1085 l,355 l,540 kg
+Suzuki Liana Kombi,suzuki,liana,kombi,5,5,10.2 m,5.1 m,4230 mm,1690 mm,1550 mm,2480 mm,1450 mm,1445 mm,865 mm,885 mm,150 mm,1062 l
+Suzuki Alto IV 1.1 63KM 2004,alto,i,silnik-benzynowy-0.8-40km-1982-1985,5,5,3335 mm,1440 mm,1405 mm,2175 mm,od 1982 do 1985 roku,796 cm³,benzynowy,40 , (29 ,) przy 5500 obr/min,59 , przy 3000 obr/min
+Suzuki Alto II 0.8 39KM 29kW 1986-1993,alto,ii,silnik-benzynowy-0.8-39km-1986-1993,5,5,3340 mm,1400 mm,1395 mm,2335 mm,1220 mm,1200 mm,555 mm,450 mm,1050 l,145 l,od 1986 do 1993 roku,796 cm³
+Suzuki Alto V 0.7 54KM 40kW 2006-2008,alto,v,silnik-benzynowy-0.7-54km-2006-2008,5,5,3500 mm,1600 mm,1470 mm,2360 mm,1405 mm,1400 mm,150 mm,1260 mm,1230 mm,od 2006 do 2008 roku,658 cm³,benzynowy
+Suzuki Alto VI 1.0 68KM 50kW 2009-2014,alto,vi,silnik-benzynowy-1.0-68km-2009-2014,5,4,3500 mm,1600 mm,1470 mm,2360 mm,1405 mm,1400 mm,680 mm,460 mm,367 l,129 l,od 2009 do 2014 roku,996 cm³
+Toyota Tundra II,toyota,tundra,ii,5,5,5809 mm,2029 mm,1920 mm,3708 mm,1227 mm,1227 mm,1021 mm,983 mm,1692 mm,1661 mm,1600 mm,1590 mm
+Toyota Verso Minivan Facelifting 1.8 Valvematic 147KM 2017,toyota,verso,minivan-facelifting,5,5,10.8 m,5.4 m,4460 mm,1790 mm,1620 mm,2780 mm,1540 mm,1540 mm,930 mm,750 mm,145 mm,1340 mm
+Toyota Verso Minivan 2.0 D-4D 126KM 2012,toyota,verso,minivan,5,5,11.2 m,5.6 m,4440 mm,1790 mm,1620 mm,1660 mm,2780 mm,1535 mm,1545 mm,915 mm,745 mm,145 mm
+Toyota Starlet I,toyota,starlet,i,2,3790 mm,1530 mm,1310 mm,2265 mm,1260 mm,1245 mm,680 mm,845 mm,170 mm,850 mm,475 mm,215 mm,840 mm
+Toyota MR2 II,toyota,mr2,ii,2,2,4180 mm,1700 mm,1240 mm,2400 mm,1450 mm,1470 mm,965 mm,914 mm,508 mm,1270 mm,219 l,1321 mm
+Toyota Paseo I 1.5 i 16V 115KM 85kW 1991-1996,paseo,i,silnik-benzynowy-1.5-i-16v-115km-1991-1996,2,4,4145 mm,1645 mm,1295 mm,2380 mm,1405 mm,1395 mm,140 mm,815 l,220 l,od 1991 do 1996 roku,1497 cm³,benzynowy
+Toyota Starlet IV,toyota,starlet,iv,3,5,3790 mm,1625 mm,1400 mm,2300 mm,1400 mm,1395 mm,930 mm,480 mm,910 mm,440 mm,1705 mm,1380 mm
+Toyota Hiace II 2.0 D 60KM 44kW 1977-1982,hiace,ii,silnik-diesla-2.0-d-60km-1977-1982,4,2,4340 mm,1690 mm,1915 mm,2340 mm,1430 mm,1400 mm,940 mm,1060 mm,180 mm,1100 mm,595 mm,od 1977 do 1982 roku
+Toyota MR2 III 1.8 16V VT-i 140KM 103kW 2000-2007,mr2,iii,silnik-benzynowy-1.8-16v-vt-i-140km-2000-2007,2,2,3886 mm,1694 mm,1224 mm,2451 mm,1476 mm,1460 mm,947 mm,1290 mm,1265 mm,90 l,od 2000 do 2007 roku,1794 cm³
+Toyota GT86 Coupe Facelifting 2.0 Boxer 200KM 2018,gt86,coupe,silnik-benzynowy-2.0-boxer-200km-2012-2016,2,2,11.4 m,5.7 m,4240 mm,1775 mm,1285 mm,2570 mm,1520 mm,1540 mm,845 mm,825 mm,130 mm,480 l
+Toyota Celica I,toyota,celica,i,2,4,4165 mm,1600 mm,1310 mm,2425 mm,1280 mm,1285 mm,765 mm,955 mm,175 mm,920 mm,465 mm,865 mm
+Toyota GT86 Coupe Facelifting 2.0 Boxer 200KM 147kW 2016-2020,gt86,coupe-facelifting,silnik-benzynowy-2.0-boxer-200km-2016-2020,2,4,10.8 m,5.4 m,4240 mm,1775 mm,1320 mm,2570 mm,1520 mm,1540 mm,845 mm,825 mm,130 mm,243 l
+Toyota Yaris I,toyota,yaris,i,5,5,3640 mm,1660 mm,1500 mm,2370 mm,1450 mm,1430 mm,135 mm,950 mm,920 mm,1795 mm,1380 mm,1260 mm
+Toyota 4Runner II,toyota,4runner,ii,5,5,4470 mm,1690 mm,1745 mm,2625 mm,1430 mm,1425 mm,735 mm,1110 mm,200 mm,970 mm,960 mm,1705 l
+Toyota 4Runner III,toyota,4runner,iii,5,5,4470 mm,1690 mm,1745 mm,2625 mm,1430 mm,1425 mm,735 mm,1110 mm,200 mm,970 mm,960 mm,2100 l
+Toyota 4Runner IV,toyota,4runner,iv,5,5,4770 mm,1875 mm,1790 mm,2790 mm,1575 mm,1575 mm,910 mm,990 mm,960 mm,495 mm,985 mm,465 mm
+Toyota Celica VII,toyota,celica,vii,2,4,4335 mm,1735 mm,1305 mm,2600 mm,1490 mm,1480 mm,140 mm,940 mm,880 mm,1725 mm,1440 mm,1085 mm
+Toyota Corolla Verso AR10 1.8 i 130KM 2008,toyota,corolla-verso,ar10,5,5,10.8 m,5.4 m,4360 mm,1770 mm,1620 mm,1660 mm,2750 mm,1540 mm,1540 mm,900 mm,710 mm,1026 l
+Toyota Avalon II 3.0 i V6 24V 213KM 157kW 2000-2004,avalon,ii,silnik-benzynowy-3.0-i-v6-24v-213km-2000-2004,4,5,4874 mm,1821 mm,1450 mm,2720 mm,1549 mm,1524 mm,130 mm,1190 l,430 l,od 2000 do 2004 roku,2995 cm³,benzynowy
+Toyota Avalon III 2020,avalon,iii,silnik-benzynowy-3.5-v6-268km-2005-2012,4,5,5009 mm,1849 mm,1486 mm,2819 mm,1580 mm,1565 mm,135 mm,408 l,od 2005 do 2012 roku,3456 cm³,benzynowy,268 
+Toyota Proace City Furgon Long,toyota,proace-city,furgon-long,4,2,10.8 m,4753 mm,1848 mm,2107 mm,1860 mm,2975 mm,1553 mm,1459 mm,892 mm,886 mm,145 mm,4400 l
+Toyota Proace City Verso Long,toyota,proace-city,verso-long,5,5,10.8 m,4750 mm,1848 mm,2107 mm,1812 mm,1880 mm,2975 mm,1553 mm,1567 mm,892 mm,886 mm,154 mm
+Toyota Prius II 1.5 VVT-i 78KM 57kW 2003-2009,prius,ii,silnik-benzynowy-1.5-vvt-i-78km-2003-2009,5,5,4445 mm,1725 mm,1490 mm,2700 mm,1505 mm,1480 mm,145 mm,950 mm,900 mm,1890 mm,1440 mm,1225 mm
+Toyota Sienna III 3.5 V6 266KM 2015,toyota,sienna,i,5,5,4935 mm,1864 mm,1709 mm,2895 mm,1575 mm,1600 mm,1031 mm,1034 mm,1534 mm,1577 mm,1491 mm,1605 mm
+Toyota Sequoia II,toyota,sequoia,ii,5,7,5209 mm,2029 mm,1956 mm,3099 mm,1727 mm,1752 mm,973 mm,988 mm,1686 mm,1666 mm,1577 mm,1521 mm
+Toyota Sequoia I 4.7 V8 32V 273KM 2006,toyota,sequoia,i,5,5,5209 mm,2027 mm,1956 mm,3099 mm,1727 mm,1752 mm,973 mm,988 mm,1686 mm,1666 mm,1577 mm,1521 mm
+Toyota Hilux II 2.2 95KM 70kW 1973-1978,hilux,ii,silnik-benzynowy-2.2-95km-1973-1978,2,2,4689 mm,1580 mm,1580 mm,2794 mm,od 1973 do 1978 roku,2237 cm³,benzynowy,95 , (70 ,) przy 4600 obr/min,181 , przy 3000 obr/min
+Toyota Land Cruiser II,toyota,land-cruiser,ii,5,5,4970 mm,1900 mm,1900 mm,2850 mm,1575 mm,1580 mm,705 mm,1100 mm,1368 l,830 l,1220 mm,1510 mm
+Toyota Sienna II,toyota,sienna,ii,5,8,5085 mm,1986 mm,1750 mm,3022 mm,1727 mm,1727 mm,993 mm,965 mm,1651 mm,1641 mm,1488 mm,1678 mm
+Toyota RAV4 II,toyota,rav4,ii,3,4,10.6 m,4200 mm,1735 mm,2135 mm,1785 mm,1680 mm,1715 mm,2490 mm,1505 mm,1495 mm,175 mm,766 l
+Toyota Proace City Furgon Standard,toyota,proace-city,furgon-standard,3,2,10.8 m,4403 mm,1848 mm,2107 mm,1796 mm,2785 mm,1548 mm,1568 mm,892 mm,726 mm,145 mm,3800 l
+Toyota Proace City Verso Standard,toyota,proace-city,verso-standard,5,5,10.8 m,4403 mm,1848 mm,2107 mm,1773 mm,2785 mm,1548 mm,1568 mm,892 mm,726 mm,154 mm,1355 l
+Toyota Proace City Furgon Brygadowy,toyota,proace-city,furgon-brygadowy,5,5,10.8 m,4753 mm,1848 mm,2107 mm,1860 mm,2975 mm,1553 mm,1549 mm,892 mm,886 mm,154 mm,3500 l
+Toyota Highlander III 2.5 248KM 2020,highlander,iii,silnik-hybrydowy-2.5-248km-od-2020,5,7,11.4 m,4950 mm,1930 mm,1730 mm,2850 mm,1662 mm,1659 mm,988 mm,1128 mm,203 mm,1909 l,241 l
+Toyota Proace City Electric Standard 50kWh 136KM 100kW od 2022,proace-city,electric-standard,silnik-elektryczny-50kwh-136km-od-2022,5,3,11.4 m,5.7 m,4403 mm,1848 mm,2107 mm,1796 mm,2785 mm,1548 mm,1548 mm,892 mm,726 mm,160 mm
+Toyota Proace City Electric Long 50kWh 136KM 100kW od 2022,proace-city,electric-long,silnik-elektryczny-50kwh-136km-od-2022,5,3,11.6 m,5.8 m,4753 mm,1848 mm,2107 mm,1796 mm,2975 mm,1553 mm,1553 mm,892 mm,886 mm,160 mm
+Toyota C-HR 2020,toyota,c-hr,crossover-facelifting,5,5,10.4 m,5.2 m,4360 mm,1795 mm,1565 mm,2640 mm,1550 mm,1560 mm,915 mm,805 mm,160 mm,377 l
+Toyota C-HR Crossover,toyota,c-hr,crossover,5,5,10.4 m,5.2 m,4360 mm,1795 mm,1565 mm,2640 mm,1550 mm,1560 mm,915 mm,805 mm,160 mm,377 l
+Toyota Camry VIII,toyota,camry,viii,4,5,11.3 m,5.7 m,4849 mm,1821 mm,1471 mm,2776 mm,1595 mm,1585 mm,155 mm,985 mm,957 mm,1473 mm
+Volkswagen LT II,volkswagen,lt,ii,4,9,4835 mm,1933 mm,2350 mm,3000 mm,1625 mm,1630 mm,885 mm,950 mm,194 mm,670 mm,1560 mm,1540 mm
+Volkswagen Golf Sportsvan Sportsvan 1.6 TDI BlueMotion 110KM 2015,volkswagen,golf-sportsvan,sportsvan,5,5,11.1 m,4338 mm,4434 mm,1807 mm,2050 mm,3732 mm,3481 mm,1578 mm,2045 mm,1799 mm,2685 mm,1543 mm
+Toyota Camry IX 2.5 Hybrid Dynamic Force 218KM 160kW od 2018,camry,ix,silnik-hybrydowy-2.5-hybrid-dynamic-force-218km-od-2018,4,5,11.4 m,5.7 m,4885 mm,1840 mm,1445 mm,2825 mm,1580 mm,1590 mm,127 mm,524 l,od 2018 roku,2487 cm³
+Volkswagen New Beetle Hatchback,volkswagen,new-beetle,hatchback,2,4,10.9 m,5.5 m,4081 mm,4201 mm,1724 mm,1885 mm,3605 mm,1498 mm,1732 mm,2508 mm,1508 mm,1494 mm
+Volkswagen Fox Hatchback 1.2 i 55KM 2006,volkswagen,fox,hatchback,3,4,3825 mm,1640 mm,1902 mm,3838 mm,1524 mm,2045 mm,1766 mm,2450 mm,1431 mm,1425 mm,88 mm,995 mm
+Volkswagen New Beetle Cabrio,volkswagen,new-beetle,cabrio,2,4,4129 mm,4220 mm,1721 mm,1897 mm,3605 mm,1502 mm,1309 mm,1746 mm,2516 mm,1507 mm,1487 mm,103 mm
+Volkswagen Golf Sportsvan Sportsvan Facelifting,volkswagen,golf-sportsvan,sportsvan-facelifting,5,5,11.1 m,5.5 m,4351 mm,1807 mm,2050 mm,1613 mm,2045 mm,2670 mm,1549 mm,1520 mm,821 mm,760 mm
+Volkswagen Golf Plus II 1.4 TSI 160KM 2010,volkswagen,golf-plus,ii,5,5,10.8 m,4204 mm,4299 mm,1759 mm,1946 mm,3638 mm,3646 mm,1592 mm,1621 mm,2048 mm,1804 mm,2578 mm
+Volkswagen Golf Plus I,volkswagen,golf-plus,i,5,5,10.8 m,5.4 m,4206 mm,1759 mm,1580 mm,2578 mm,1541 mm,1529 mm,877 mm,751 mm,145 mm,1019 mm
+Volkswagen Bora Sedan 1.4 16V 75KM 2000,volkswagen,bora,sedan,4,5,4376 mm,1735 mm,1446 mm,2513 mm,1513 mm,1494 mm,880 mm,975 mm,590 mm,933 mm,1406 mm,1402 mm
+Volkswagen EOS Coupe Cabrio,volkswagen,eos,coupe-cabrio,2,10.9 m,4407 mm,4510 mm,1791 mm,4153 mm,1443 mm,1941 mm,1775 mm,2578 mm,1545 mm,1547 mm,106 mm,1109 mm
+Volkswagen EOS Coupe Cabrio Facelifting,volkswagen,eos,coupe-cabrio-facelifting,2,4,10.9 m,4423 mm,4518 mm,1791 mm,2009 mm,4153 mm,1444 mm,1944 mm,1772 mm,2578 mm,1545 mm,1547 mm
+Volkswagen Jetta V,volkswagen,jetta,v,4,5,4554 mm,4653 mm,1781 mm,2003 mm,3640 mm,3435 mm,1459 mm,1787 mm,1763 mm,2578 mm,1534 mm,1512 mm
+Volkswagen Jetta IV,volkswagen,jetta,iv,4,5,4149 mm,1735 mm,1439 mm,2511 mm,1513 mm,1494 mm,861 mm,777 mm,102 mm,880 mm,979 mm,958 mm
+Volkswagen Beetle Hatchback 3d,volkswagen,beetle,hatchback-3d,3,10.8 m,4278 mm,1808 mm,2021 mm,1486 mm,2048 mm,1781 mm,2537 mm,1578 mm,1544 mm,136 mm,1048 mm,1000 mm
+Volkswagen Beetle Cabriolet,volkswagen,beetle,cabriolet,2,5,10.5 m,4278 mm,1808 mm,2021 mm,3865 mm,1473 mm,1544 mm,1780 mm,2540 mm,1578 mm,1554 mm,136 mm
+Volkswagen Touareg I,volkswagen,touareg,i,5,5,11.6 m,5.8 m,4754 mm,1925 mm,2217 mm,1726 mm,2855 mm,1653 mm,1665 mm,926 mm,973 mm,240 mm
+Volkswagen Touran III,volkswagen,touran,iii,5,5,11.5 m,4527 mm,1829 mm,2087 mm,1659 mm,2035 mm,2791 mm,1569 mm,1542 mm,156 mm,1064 mm,979 mm
+Volkswagen T-Roc SUV,volkswagen,t-roc,suv,5,5,11.0 m,5.5 m,4234 mm,1819 mm,1992 mm,1501 mm,1573 mm,2603 mm,161 mm,180 mm,1005 mm,1290 l
+Volkswagen T-Roc SUV Facelifting,volkswagen,t-roc,suv-facelifting,5,5,10.9 m,4236 mm,1819 mm,2012 mm,1584 mm,2590 mm,1538 mm,1531 mm,161 mm,1290 l,445 l,1011 mm
+Volkswagen Amarok Pick Up Double Cab,volkswagen,amarok,pick-up-double-cab,4,5,12.9 m,5254 mm,1944 mm,2228 mm,1834 mm,3095 mm,898 mm,1261 mm,230 mm,780 mm,28.0 °,23.0 °
+Volkswagen Touran II,volkswagen,touran,ii,5,5,11.2 m,4397 mm,4494 mm,1794 mm,2081 mm,1801 mm,3590 mm,3584 mm,1674 mm,2060 mm,1865 mm,2678 mm
+Volkswagen Amarok Pick Up Double Cab 2.0 TDI 140KM 2015,volkswagen,amarok,pick-up-single-cab,2,2,12.9 m,5254 mm,1944 mm,2228 mm,1820 mm,3095 mm,898 mm,1261 mm,230 mm,1222 mm,780 mm,28.0 °
+Volkswagen Sharan I 1.9 TDI 116KM 2009,volkswagen,sharan,i,5,5,10.9 m,5.5 m,4617 mm,4800 mm,1810 mm,2142 mm,1728 mm,1762 mm,2835 mm,1510 mm,1505 mm,875 mm
+Volkswagen Tiguan Allspace 2020,volkswagen,tiguan-allspace,suv-facelifting,5,5,11.9 m,4728 mm,1839 mm,1674 mm,2789 mm,1575 mm,1565 mm,201 mm,1920 l,760 l,16.8 °,16.1 °
+Volkswagen T-Roc SUV R 2.0 TSI 300KM 221kW 2019-2021,t-roc,suv-r,silnik-benzynowy-2.0-tsi-300km-2019-2021,5,5,11.1 m,5.5 m,4348 mm,1819 mm,1992 mm,1573 mm,2089 mm,2593 mm,1538 mm,1539 mm,161 mm,1043 mm
+Volkswagen Tiguan Allspace SUV,volkswagen,tiguan-allspace,suv,5,5,11.9 m,6.0 m,4701 mm,1839 mm,2099 mm,1674 mm,2097 mm,2790 mm,1575 mm,1564 mm,191 mm,210 mm
+Volkswagen T-Roc SUV Facelifting 1.0 TSI 110KM 2022,t-roc,suv-r-facelifting,silnik-benzynowy-2.0-tsi-300km-od-2022,5,5,11.3 m,4236 mm,1819 mm,1559 mm,2594 mm,1541 mm,1550 mm,158 mm,1237 l,392 l,1011 mm,17.2 °
+Volkswagen Amarok Pick Up Double Cab Facelifting,volkswagen,amarok,pick-up-double-cab-facelifting,4,5,12.9 m,6.5 m,5254 mm,1954 mm,2228 mm,1834 mm,3095 mm,898 mm,1261 mm,249 mm,1279 l,1279 l
+Volkswagen Caddy III 2004,volkswagen,caddy,i,2,2,4370 mm,1640 mm,1430 mm,2625 mm,1390 mm,1375 mm,760 mm,985 mm,640 mm,1835 mm,1305 mm,385 mm
+Volkswagen Arteon Shooting Brake 2.0 TSI 272KM 2020,volkswagen,arteon,fastback,4,5,11.9 m,6.0 m,4862 mm,1871 mm,2127 mm,1427 mm,2172 mm,2837 mm,1587 mm,1577 mm,137 mm,1008 mm
+Aston Martin DB7 Vantage 5.9 i V12 48V 420KM 309kW 1999-2003,db7,vantage,silnik-benzynowy-5.9-i-v12-48v-420km-1999-2003,2,4,4666 mm,1830 mm,1238 mm,2591 mm,1516 mm,1516 mm,180 l,od 1999 do 2003 roku,5935 cm³,benzynowy,420 , (309 
+Aston Martin DB7 Volante 5.9 i V12 48V 420KM 309kW 1999-2003,db7,volante,silnik-benzynowy-5.9-i-v12-48v-420km-1999-2003,2,4,4692 mm,1830 mm,1270 mm,2591 mm,1524 mm,1530 mm,150 l,od 1999 do 2003 roku,5935 cm³,benzynowy,420 , (309 
+Aston Martin DB9 Coupe 5.9 i V12 48V 450KM 331kW 2003-2017,db9,coupe,silnik-benzynowy-5.9-i-v12-48v-450km-2003-2017,2,4,4697 mm,1875 mm,1318 mm,2740 mm,175 l,od 2003 do 2017 roku,5935 cm³,benzynowy,450 , (331 ,) przy 6000 obr/min,570 
+Volkswagen California Multivan 6.1,volkswagen,california,multivan-6.1,5,7,13.2 m,6.6 m,5304 mm,1904 mm,2297 mm,1990 mm,3400 mm,209 mm,1003 l,21.7 °,12.7 °,16.7 °
+Aston Martin DB7 Zagato 5.9 i V12 48V 450KM 331kW 2002-2003,db7,zagato,silnik-benzynowy-5.9-i-v12-48v-450km-2002-2003,2,4488 mm,1860 mm,1247 mm,2531 mm,1536 mm,1540 mm,990 mm,966 mm,11.2 °,19.1 °,od 2002 do 2003 roku,benzynowy,450 
+Volkswagen Arteon Fastback R 2.0 TSI 320KM 235kW od 2020,arteon,fastback-r,silnik-benzynowy-2.0-tsi-320km-od-2020,5,5,11.9 m,4866 mm,1871 mm,1460 mm,2838 mm,1587 mm,1579 mm,138 mm,1557 l,563 l,1005 mm,2092 mm
+Volkswagen ID. Buzz Cargo 82kWh 204KM 150kW od 2022,id.-buzz,cargo,silnik-elektryczny-82kwh-204km-od-2022,4,3,11.1 m,5.5 m,4712 mm,1985 mm,1937 mm,2988 mm,1683 mm,1670 mm,157 mm,od 2022 roku,elektryczny,204 
+Volkswagen Arteon Shooting Brake 2.0 TSI 272KM 2020,arteon,fastback-plug-in,silnik-hybrydowy-1.4-tsi-plug-in-hybrid-218km-od-2020,5,5,11.9 m,4866 mm,1871 mm,1460 mm,2835 mm,1587 mm,1576 mm,138 mm,1557 l,563 l,1005 mm,2092 mm
+Volkswagen Arteon Shooting Brake R 2.0 TSI 320KM 235kW od 2020,arteon,shooting-brake-r,silnik-benzynowy-2.0-tsi-320km-od-2020,5,5,11.9 m,4866 mm,1871 mm,1462 mm,2838 mm,1587 mm,1579 mm,138 mm,1632 l,590 l,976 mm,2091 mm
+Volkswagen Caddy III 2004,volkswagen,caddy,ii,3,2,4226 mm,1695 mm,2010 mm,1836 mm,2601 mm,1436 mm,1452 mm,827 mm,798 mm,558 mm,1316 mm,1681 mm
+Volkswagen ID. Buzz Van 82kWh 204KM 150kW od 2022,id.-buzz,van,silnik-elektryczny-82kwh-204km-od-2022,5,5,11.1 m,5.5 m,4712 mm,1985 mm,1937 mm,2988 mm,1673 mm,1667 mm,160 mm,2205 l,1121 l,od 2022 roku
+Volkswagen Arteon Shooting Brake Plug-in 1.4 TSI Plug-In-Hybrid 218KM 160kW od 2020,arteon,shooting-brake-plug-in,silnik-hybrydowy-1.4-tsi-plug-in-hybrid-218km-od-2020,5,5,11.9 m,4866 mm,1871 mm,1462 mm,2839 mm,1587 mm,1575 mm,138 mm,1632 l,590 l,od 2020 roku,1395 cm³
+Aston Martin DB7 GT 5.9 i V12 48V 440KM 324kW 2002-2003,db7,gt,silnik-benzynowy-5.9-i-v12-48v-440km-2002-2003,2,4,4692 mm,1830 mm,1243 mm,2591 mm,180 l,od 2002 do 2003 roku,5935 cm³,benzynowy,440 , (324 ,) przy 6000 obr/min,556 
+Subaru WRX STI Sedan 2.5 300KM 221kW 2014-2017,wrx-sti,sedan,silnik-benzynowy-2.5-300km-2014-2017,4,5,5.5 m,4595 mm,1795 mm,1475 mm,2650 mm,1530 mm,1540 mm,135 mm,460 l,od 2014 do 2017 roku,2457 cm³,benzynowy
+Seat Toledo II 1.9 TDI 90KM 2000,seat,toledo,ii,4,5,4439 mm,1742 mm,1436 mm,2513 mm,1513 mm,1494 mm,882 mm,1044 mm,983 mm,1379 mm,1360 mm,1841 mm
+Skoda Praktik Furgon,skoda,praktik,furgon,2,2,10.5 m,4213 mm,1684 mm,1897 mm,1607 mm,2620 mm,1436 mm,1500 mm,860 mm,733 mm,14.2 °,18.2 °
+Subaru WRX STI Sedan Facelifting 2.5 300KM 221kW 2017-2018,wrx-sti,sedan-facelifting,silnik-benzynowy-2.5-300km-2017-2018,5,5,11.0 m,5.5 m,4595 mm,1795 mm,1475 mm,2650 mm,1530 mm,1540 mm,135 mm,460 l,1070 mm,490 mm
+Skoda Yeti Minivan,skoda,yeti,minivan,5,5,10.3 m,4223 mm,1793 mm,1956 mm,1691 mm,2578 mm,1541 mm,1537 mm,877 mm,768 mm,180 mm,1446 mm
+Seat Toledo III,seat,toledo,iii,5,5,10.4 m,5.2 m,4457 mm,1768 mm,1568 mm,2578 mm,1534 mm,1523 mm,913 mm,966 mm,144 mm,1006 mm
+Ssangyong Tivoli Crossover,ssangyong,tivoli,crossover,5,5,10.6 m,5.3 m,4195 mm,1795 mm,1590 mm,2600 mm,1555 mm,1555 mm,860 mm,735 mm,167 mm,167 mm
+Skoda Yeti Outdoor 1.2 TSI 110KM 2016,skoda,yeti,outdoor,5,5,10.4 m,5.2 m,4222 mm,1793 mm,1545 mm,2578 mm,1541 mm,1537 mm,877 mm,772 mm,212 mm,416 l
+Ssangyong Tivoli Crossover Facelifting,ssangyong,tivoli,crossover-facelifting,5,5,10.6 m,5.3 m,4225 mm,1810 mm,1613 mm,1621 mm,2600 mm,1555 mm,1555 mm,880 mm,745 mm,156 mm
+Ssangyong Rodius I 2.7 Xdi 165KM 121kW od 2004,rodius,i,silnik-diesla-2.7-xdi-165km-2004-2010,5,5,5125 mm,1915 mm,1820 mm,3000 mm,1590 mm,1580 mm,od 2004 do 2010 roku,2696 cm³,diesel,165 , (121 ,) przy 4000 obr/min
+Ssangyong Rexton III D20DTR 155KM 2015,ssangyong,rexton,iii,5,5,5.7 m,4755 mm,1900 mm,1840 mm,2835 mm,1570 mm,1570 mm,885 mm,1035 mm,250 mm,250 mm,28.0 °
+Ssangyong Actyon Terenowy,ssangyong,actyon,terenowy,5,5,5.6 m,4455 mm,1880 mm,1735 mm,2740 mm,1570 mm,1570 mm,217 mm,321 l,26.0 °,20.0 °,29.0 °
+Ssangyong Actyon Pick Up,ssangyong,actyon,pick-up,4,5,6.2 m,4965 mm,1900 mm,1755 mm,3060 mm,1570 mm,1570 mm,216 mm,25.7 °,19.3 °,23.6 °,20.8 °
+Ssangyong Kyron II,ssangyong,kyron,ii,5,5,4660 mm,1880 mm,1740 mm,1755 mm,2740 mm,1570 mm,1570 mm,885 mm,1035 mm,195 mm,490 mm,475 mm
+Ssangyong Tivoli Crossover Grand 1.5 T-Gdi 163KM 120kW od 2021,tivoli,crossover-grand,silnik-benzynowy-1.5-t-gdi-163km-od-2021,5,5,10.6 m,5.3 m,4480 mm,1810 mm,1646 mm,1660 mm,2600 mm,1555 mm,1555 mm,888 mm,992 mm,175 mm
+Ssangyong Korando IV,ssangyong,korando,iv,5,5,10.8 m,5.4 m,4410 mm,1830 mm,1675 mm,1710 mm,2650 mm,1573 mm,1558 mm,920 mm,840 mm,180 mm
+Skoda Yeti Outdoor 1.2 TSI 110KM 2016,skoda,yeti,minivan-facelifting,5,5,10.0 m,5.0 m,4222 mm,1793 mm,1545 mm,2578 mm,1541 mm,1537 mm,877 mm,767 mm,170 mm,1089 mm
+Ssangyong Korando I 2.2 D 68KM 50kW 1988-1996,korando,i,silnik-diesla-2.2-d-68km-1988-1996,3,5,3860 mm,1700 mm,1850 mm,2390 mm,od 1988 do 1996 roku,2238 cm³,diesel,68 , (50 ,) przy 4000 obr/min,143 , przy 2000 obr/min
+Ssangyong Kyron I 2006,kyron,i,silnik-diesla-2.0-xdi-141km-2005-2007,5,5,4670 mm,1890 mm,1760 mm,2750 mm,1570 mm,1570 mm,od 2005 do 2007 roku,1998 cm³,diesel,141 , (104 ,) przy 4000 obr/min
+Seat Exeo ST,seat,exeo,st,5,5,10.8 m,5.4 m,4666 mm,1772 mm,1454 mm,2642 mm,1522 mm,1523 mm,976 mm,1048 mm,140 mm,976 mm
+Seat Mii Hatchback 5d 1.0 60KM 2014,seat,mii,hatchback-3d,3,4,9.8 m,4.9 m,3557 mm,1641 mm,1910 mm,1478 mm,2420 mm,1428 mm,1424 mm,595 mm,542 mm,178 mm
+Seat Mii Hatchback 5d,seat,mii,hatchback-5d,5,4,9.8 m,4.9 m,3557 mm,1645 mm,1478 mm,2420 mm,1428 mm,1424 mm,595 mm,542 mm,178 mm,993 mm
+Seat Ateca SUV 1.6 TDI Ecomotive 115KM 2018,seat,ateca,suv,5,5,10.8 m,5.4 m,4363 mm,1841 mm,2078 mm,1601 mm,1615 mm,2638 mm,1576 mm,1541 mm,868 mm,857 mm
+Seat Exeo Sedan,seat,exeo,sedan,4,5,11.2 m,5.6 m,4661 mm,1772 mm,1430 mm,2642 mm,1522 mm,1523 mm,976 mm,1043 mm,145 mm,976 mm
+Seat Exeo ST Facelifting 2.0 TDI 120KM 2012,seat,exeo,sedan-facelifting,4,5,11.2 m,4661 mm,1772 mm,1430 mm,2642 mm,1522 mm,1523 mm,976 mm,1043 mm,976 mm,947 mm,1420 mm
+Seat Altea XL 2.0 TDI 140KM 2007,seat,altea,standard,5,5,10.9 m,5.5 m,4282 mm,1768 mm,1576 mm,2578 mm,1535 mm,1511 mm,915 mm,789 mm,140 mm,1006 mm
+Seat Exeo ST Facelifting 2.0 TDI 120KM 2012,seat,exeo,st-facelifting,5,5,11.2 m,4666 mm,1772 mm,1454 mm,2642 mm,1522 mm,1523 mm,976 mm,1048 mm,976 mm,956 mm,1420 mm
+Seat Arona Crossover,seat,arona,crossover,5,5,10.6 m,5.3 m,4138 mm,1787 mm,1942 mm,1543 mm,2564 mm,1525 mm,1505 mm,803 mm,769 mm,190 mm
+Smart Roadster Cabrio,smart,roadster,cabrio,2,2,3427 mm,1615 mm,1656 mm,1192 mm,1192 mm,2360 mm,1357 mm,1392 mm,594 mm,473 mm,86 l,45 l
+Seat Ateca SUV Facelifting,seat,ateca,suv-facelifting,5,5,10.8 m,5.4 m,4381 mm,1841 mm,2078 mm,1601 mm,1615 mm,2638 mm,1578 mm,1541 mm,871 mm,872 mm
+Seat Leon II,seat,leon,ii,5,5,10.7 m,5.3 m,4315 mm,1768 mm,1458 mm,2578 mm,1533 mm,1517 mm,949 mm,788 mm,145 mm,1000 mm
+Seat Arosa I,seat,arosa,i,3,4,3536 mm,1639 mm,1460 mm,2323 mm,1372 mm,1400 mm,738 mm,468 mm,992 mm,1367 mm,1343 mm,1810 mm
+Seat Arona Crossover Facelifting,seat,arona,crossover-facelifting,5,5,11.5 m,4154 mm,1780 mm,1942 mm,1537 mm,2566 mm,1513 mm,1495 mm,809 mm,779 mm,1059 mm,990 mm
+Seat Arosa II 1.0 50KM 2002,seat,arosa,ii,3,4,3551 mm,1639 mm,1460 mm,2323 mm,1400 mm,1392 mm,753 mm,475 mm,110 mm,992 mm,950 mm,1367 mm
+Seat Altea XL,seat,altea,xl,5,5,10.9 m,5.5 m,4469 mm,1768 mm,1581 mm,2578 mm,1535 mm,1511 mm,915 mm,976 mm,170 mm,1006 mm
+Seat Altea XL 2.0 TDI 140KM 2007,seat,altea,freetrack,5,5,4493 mm,1788 mm,1622 mm,2576 mm,1542 mm,1527 mm,940 mm,977 mm,1415 mm,1407 mm,632 l,490 l
+Seat Ibiza III,seat,ibiza,iii,3,5,5.0 m,3953 mm,1698 mm,1441 mm,2460 mm,1435 mm,1424 mm,831 mm,662 mm,966 mm,960 mm,1335 mm
+Seat Tarraco SUV,seat,tarraco,suv,5,5,11.5 m,5.8 m,4735 mm,1839 mm,2118 mm,1658 mm,1674 mm,2790 mm,1585 mm,1574 mm,926 mm,1019 mm
+Seat Tarraco SUV 2.0 TSI 190KM 2022,seat,tarraco,suv-facelifting,5,5,11.9 m,6.0 m,4735 mm,1839 mm,2118 mm,1658 mm,1674 mm,2790 mm,1585 mm,1574 mm,926 mm,1019 mm
+Seat Tarraco SUV 2.0 TSI 190KM 2022,tarraco,suv-plug-in,silnik-hybrydowy-1.4-e-hybrid-245km-2021-2022,5,5,11.9 m,4735 mm,1839 mm,2118 mm,1658 mm,1674 mm,2790 mm,1585 mm,1574 mm,926 mm,1019 mm,610 l
+Seat Tarraco SUV Plug-In Facelifting 1.4 TSI e-HYBRID 245KM 180kW od 2022,tarraco,suv-plug-in-facelifting,silnik-hybrydowy-1.4-tsi-e-hybrid-245km-od-2022,5,5,11.9 m,6.0 m,4735 mm,1839 mm,2118 mm,1658 mm,1674 mm,2790 mm,1585 mm,1574 mm,926 mm,1019 mm
+Renault Safrane II,renault,safrane,ii,5,5,4768 mm,1790 mm,1816 mm,1435 mm,2766 mm,1530 mm,1487 mm,1011 mm,991 mm,940 mm,890 mm,1450 mm
+Renault Scenic II,renault,scenic,ii,5,5,10.7 m,5.3 m,4259 mm,1805 mm,2087 mm,1621 mm,1980 mm,2685 mm,1514 mm,1514 mm,851 mm,723 mm
+Renault Fluence Sedan 2.0 16V 140KM 2010,renault,fluence,sedan,4,5,4618 mm,1809 mm,2037 mm,1479 mm,2702 mm,1541 mm,1563 mm,908 mm,1010 mm,120 mm,892 mm,850 mm
+Renault Twingo I,renault,twingo,i,2,4,8.0 m,4.0 m,3433 mm,1630 mm,1423 mm,2347 mm,1416 mm,1374 mm,600 mm,486 mm,165 mm,1095 l
+Renault Modus Grand 1.5 dCi 103KM 2012,renault,modus,grand,5,5,10.4 m,5.2 m,4034 mm,1709 mm,1960 mm,1589 mm,2575 mm,1472 mm,1450 mm,802 mm,657 mm,120 mm
+Renault Grand Scenic III,renault,grand-scenic,iii,5,5,11.4 m,5.7 m,4634 mm,1866 mm,2128 mm,1655 mm,2804 mm,1602 mm,1586 mm,931 mm,889 mm,140 mm
+Renault Modus Grand 1.5 dCi 103KM 2012,renault,modus,hatchback,5,5,3792 mm,1695 mm,1960 mm,1589 mm,1985 mm,2482 mm,1471 mm,1450 mm,771 mm,539 mm,120 mm,1031 mm
+Renault Thalia I,renault,thalia,i,4,5,10.4 m,5.2 m,4171 mm,1639 mm,1911 mm,1437 mm,2472 mm,1406 mm,1386 mm,739 mm,960 mm,150 mm
+Renault Espace IV Van 2.0 i 16V Turbo 170KM 2004,renault,espace,i,5,5,4365 mm,1777 mm,1600 mm,1740 mm,2580 mm,1467 mm,1489 mm,920 mm,865 mm,150 mm,1580 mm,1550 mm
+Renault Thalia II,renault,thalia,ii,4,5,10.3 m,4261 mm,1940 mm,1439 mm,2473 mm,1406 mm,1385 mm,788 mm,1001 mm,140 mm,874 mm,828 mm
+Renault Alpine A310,renault,alpine,a310,2,4,4180 mm,1640 mm,1150 mm,2270 mm,1404 mm,1430 mm,910 mm,1000 mm,880 mm,850 mm,1300 mm,1300 mm
+Renault Alpine GTA,renault,alpine,gta,2,4,4330 mm,1754 mm,1197 mm,2339 mm,1493 mm,1462 mm,994 mm,997 mm,130 mm,830 mm,789 mm,1470 mm
+Renault 5 II,renault,5,ii,3,5,3543 mm,1525 mm,1385 mm,2412 mm,1294 mm,1270 mm,533 mm,568 mm,967 mm,946 mm,1722 mm,915 l
+Renault 25 I,renault,25,i,5,5,4923 mm,1772 mm,1416 mm,2723 mm,1497 mm,1461 mm,820 mm,950 mm,470 mm,540 mm,880 mm,470 mm
+Renault Alpine A610 3.0 Turbo 250KM 184kW 1991-1995,alpine,a610,silnik-benzynowy-3.0-turbo-250km-1991-1995,2,4,4450 mm,1770 mm,1190 mm,2350 mm,od 1991 do 1995 roku,2975 cm³,benzynowy,250 , (184 ,) przy 5750 obr/min,350 , przy 2900 obr/min
+Renault Talisman Sedan,renault,talisman,sedan,4,5,11.6 m,5.8 m,4848 mm,1869 mm,2081 mm,1463 mm,1752 mm,2808 mm,1614 mm,1609 mm,959 mm,1081 mm
+Renault Trafic I,renault,trafic,i,4,3,4542 mm,1905 mm,2290 mm,2017 mm,2800 mm,1560 mm,1526 mm,920 mm,822 mm,162 mm,467 mm,1230 mm
+Renault ZOE I,renault,zoe,i,5,5,10.6 m,5.3 m,4086 mm,1730 mm,1945 mm,1562 mm,2588 mm,1511 mm,1510 mm,839 mm,657 mm,338 l
+Renault Talisman Kombi,renault,talisman,kombi,5,5,11.6 m,4865 mm,1869 mm,2081 mm,1890 mm,1465 mm,2111 mm,2808 mm,1614 mm,1609 mm,959 mm,1098 mm
+Renault 11 Hatchback,renault,11,hatchback,5,5,4047 mm,1666 mm,1410 mm,2483 mm,1400 mm,1357 mm,789 mm,775 mm,120 mm,944 mm,915 mm,1769 mm
+Renault Talisman Grandtour Facelifting,renault,talisman,grandtour-facelifting,5,5,11.6 m,4865 mm,1869 mm,2081 mm,1465 mm,2809 mm,1614 mm,1609 mm,959 mm,1097 mm,145 mm,1681 l
+Renault ZOE II,renault,zoe,ii,5,5,10.6 m,5.3 m,4084 mm,1787 mm,1562 mm,2588 mm,838 mm,657 mm,120 mm,1225 l,338 l,1988 kg
+Renault Talisman Grandtour Facelifting 2.0 Blue dCi 189KM 2021,renault,talisman,sedan-facelifting,4,5,11.6 m,4848 mm,1869 mm,2081 mm,1463 mm,2808 mm,1614 mm,1609 mm,959 mm,1081 mm,145 mm,1022 l
+Renault 18 Sedan,renault,18,sedan,5,5,4381 mm,1689 mm,1405 mm,2441 mm,1416 mm,1356 mm,926 mm,1014 mm,120 mm,420 mm,1015 mm,950 mm
+Renault Master I,renault,master,i,4,2,5000 mm,2000 mm,2260 mm,2415 mm,3200 mm,1650 mm,1700 mm,875 mm,925 mm,1520 mm,1798 mm,830 mm
+Renault 4 Van,renault,4,van,3,2,3653 mm,1500 mm,1710 mm,2401 mm,1280 mm,1244 mm,528 mm,676 mm,140 mm,525 mm,980 mm,938 mm
+Renault 4 Hatchback,renault,4,hatchback,5,5,3668 mm,1485 mm,1550 mm,1990 mm,2401 mm,1280 mm,1244 mm,528 mm,691 mm,175 mm,960 mm,950 mm
+Renault 21 Kombi,renault,21,kombi,5,5,4693 mm,1726 mm,1970 mm,1450 mm,2809 mm,1454 mm,1408 mm,984 mm,965 mm,120 mm,1694 l,674 l
+Renault Kadjar Crossover 1.6 dCi 130KM 2017,renault,kadjar,crossover,5,5,10.7 m,5.3 m,4449 mm,1836 mm,2058 mm,1607 mm,1613 mm,2069 mm,2646 mm,1556 mm,1542 mm,897 mm
+Renault Kadjar Crossover Facelifting,renault,kadjar,crossover-facelifting,5,5,10.7 m,5.3 m,4489 mm,1836 mm,2058 mm,1613 mm,2646 mm,1556 mm,1542 mm,897 mm,906 mm,200 mm
+Skoda Rapid II Spaceback 1.2 TSI 105KM 2013,skoda,rapid,i,2,5,4200 mm,1610 mm,1380 mm,2400 mm,1390 mm,1350 mm,580 mm,875 mm,820 mm,1335 mm,1306 mm,1307 mm
+Skoda Favorit Kombi,skoda,favorit,kombi,5,5,4200 mm,1620 mm,1425 mm,2450 mm,1420 mm,1380 mm,937 mm,1080 mm,663 mm,898 mm,1360 mm,1270 mm
+Skoda Roomster Mikrovan 1.4 16V 85KM 2007,skoda,roomster,mikrovan,5,5,10.8 m,5.4 m,4205 mm,1684 mm,1867 mm,1607 mm,2617 mm,1436 mm,1500 mm,851 mm,737 mm,140 mm
+Renault Express II,renault,express,ii,5,2,10.4 m,5.2 m,4486 mm,1919 mm,2159 mm,1864 mm,2716 mm,1584 mm,1596 mm,960 mm,810 mm,169 mm
+Skoda 105 II,skoda,105,ii,4,5,4200 mm,1610 mm,1400 mm,2400 mm,1390 mm,1350 mm,455 mm,900 mm,700 mm,870 mm,1350 mm,1350 mm
+Renault Kangoo III,renault,kangoo,iii,5,2,11.3 m,5.7 m,4486 mm,1919 mm,2159 mm,1864 mm,2716 mm,1584 mm,1596 mm,960 mm,810 mm,169 mm
+Skoda Citigo Hatchback 3d,skoda,citigo,hatchback-3d,3,4,9.8 m,4.9 m,3563 mm,1641 mm,1910 mm,1478 mm,2420 mm,1428 mm,1424 mm,599 mm,544 mm,144 mm
+Skoda Roomster Mikrovan Facelifting,skoda,roomster,mikrovan-facelifting,5,5,10.5 m,4214 mm,1684 mm,1897 mm,1607 mm,2621 mm,1436 mm,1500 mm,860 mm,733 mm,1029 mm,1009 mm
+Skoda Citigo Hatchback 5d 1.0 60KM 2014,skoda,citigo,hatchback-5d,5,4,9.8 m,4.9 m,3563 mm,1645 mm,1910 mm,1478 mm,2420 mm,1428 mm,1424 mm,599 mm,544 mm,130 mm
+Skoda Citigo Hatchback 5d Facelifting,skoda,citigo,hatchback-5d-facelifting,5,5,9.8 m,4.9 m,3563 mm,1645 mm,1910 mm,1478 mm,2420 mm,1428 mm,1424 mm,599 mm,544 mm,136 mm
+Skoda Citigo Hatchback 3d Facelifting 1.0 MPI 75KM 2018,skoda,citigo,hatchback-3d-facelifting,3,4,9.8 m,4.9 m,3563 mm,1645 mm,1910 mm,1478 mm,2420 mm,1428 mm,1424 mm,599 mm,544 mm,136 mm
+Skoda Kodiaq SUV,skoda,kodiaq,suv,5,5,12.2 m,6.1 m,4697 mm,1882 mm,2087 mm,1676 mm,2791 mm,1586 mm,1576 mm,898 mm,1009 mm,187 mm
+Skoda Fabia IV,skoda,fabia,iv,5,5,10.4 m,4108 mm,1780 mm,1954 mm,1459 mm,2564 mm,1525 mm,1509 mm,809 mm,735 mm,138 mm,1032 mm
+Skoda Karoq 2022,skoda,karoq,crossover-facelifting,5,5,10.9 m,5.5 m,4384 mm,1841 mm,2025 mm,1629 mm,2625 mm,1576 mm,1541 mm,875 mm,875 mm,196 mm
+Skoda Kodiaq Scout,skoda,kodiaq,scout,5,5,12.2 m,6.1 m,4697 mm,1882 mm,2087 mm,1676 mm,2791 mm,1586 mm,1576 mm,898 mm,1009 mm,187 mm
+Skoda Superb I,skoda,superb,i,4,5,4803 mm,1765 mm,1444 mm,1817 mm,2803 mm,1515 mm,1515 mm,957 mm,1043 mm,1005 mm,964 mm,1459 mm
+Skoda Karoq Crossover 1.6 TDI 115KM 2018,skoda,karoq,crossover,5,5,11.5 m,5.8 m,4382 mm,4438 mm,1841 mm,2025 mm,1605 mm,2638 mm,1576 mm,1541 mm,172 mm,176 mm
+Skoda Karoq Scout,skoda,karoq,scout,5,5,10.8 m,5.4 m,4399 mm,1841 mm,2025 mm,1626 mm,2638 mm,1572 mm,1544 mm,894 mm,874 mm,183 mm
+Subaru Libero I 1.0 50KM 37kW 1984-1986,libero,i,silnik-benzynowy-1.0-50km-1984-1986,5,4,3425 mm,1430 mm,1870 mm,1805 mm,1210 mm,1210 mm,935 mm,685 mm,205 mm,1330 mm,1150 mm,1220 mm
+Subaru Libero II 1.2 52KM 38kW 1986-1993,libero,ii,silnik-benzynowy-1.2-52km-1986-1993,5,7,3425 mm,1430 mm,1870 mm,1805 mm,1210 mm,1210 mm,935 mm,685 mm,205 mm,1330 mm,1150 mm,1220 mm
+Subaru Libero III 1.2 54KM 40kW 1993-1998,libero,iii,silnik-benzynowy-1.2-54km-1993-1998,5,7,3525 mm,1415 mm,1925 mm,1885 mm,1210 mm,1210 mm,940 mm,700 mm,od 1993 do 1998 roku,1200 cm³,benzynowy,54 
+Subaru Levorg Kombi 1.6 GT 170KM 125kW 2015-2017,levorg,kombi,silnik-benzynowy-1.6-gt-170km-2015-2017,5,5,5.4 m,4690 mm,1780 mm,1485 mm,2650 mm,1530 mm,1540 mm,130 mm,1446 l,522 l,1040 mm,1870 mm
+Skoda Kodiaq SUV Facelifting 2.0 TDI SCR 200KM 2022,skoda,kodiaq,suv-facelifting,5,5,12.2 m,6.1 m,4699 mm,1882 mm,2087 mm,1681 mm,1685 mm,2791 mm,1580 mm,1570 mm,898 mm,1011 mm
+Skoda Kodiaq RS 2.0 TDI 240KM 177kW 2019-2020,kodiaq,rs,silnik-diesla-2.0-tdi-240km-2019-2020,5,5,12.2 m,6.1 m,4699 mm,1882 mm,1660 mm,2791 mm,1586 mm,1576 mm,150 mm,195 mm,2065 l,650 l
+Skoda Enyaq iV SUV,skoda,enyaq-iv,suv,5,5,10.8 m,5.4 m,4649 mm,1879 mm,2147 mm,1616 mm,2765 mm,1587 mm,1566 mm,860 mm,1023 mm,177 mm
+Skoda Enyaq iV Coupe,skoda,enyaq-iv,coupe,5,5,10.8 m,5.4 m,4653 mm,1879 mm,2147 mm,1622 mm,2765 mm,1587 mm,1566 mm,860 mm,1027 mm,177 mm
+Subaru Levorg Kombi Facelifting 1.6 170KM 125kW 2017-2018,levorg,kombi-facelifting,silnik-benzynowy-1.6-170km-2017-2018,5,5,10.8 m,5.4 m,4690 mm,1780 mm,1490 mm,2650 mm,1530 mm,1540 mm,130 mm,1446 l,522 l,1060 mm
+Skoda Enyaq iV Coupe RS 77 306KM 225kW od 2022,enyaq-iv,coupe-rs,silnik-elektryczny-77-306km-od-2022,5,5,10.8 m,5.4 m,4653 mm,1879 mm,2147 mm,1622 mm,2765 mm,1587 mm,1566 mm,860 mm,1027 mm,170 mm
+Skoda Kodiaq SUV Facelifting 2.0 TDI SCR 200KM 2022,kodiaq,rs-facelifting,silnik-benzynowy-2.0-tsi-245km-od-2021,5,5,12.2 m,6.1 m,4699 mm,1882 mm,2087 mm,1685 mm,2791 mm,1580 mm,1570 mm,898 mm,1011 mm,195 mm
+Subaru Justy III,subaru,justy,iii,5,5,9.8 m,4.9 m,3770 mm,1630 mm,1565 mm,1605 mm,2360 mm,1420 mm,1410 mm,720 mm,690 mm,180 mm
+Subaru Justy IV 1.0 70KM 51kW 2007-2009,justy,iv,silnik-benzynowy-1.0-70km-2007-2009,5,5,3610 mm,1665 mm,1550 mm,2430 mm,1470 mm,1475 mm,150 mm,630 l,225 l,od 2007 do 2009 roku,998 cm³,benzynowy
+Ford Thunderbird I,ford,thunderbird,i,2,11.0 m,4453 mm,1786 mm,1326 mm,2590 mm,1422 mm,1422 mm,180 mm,843 mm,1354 mm,409 mm,1478 mm,884 mm
+DS 3 Hatchback Facelifting 2016,ds,3,hatchback-facelifting-2016,3,5,10.2 m,3954 mm,1715 mm,2004 mm,1458 mm,2464 mm,1465 mm,1467 mm,830 mm,660 mm,155 mm,980 l
+DS 9 Sedan,ds,9,sedan,4,5,11.0 m,5.5 m,4934 mm,1932 mm,2079 mm,1460 mm,2895 mm,1584 mm,1566 mm,973 mm,1066 mm,133 mm
+DS 5 Hatchback Facelifting 2015,ds,5,hatchback-facelifting-2015,5,5,11.2 m,5.6 m,4530 mm,1871 mm,2128 mm,1505 mm,2727 mm,1575 mm,1599 mm,996 mm,807 mm,468 l
+Ford Transit Courier Van,ford,transit-courier,van,5,2,10.5 m,5.2 m,4157 mm,1764 mm,2112 mm,1770 mm,2489 mm,819 mm,849 mm,145 mm,2600 l,1700 l
+Ford Transit Courier 2019,ford,transit-courier,kombi-facelifting,5,5,10.9 m,5.5 m,4157 mm,1964 mm,2112 mm,1770 mm,2489 mm,150 mm,1000 l,1012 mm,1488 mm,837 mm
+DS 9 Sedan E-Tense 1.6 E-Tense 360KM 265kW od 2021,9,sedan-e-tense,silnik-hybrydowy-1.6-e-tense-360km-od-2021,4,5,11.0 m,4934 mm,1932 mm,2079 mm,1460 mm,2895 mm,1589 mm,1586 mm,973 mm,1066 mm,510 l,od 2021 roku
+Subaru Forester III,subaru,forester,iii,5,5,11.2 m,5.6 m,4560 mm,1780 mm,1700 mm,2615 mm,1530 mm,1530 mm,215 mm,1610 l,450 l,1073 mm
+Subaru Impreza IV,subaru,impreza,iv,5,5,11.4 m,5.7 m,4460 mm,1775 mm,1480 mm,2670 mm,1540 mm,1545 mm,130 mm,1290 l,385 l,13.8 °
+Subaru Forester I,subaru,forester,i,5,5,11.8 m,5.9 m,4485 mm,1735 mm,1535 mm,1580 mm,2525 mm,1480 mm,1475 mm,170 mm,1000 mm,1010 mm
+Subaru Forester II,subaru,forester,ii,5,5,4485 mm,1735 mm,1590 mm,2525 mm,1495 mm,1485 mm,200 mm,990 mm,1010 mm,1795 mm,1455 mm,1245 mm
+Subaru BRZ Coupe 2.0 DAVCS 200KM 147kW od 2012,brz,coupe,silnik-benzynowy-2.0-davcs-200km-2012-2016,2,4,10.8 m,5.4 m,4240 mm,1755 mm,1300 mm,1425 mm,2570 mm,1520 mm,1540 mm,130 mm,1064 mm,935 mm
+Subaru BRZ Coupe 2021,brz,coupe-facelifting,silnik-benzynowy-2.0-200km-2017-2020,2,4,10.8 m,5.7 m,4240 mm,1775 mm,1320 mm,2570 mm,1520 mm,1540 mm,120 mm,330 l,243 l,od 2017 do 2020 roku
+DS 7 Crossback,ds,7,crossback,5,5,11.7 m,5.8 m,4573 mm,1906 mm,2098 mm,1620 mm,2738 mm,1621 mm,1598 mm,925 mm,910 mm,180 mm
+DS 7 Crossback E-Tense Facelifting,ds,7,crossback-e-tense-facelifting,5,5,10.4 m,5.2 m,4573 mm,1906 mm,2098 mm,1906 mm,1621 mm,1625 mm,2738 mm,1621 mm,1598 mm,925 mm
+DS 7 Crossback E-Tense,ds,7,crossback-e-tense,5,5,10.4 m,5.2 m,4573 mm,1906 mm,2098 mm,1621 mm,1625 mm,2738 mm,1621 mm,1598 mm,925 mm,918 mm
+DS 7 Crossback Facelifting,ds,7,crossback-facelifting,5,5,10.4 m,5.2 m,4573 mm,1906 mm,2098 mm,1906 mm,1621 mm,1625 mm,2738 mm,1621 mm,1598 mm,925 mm
+Subaru Outback VI 2.5i 169KM 124kW od 2021,outback,vi,silnik-benzynowy-2.5i-169km-od-2021,5,5,11.0 m,5.5 m,4870 mm,1875 mm,1675 mm,2745 mm,1570 mm,1600 mm,213 mm,1822 l,561 l,815 mm
+DS 3 Crossback Crossback,ds,3-crossback,crossback,5,5,10.6 m,5.3 m,4118 mm,1791 mm,1988 mm,1534 mm,2558 mm,860 mm,700 mm,185 mm,1050 l,350 l
+Fiat Uno I,fiat,uno,i,5,5,3644 mm,1560 mm,1425 mm,2362 mm,1330 mm,1300 mm,717 mm,565 mm,395 mm,1888 mm,918 mm,468 mm
+DS 3 Crossback Crossback E-Tense 50kWh 136KM 100kW od 2019,3-crossback,crossback-e-tense,silnik-elektryczny-50kwh-136km-od-2019,5,5,10.7 m,5.3 m,4118 mm,1791 mm,1988 mm,1534 mm,2558 mm,1548 mm,1557 mm,860 mm,700 mm,170 mm
+Fiat Stilo Hatchback 1.9 JTD 80KM 2003,fiat,stilo,hatchback,3,5,11.1 m,5.5 m,4182 mm,1784 mm,1475 mm,2600 mm,1514 mm,1508 mm,887 mm,695 mm,150 mm,1035 l
+Fiat Seicento Hatchback 3d 1.1 Fire 55KM 2004,fiat,seicento,hatchback-3d,3,5,8.8 m,4.4 m,3319 mm,1508 mm,1440 mm,2200 mm,1277 mm,1275 mm,619 mm,500 mm,150 mm,493 mm
+Fiat Regata Weekend,fiat,regata,weekend,5,5,4267 mm,1650 mm,1450 mm,2455 mm,1405 mm,1416 mm,813 mm,999 mm,390 mm,590 mm,1888 mm,928 mm
+Fiat Qubo Fiorino Qubo 1.4 73KM 2010,fiat,qubo,fiorino-qubo,5,10.5 m,3959 mm,1716 mm,1803 mm,1735 mm,2513 mm,1462 mm,1464 mm,855 mm,591 mm,150 mm,2500 l,330 l
+Fiat Qubo 2015,fiat,qubo,qubo-seria-1,5,5,10.6 m,5.3 m,3959 mm,1716 mm,1735 mm,1803 mm,2513 mm,1462 mm,1464 mm,855 mm,591 mm,220 mm
+Fiat Multipla II,fiat,multipla,ii,5,6,12.4 m,6.2 m,4090 mm,1870 mm,1690 mm,2666 mm,1515 mm,1520 mm,837 mm,586 mm,120 mm,1578 mm
+Fiat Marea Weekend,fiat,marea,weekend,5,5,4487 mm,1741 mm,1500 mm,2540 mm,1470 mm,1440 mm,881 mm,1066 mm,520 mm,595 mm,1001 mm,478 mm
+Fiat Linea Sedan,fiat,linea,sedan,4,5,10.5 m,5.2 m,4560 mm,1730 mm,1946 mm,1494 mm,2603 mm,1467 mm,1482 mm,928 mm,1029 mm,190 mm
+Fiat Marea Sedan,fiat,marea,sedan,4,5,4393 mm,1741 mm,1420 mm,2540 mm,1480 mm,1435 mm,884 mm,969 mm,520 mm,595 mm,991 mm,478 mm
+Fiat Multipla I,fiat,multipla,i,5,6,3994 mm,1871 mm,1695 mm,2666 mm,1515 mm,1520 mm,760 mm,568 mm,1578 mm,1538 mm,1850 l,430 l
+Fiat Linea Sedan Facelifting 1.3 MultiJet II 95KM 70kW od 2013,linea,sedan-facelifting,silnik-diesla-1.3-multijet-ii-95km-2013-2015,4,5,4596 mm,1780 mm,1494 mm,2603 mm,870 l,500 l,od 2013 do 2015 roku,1248 cm³,diesel,95 , (70 ,) przy 4000 obr/min
+Fiat Doblo I,fiat,doblo,i,4,5,4159 mm,1714 mm,1600 mm,2566 mm,1495 mm,1496 mm,758 mm,835 mm,497 mm,643 mm,1151 mm,474 mm
+Fiat Bravo I,fiat,bravo,i,3,5,4031 mm,1755 mm,1420 mm,2540 mm,1471 mm,1430 mm,864 mm,627 mm,544 mm,600 mm,992 mm,499 mm
+Fiat Doblo IV,fiat,doblo,iv,5,5,11.2 m,4406 mm,1832 mm,1845 mm,1895 mm,2755 mm,1510 mm,1530 mm,911 mm,740 mm,3200 l,790 l
+Fiat Croma II 1.9 16v Multijet 150KM 2006,fiat,croma,ii,5,5,10.9 m,5.5 m,4756 mm,1775 mm,1597 mm,1623 mm,2700 mm,1513 mm,1496 mm,145 mm,980 mm,1610 l
+Fiat Barchetta I 1.8 16V 131KM 96kW 1995-2002,barchetta,i,silnik-benzynowy-1.8-16v-131km-1995-2002,2,2,3916 mm,1640 mm,1265 mm,2275 mm,1412 mm,1407 mm,934 mm,707 mm,532 mm,634 mm,937 mm,1320 mm
+Fiat Barchetta II 1.8 16V 131KM 96kW 2003-2005,barchetta,ii,silnik-benzynowy-1.8-16v-131km-2003-2005,2,2,3916 mm,1640 mm,1265 mm,2540 mm,165 l,od 2003 do 2005 roku,1747 cm³,benzynowy,131 , (96 ,) przy 6300 obr/min,158 
+Fiat 130 Coupe 3.2 165KM 121kW 1971-1978,130,coupe,silnik-benzynowy-3.2-165km-1971-1978,2,4842 mm,1760 mm,1380 mm,2720 mm,1468 mm,1467 mm,885 mm,1237 mm,1493 mm,od 1971 do 1978 roku,3235 cm³,benzynowy,165 
+Fiat 500X Crossover,fiat,500x,crossover,5,5,11.5 m,4248 mm,1796 mm,2025 mm,1600 mm,1608 mm,2580 mm,1545 mm,1545 mm,162 mm,179 mm,1000 l
+Fiat Ducato I,fiat,ducato,i,4,8,4759 mm,1965 mm,2100 mm,2923 mm,1682 mm,1650 mm,813 mm,1023 mm,187 mm,465 mm,1314 mm,1372 mm
+Fiat 500X Crossover Facelifting 1.3 Firefly 150KM 2022,fiat,500x,crossover-facelifting,5,5,11.5 m,5.8 m,4264 mm,1796 mm,2025 mm,1595 mm,1603 mm,2570 mm,1545 mm,1545 mm,165 mm,1000 l
+Ford Taunus III,ford,taunus,iii,4,5,4340 mm,1706 mm,1363 mm,2579 mm,1445 mm,1425 mm,1030 mm,952 mm,869 mm,940 mm,1366 mm,1361 mm
+Ford Mondeo Vignale Liftback,ford,mondeo-vignale,liftback,5,5,11.6 m,5.8 m,4871 mm,1852 mm,2121 mm,1482 mm,2850 mm,1599 mm,1595 mm,160 mm,1356 l,458 l
+Ford Mondeo Vignale Kombi,ford,mondeo-vignale,kombi,4,5,11.5 m,4861 mm,1852 mm,2121 mm,1911 mm,1482 mm,2850 mm,1589 mm,1585 mm,160 mm,1585 l,488 l
+Ford Orion III,ford,orion,iii,4,5,4229 mm,1685 mm,1345 mm,2525 mm,1440 mm,1462 mm,1029 mm,975 mm,898 mm,955 mm,1272 mm,1205 mm
+Ford Mondeo Vignale Kombi Facelifting,ford,mondeo-vignale,kombi-facelifting,5,5,11.6 m,5.8 m,4867 mm,1852 mm,2121 mm,1501 mm,2850 mm,1599 mm,1595 mm,155 mm,1585 l,500 l
+Fiat 500L Trekking Seria 1,fiat,500l,trekking-seria-1,5,5,10.7 m,4270 mm,1800 mm,1679 mm,2612 mm,1522 mm,1519 mm,710 mm,826 mm,145 mm,1310 l,400 l
+Ford Mondeo Vignale Liftback Facelifting 2.0 EcoBlue 190KM 140kW 2019-2021,mondeo-vignale,liftback-facelifting,silnik-diesla-2.0-ecoblue-190km-2019-2021,5,5,11.5 m,5.8 m,4871 mm,1852 mm,2121 mm,1482 mm,2850 mm,1599 mm,1595 mm,155 mm,541 l,od 2019 do 2021 roku
+Fiat 500L Trekking Seria 4 1.4 95KM 2017,fiat,500l,trekking-seria-4,5,5,11.1 m,5.5 m,4270 mm,1800 mm,2018 mm,1679 mm,2612 mm,1522 mm,1519 mm,829 mm,706 mm,145 mm
+Ford Ka III 1.2 Duratec 69KM 2013,ford,ka,iii,3,4,9.8 m,3620 mm,1658 mm,1894 mm,1702 mm,1505 mm,2100 mm,1397 mm,1409 mm,135 mm,747 l,224 l
+Ford Ka Plus Hatchback 5d,ford,ka-plus,hatchback-5d,5,5,10.1 m,5.0 m,3929 mm,1704 mm,1910 mm,1769 mm,1524 mm,2489 mm,1472 mm,1462 mm,164 mm,849 l
+Ford Focus Vignale Kombi,ford,focus-vignale,kombi,5,5,11.6 m,5.8 m,4668 mm,1825 mm,1848 mm,1979 mm,1494 mm,2700 mm,1572 mm,1566 mm,909 mm,1059 mm
+Ford Focus Vignale Hatchback,ford,focus-vignale,hatchback,5,5,11.6 m,5.8 m,4378 mm,1825 mm,1979 mm,1848 mm,1471 mm,2700 mm,1572 mm,1553 mm,909 mm,769 mm
+Ford Expedition II,ford,expedition,ii,5,8,11.8 m,5228 mm,2000 mm,1971 mm,3023 mm,1702 mm,1709 mm,210 mm,1008 mm,1011 mm,1610 mm,1633 mm
+Ford Edge Vignale SUV,ford,edge-vignale,suv,5,5,12.0 m,6.0 m,4808 mm,1928 mm,2184 mm,1981 mm,1692 mm,2848 mm,1655 mm,1664 mm,210 mm,1847 l
+Ford Edge Vignale SUV Facelifting,ford,edge-vignale,suv-facelifting,5,5,12.0 m,6.0 m,4808 mm,1928 mm,2184 mm,1981 mm,1692 mm,2850 mm,1646 mm,1643 mm,200 mm,2078 l
+Ford Expedition III 5.4 i V8 32V 304KM 224kW 2007-2016,expedition,iii,silnik-benzynowy-5.4-i-v8-32v-304km-2007-2016,5,8,5228 mm,2000 mm,1971 mm,3023 mm,1702 mm,1707 mm,221 mm,1006 mm,1011 mm,1605 mm,1618 mm,1723 l
+Ford Tourneo Courier Mikrovan Facelifting,ford,tourneo-courier,mikrovan-facelifting,5,5,10.9 m,5.5 m,4157 mm,1764 mm,2112 mm,1741 mm,1784 mm,2489 mm,155 mm,1656 l,708 l,1345 mm
+Ford Edge I 3.5 V6 269KM 198kW 2007-2015,edge,i,silnik-benzynowy-3.5-v6-269km-2007-2015,5,5,4716 mm,1925 mm,2212 mm,2009 mm,1750 mm,2824 mm,940 mm,952 mm,200 mm,1016 mm,998 mm,1496 mm
+Ford Bronco I,ford,bronco,i,3,3863 mm,1747 mm,1796 mm,2336 mm,1448 mm,1448 mm,683 mm,843 mm,1016 mm,490 mm,914 mm,1402 mm,690 mm
+Ford Tourneo Custom 2022,ford,tourneo-custom,l2,5,9,12.7 m,6.3 m,5339 mm,1986 mm,2290 mm,1976 mm,3300 mm,1011 mm,1028 mm,1390 mm,1032 mm,533 mm
+Ford Bronco II 5.8 225KM 165kW 1978-1979,bronco,ii,silnik-benzynowy-5.8-225km-1978-1979,3,10.8 m,4779 mm,2014 mm,1917 mm,2641 mm,1630 mm,1640 mm,198 mm,od 1978 do 1979 roku,benzynowy,225 , (165 ,)
+Ford Transit VII,ford,transit,vii,5,3,11.9 m,6.0 m,5531 mm,2059 mm,2474 mm,2426 mm,3300 mm,1023 mm,1208 mm,1565 mm,1748 mm,1300 mm
+Ford Transit V 2002,ford,transit,i,4,4425 mm,1960 mm,1990 mm,2690 mm,1638 mm,1588 mm,733 mm,1000 mm,640 mm,1407 mm,1227 mm,901 mm,1233 mm
+Ford Kuga I,ford,kuga,i,5,5,11.5 m,5.8 m,4443 mm,1842 mm,2128 mm,1650 mm,1710 mm,1920 mm,2690 mm,1570 mm,1565 mm,195 mm
+Ford Explorer III,ford,explorer,iii,5,5,11.7 m,4813 mm,1831 mm,1826 mm,2888 mm,1547 mm,1554 mm,1013 mm,988 mm,1501 mm,1496 mm,2492 l
+Ford Escape I,ford,escape,i,5,5,4394 mm,1780 mm,1702 mm,2619 mm,1554 mm,1524 mm,995 mm,490 mm,970 mm,475 mm,1455 mm,1280 mm
+Ford Escape II,ford,escape,ii,5,5,4480 mm,1845 mm,1730 mm,2620 mm,1551 mm,1534 mm,1026 mm,996 mm,1438 mm,1420 mm,1792 l,934 l
+Ford Galaxy II 1.9 TDI 115KM 2006,ford,galaxy,ii,5,7,11.7 m,5.8 m,4641 mm,1810 mm,2142 mm,1730 mm,2835 mm,1532 mm,1516 mm,144 mm,2600 l,266 l
+Ford Escape III 2.0 EcoBoost 243KM 2018,ford,escape,iii,5,5,11.2 m,5.6 m,4524 mm,1839 mm,2078 mm,1905 mm,1684 mm,2690 mm,1562 mm,1565 mm,201 mm,1095 mm
+Ford Flex Crossover 3.5 V6 262KM 193kW 2008-2012,flex,crossover,silnik-benzynowy-3.5-v6-262km-2008-2012,5,5,12.2 m,6.1 m,5130 mm,2032 mm,1727 mm,2995 mm,1661 mm,1661 mm,155 mm,566 l,od 2008 do 2012 roku,3496 cm³
+Ford Flex Crossover Facelifting 3.5 V6 286KM 210kW od 2013,flex,crossover-facelifting,silnik-benzynowy-3.5-v6-286km-od-2013,5,5,12.4 m,6.2 m,5130 mm,1930 mm,1727 mm,2995 mm,1661 mm,1661 mm,150 mm,566 l,od 2013 roku,3496 cm³
+Ford Ranger VI 3.0 v6 EcoBoost 288KM 212kW od 2022,ranger,vi,silnik-benzynowy-3.0-v6-ecoboost-288km-od-2022,4,5,12.6 m,6.3 m,5360 mm,2028 mm,2208 mm,2180 mm,1926 mm,3270 mm,1710 mm,1710 mm,938 mm,1258 mm
+Ford Fiesta II,ford,fiesta,ii,3,4,3648 mm,1549 mm,1314 mm,2288 mm,1334 mm,1321 mm,1019 mm,954 mm,855 mm,935 mm,1269 mm,1133 mm
+Ford Fiesta III,ford,fiesta,iii,3,5,10.3 m,5.2 m,3743 mm,1606 mm,1732 mm,1369 mm,2446 mm,1392 mm,1384 mm,616 mm,131 mm,957 mm
+Ford Fiesta VI,ford,fiesta,vi,5,5,10.3 m,5.7 m,3916 mm,1685 mm,1906 mm,1432 mm,2486 mm,1478 mm,1444 mm,140 mm,1230 l,268 l
+Dacia 1310 Sedan,dacia,1310,sedan,4,5,4348 mm,1616 mm,1435 mm,2441 mm,1312 mm,1312 mm,870 mm,1037 mm,120 mm,960 mm,950 mm,1325 mm
+Dacia 1310 Kombi,dacia,1310,kombi,5,5,4371 mm,1616 mm,1455 mm,1935 mm,2441 mm,1312 mm,1314 mm,870 mm,1060 mm,131 mm,960 mm,950 mm
+Citroen ZX Hatchback,citroen,zx,hatchback,3,5,4071 mm,1702 mm,1405 mm,2540 mm,1414 mm,1410 mm,850 mm,681 mm,1440 mm,1430 mm,1410 mm,1410 mm
+Alfa Romeo MiTo Hatchback 3d,alfa-romeo,mito,hatchback-3d,3,4,11.0 m,5.5 m,4063 mm,1720 mm,1446 mm,2511 mm,1483 mm,1475 mm,904 mm,648 mm,105 mm,950 l
+Dacia Dokker Mikrovan 1.6 SCe 102KM 2016,dacia,dokker,mikrovan,5,5,11.1 m,4363 mm,1751 mm,2004 mm,1814 mm,1852 mm,2810 mm,1490 mm,1478 mm,822 mm,731 mm,190 mm
+Dacia Dokker Van,dacia,dokker,van,5,5,11.1 m,4363 mm,1751 mm,2004 mm,1809 mm,1847 mm,2810 mm,1490 mm,1478 mm,822 mm,731 mm,186 mm
+Alfa Romeo GT II,alfa-romeo,gt,ii,2,5,11.5 m,5.8 m,4489 mm,1763 mm,1355 mm,2596 mm,1524 mm,1510 mm,967 mm,926 mm,905 l,320 l
+Alfa Romeo MiTo Hatchback 3d Facelifting 2016,alfa-romeo,mito,hatchback-3d-facelifting-2016,3,5,11.2 m,4063 mm,1720 mm,1446 mm,2511 mm,1483 mm,1475 mm,904 mm,648 mm,215 mm,950 l,270 l
+Alfa Romeo Brera Coupe,alfa-romeo,brera,coupe,2,4,10.6 m,5.3 m,4410 mm,1830 mm,1341 mm,2528 mm,1579 mm,1559 mm,1000 mm,882 mm,150 mm,610 l
+Dacia Dokker Mikrovan Facelifting 1.5 Blue dCi 95KM 2019,dacia,dokker,mikrovan-facelifting,5,5,11.0 m,5.5 m,4363 mm,1751 mm,1852 mm,2810 mm,1490 mm,1478 mm,822 mm,731 mm,186 mm,3000 l
+Dacia Dokker Van Facelifting,dacia,dokker,van-facelifting,5,2,11.1 m,5.5 m,4363 mm,1751 mm,1809 mm,2810 mm,1490 mm,1478 mm,822 mm,731 mm,190 mm,100 kg
+Alfa Romeo 147 Hatchback,alfa-romeo,147,hatchback,5,5,11.5 m,5.8 m,4223 mm,1729 mm,1892 mm,1421 mm,2546 mm,1509 mm,1494 mm,952 mm,732 mm,1030 l
+Alfa Romeo 4C Spider 1750TBi 240KM 177kW 2015-2017,4c,spider,silnik-benzynowy-1750tbi-240km-2015-2017,2,2,12.1 m,6.0 m,3989 mm,1864 mm,2090 mm,1183 mm,2380 mm,120 mm,110 l,od 2015 do 2017 roku,1742 cm³,benzynowy
+Alfa Romeo 159 Sedan,alfa-romeo,159,sedan,4,5,11.0 m,5.5 m,4660 mm,1828 mm,1417 mm,2700 mm,1578 mm,1555 mm,1000 mm,960 mm,140 mm,405 l
+Alfa Romeo 2000 Spider 2.0 115KM 85kW 1958-1961,2000,spider,silnik-benzynowy-2.0-115km-1958-1961,2,4496 mm,1650 mm,1320 mm,2500 mm,od 1958 do 1961 roku,1974 cm³,benzynowy,115 , (85 ,) przy 5700 obr/min,152 , przy 3200 obr/min,"z przodu, podłużnie"
+Alfa Romeo 4C Coupe 1750TBi 240KM 177kW 2013-2017,4c,coupe,silnik-benzynowy-1750tbi-240km-2013-2017,2,2,12.1 m,6.0 m,3989 mm,1864 mm,2090 mm,1183 mm,2380 mm,850 mm,720 mm,120 mm,110 l,od 2013 do 2017 roku
+Alfa Romeo Stelvio SUV,alfa-romeo,stelvio,suv,5,5,11.7 m,5.8 m,4687 mm,1903 mm,2163 mm,1960 mm,1648 mm,2818 mm,1622 mm,1675 mm,207 mm,525 l
+Alfa Romeo 2000 Sprint 2.0 115KM 85kW 1958-1961,2000,sprint,silnik-benzynowy-2.0-115km-1958-1961,2,4500 mm,1660 mm,1330 mm,2500 mm,od 1958 do 1961 roku,1974 cm³,benzynowy,115 , (85 ,) przy 5700 obr/min,152 , przy 3500 obr/min,"z przodu, podłużnie"
+Alfa Romeo 159 Sportwagon,alfa-romeo,159,sportwagon,5,5,11.0 m,5.5 m,4660 mm,1828 mm,1417 mm,2700 mm,1578 mm,1555 mm,1000 mm,960 mm,140 mm,1245 l
+Alfa Romeo 2000 Berlina 2.0 105KM 77kW 1958-1961,2000,berlina,silnik-benzynowy-2.0-105km-1958-1961,4,4390 mm,1565 mm,1430 mm,2570 mm,1324 mm,1274 mm,760 mm,1060 mm,od 1958 do 1961 roku,1974 cm³,benzynowy,105 , (77 
+Alfa Romeo 147 Hatchback 1.6 TS 16v 105KM 2004,147,gta,silnik-benzynowy-3.2-i-v6-24v-250km-2002-2010,3,5,4213 mm,1764 mm,1412 mm,2546 mm,1516 mm,1504 mm,925 mm,742 mm,1030 l,280 l,od 2002 do 2010 roku,3179 cm³
+Audi Q8 SUV,audi,q8,suv,5,5,13.3 m,6.7 m,4986 mm,1995 mm,2190 mm,1705 mm,2995 mm,1679 mm,1691 mm,978 mm,1013 mm,254 mm
+Audi Allroad C5,audi,allroad,c5,5,5,4810 mm,1852 mm,1932 mm,1501 mm,1526 mm,2757 mm,1574 mm,1585 mm,977 mm,1076 mm,142 mm,998 mm
+Audi Allroad C6,audi,allroad,c6,5,5,4934 mm,1862 mm,1994 mm,1444 mm,1459 mm,2833 mm,1596 mm,1587 mm,997 mm,1104 mm,185 mm,992 mm
+Audi 5000 C3,audi,5000,c3,4,5,10.4 m,5.2 m,4894 mm,1814 mm,1389 mm,2686 mm,1468 mm,1468 mm,124 mm,952 mm,927 mm,476 l
+Audi Q8 SQ8,audi,q8,sq8,5,5,10.9 m,5.5 m,5006 mm,1995 mm,2190 mm,1708 mm,2996 mm,1679 mm,1687 mm,987 mm,1023 mm,170 mm
+Audi Q8 Q8-e,audi,q8,q8-e,5,5,13.3 m,6.7 m,4986 mm,1995 mm,2190 mm,1705 mm,2995 mm,1679 mm,1691 mm,245 mm,1625 l,505 l
+Audi Q8 RS Q8 4.0 TFSI 600KM 441kW od 2019,q8,rs-q8,silnik-benzynowy-4.0-tfsi-600km-od-2019,5,5,12.3 m,5012 mm,1998 mm,2190 mm,1694 mm,2998 mm,1692 mm,1696 mm,994 mm,1020 mm,1755 l,605 l
+Audi Q4 e-tron 50 299KM 2022,audi,q4,e-tron,5,5,10.2 m,5.1 m,4588 mm,1865 mm,2108 mm,1632 mm,2754 mm,1587 mm,1565 mm,854 mm,970 mm,180 mm
+Audi Q4 e-tron 50 299KM 2022,audi,q4,e-tron-sportback,5,5,10.2 m,5.1 m,4588 mm,1865 mm,2108 mm,1614 mm,2764 mm,1587 mm,1565 mm,854 mm,970 mm,180 mm
+BMW Z3 Cabrio,bmw,z3,cabrio,2,2,4025 mm,1692 mm,1288 mm,2446 mm,1411 mm,1427 mm,808 mm,771 mm,494 mm,954 mm,1312 mm,1375 mm
+BMW i8 Roadster Elektryczny + R3 1499 374KM 2018,i8,coupe-facelifting,silnik-elektryczny-elektryczny-r3-1499-374km-2018-2021,2,4,12.3 m,6.2 m,4689 mm,1942 mm,2218 mm,1291 mm,2800 mm,1644 mm,1721 mm,960 mm,929 mm,117 mm
+BMW i8 Coupe Elektryczny + R3 1499 362KM 266kW 2014-2018,i8,coupe,silnik-hybrydowy-elektryczny-r3-1499-362km-2014-2018,2,4,12.3 m,6.2 m,4689 mm,1942 mm,2218 mm,3046 mm,1291 mm,2800 mm,1644 mm,1715 mm,960 mm,929 mm
+BMW i8 Roadster Elektryczny + R3 1499 374KM 2018,i8,roadster,silnik-hybrydowy-elektryczny-r3-1499-374km-2018-2021,2,2,12.3 m,6.2 m,4689 mm,1942 mm,2218 mm,1291 mm,2800 mm,1644 mm,1715 mm,960 mm,929 mm,117 mm
+BMW X7 SUV M,bmw,x7,suv-m,5,5,13.0 m,6.5 m,5151 mm,2000 mm,2218 mm,1805 mm,3105 mm,1682 mm,1703 mm,874 mm,1172 mm,221 mm
+BMW X7 SUV Facelifting,bmw,x7,suv-facelifting,5,5,13.0 m,6.5 m,5181 mm,2000 mm,2218 mm,1835 mm,3105 mm,1690 mm,1705 mm,904 mm,1172 mm,221 mm
+BMW X7 SUV,bmw,x7,suv,5,5,13.0 m,6.5 m,5151 mm,2000 mm,2218 mm,1805 mm,3105 mm,1684 mm,1705 mm,874 mm,1172 mm,221 mm
+Audi A1 II,audi,a1,ii,5,5,10.5 m,5.2 m,4029 mm,1740 mm,1940 mm,1409 mm,2563 mm,1524 mm,1501 mm,788 mm,678 mm,145 mm
+BMW X5 E53 3.0d 184KM 2002,bmw,x5,e53,5,5,4667 mm,1872 mm,2180 mm,1707 mm,1715 mm,2820 mm,1576 mm,1576 mm,1013 mm,977 mm,1504 mm,1484 mm
+BMW Seria 02 114,bmw,seria-02,114,2,4,4230 mm,1590 mm,1410 mm,2500 mm,1330 mm,1330 mm,360 mm,970 mm,495 mm,665 mm,875 mm,475 mm
+BMW X4 G01,bmw,x4,g01,5,5,11.9 m,6.0 m,4671 mm,1881 mm,2089 mm,1624 mm,2810 mm,1616 mm,1632 mm,861 mm,1000 mm,204 mm
+BMW X7 SUV M Facelifting 4.4 M60i 530KM 390kW od 2022,x7,suv-m-facelifting,silnik-benzynowy-4.4-m60i-530km-od-2022,5,5,13.0 m,6.5 m,5181 mm,2000 mm,2218 mm,1835 mm,3105 mm,1690 mm,1705 mm,904 mm,1172 mm,221 mm
+BMW Seria 02 114C 1.6 85KM 63kW 1968-1971,seria-02,114c,silnik-benzynowy-1.6-85km-1968-1971,2,4,4230 mm,1590 mm,1360 mm,2500 mm,1330 mm,1330 mm,od 1968 do 1971 roku,1573 cm³,benzynowy,85 , (63 ,) przy 5700 obr/min
+BMW Seria 02 E20 2.0 170KM 125kW 1973-1975,seria-02,e20,silnik-benzynowy-2.0-170km-1973-1975,2,4,4220 mm,1620 mm,1410 mm,2500 mm,od 1973 do 1975 roku,1990 cm³,benzynowy,170 , (125 ,) przy 5800 obr/min,240 , przy 4000 obr/min
+BMW Seria 02 E10C 2.0 100KM 74kW 1971-1975,seria-02,e10c,silnik-benzynowy-2.0-100km-1971-1975,2,4,4230 mm,1590 mm,1360 mm,2500 mm,od 1971 do 1975 roku,1990 cm³,benzynowy,100 , (74 ,) przy 5500 obr/min,157 , przy 3500 obr/min
+Audi Q2 SUV Facelifting,audi,q2,suv-facelifting,5,5,11.1 m,4208 mm,1794 mm,2009 mm,1508 mm,2601 mm,1546 mm,1542 mm,830 mm,777 mm,145 mm,1050 l
+Audi E-tron Sportback,audi,e-tron,sportback,5,5,10.6 m,5.3 m,4901 mm,1935 mm,2043 mm,1935 mm,1616 mm,2928 mm,1655 mm,1655 mm,928 mm,1045 mm
+Audi E-tron SUV,audi,e-tron,suv,5,5,12.2 m,6.1 m,4901 mm,1935 mm,2043 mm,1629 mm,2928 mm,1655 mm,1652 mm,928 mm,1045 mm,175 mm
+Audi Q2 SUV,audi,q2,suv,5,5,11.1 m,5.5 m,4191 mm,1794 mm,2009 mm,1508 mm,2601 mm,1547 mm,1541 mm,828 mm,762 mm,145 mm
+Audi E-tron Sportback-S 95 kWh 503KM 370kW od 2020,e-tron,sportback-s,silnik-elektryczny-95-kwh-503km-od-2020,5,5,12.2 m,6.1 m,4902 mm,1976 mm,2043 mm,1615 mm,2928 mm,1655 mm,1655 mm,172 mm,1725 l,660 l
+Audi E-tron SUV-S 95 kWh 503KM 370kW od 2020,e-tron,suv-s,silnik-elektryczny-95-kwh-503km-od-2020,5,5,12.2 m,6.1 m,4902 mm,1976 mm,2043 mm,1629 mm,2928 mm,1655 mm,1652 mm,172 mm,1725 l,660 l
+Audi E-tron Grand Tourer 60 83.7kWh 476KM 350kW od 2021,e-tron,grand-tourer,silnik-elektryczny-60-83.7kwh-476km-od-2021,4,4,4989 mm,1964 mm,2158 mm,1413 mm,2898 mm,1710 mm,1694 mm,1021 mm,1070 mm,405 l,900 mm,1044 mm
+Audi E-tron Grand Tourer RS 83.7kWh 598KM 440kW od 2021,e-tron,grand-tourer-rs,silnik-elektryczny-83.7kwh-598km-od-2021,4,4,4989 mm,1964 mm,2158 mm,1414 mm,2900 mm,1702 mm,1667 mm,1021 mm,1068 mm,1000 mm,927 mm,350 l
+BMW Seria 6 E24 1986,bmw,seria-6,e24,2,4,4755 mm,1725 mm,1365 mm,2626 mm,1422 mm,1487 mm,1005 mm,1124 mm,885 mm,485 mm,865 mm,450 mm
+BMW X3 E83,bmw,x3,e83,5,5,11.6 m,5.8 m,4569 mm,1853 mm,1987 mm,1674 mm,2795 mm,1542 mm,1542 mm,210 mm,997 mm,1002 mm
+BMW Seria 8 I 1995,bmw,seria-8,i,2,4,10.9 m,5.5 m,4780 mm,1855 mm,1340 mm,2684 mm,1554 mm,1562 mm,140 mm,949 mm,887 mm,1456 mm
+BMW iX SUV,bmw,ix,suv,5,5,12.8 m,6.4 m,4953 mm,1967 mm,2230 mm,1695 mm,3000 mm,202 mm,1750 l,500 l,18.8 °,17.5 °
+BMW X2 Crossover 2.0 20d 190KM 2018,bmw,x2,crossover,5,5,11.3 m,5.7 m,4360 mm,1824 mm,2098 mm,1526 mm,2670 mm,1561 mm,1562 mm,182 mm,1355 l,470 l
+BMW Seria 7 E32 750 i V12 300KM 1991,bmw,seria-7,e23,4,4860 mm,1800 mm,1430 mm,2795 mm,1508 mm,1522 mm,400 mm,600 mm,910 mm,470 mm,300 mm,885 mm,480 mm
+BMW iX SUV M 105 kWh 619KM 455kW od 2022,ix,suv-m,silnik-elektryczny-105-kwh-619km-od-2022,4,4,12.3 m,4953 mm,1967 mm,2230 mm,1696 mm,3000 mm,1679 mm,1709 mm,906 mm,1047 mm,203 mm,1750 l
+BMW Seria 7 E32,bmw,seria-7,e32,4,5,5024 mm,1845 mm,1400 mm,2947 mm,1530 mm,1558 mm,972 mm,945 mm,1482 mm,1490 mm,175 mm,500 l
+BMW Seria 7 E38,bmw,seria-7,e38,4,5,12.2 m,6.1 m,4983 mm,1862 mm,1435 mm,2931 mm,1552 mm,1568 mm,130 mm,988 mm,969 mm,500 l
+BMW X2 2022,x2,crossover-plug-in,silnik-hybrydowy-1.5-25e-220km-od-2020,5,5,11.4 m,5.7 m,4360 mm,1824 mm,2098 mm,1526 mm,2670 mm,1563 mm,1562 mm,854 mm,836 mm,147 mm
+BMW i4 Gran Coupe eDrive 40 340KM 250kW od 2021,i4,gran-coupe,silnik-elektryczny-edrive-40-340km-od-2021,5,5,12.5 m,6.2 m,4783 mm,1852 mm,1448 mm,2856 mm,1601 mm,1630 mm,125 mm,1290 l,470 l,75 kg
+BMW i4 M Gran Coupe M50 544KM 400kW od 2021,i4,m-gran-coupe,silnik-elektryczny-m50-544km-od-2021,5,5,12.5 m,6.2 m,4783 mm,1852 mm,1448 mm,2856 mm,1589 mm,1606 mm,125 mm,1290 l,470 l,od 2021 roku
+BMW i3 Hatchback i3s 120Ah 184KM 2022,bmw,i3,hatchback-i3,5,4,9.9 m,5.0 m,3999 mm,1775 mm,2039 mm,1578 mm,2570 mm,1571 mm,1576 mm,707 mm,722 mm,140 mm
+Chevrolet Suburban GMT900,chevrolet,suburban,gmt900,5,8,13.1 m,5649 mm,2007 mm,1951 mm,3302 mm,227 mm,1659 mm,1656 mm,1636 mm,1570 mm,3891 l,1297 l
+Chevrolet Malibu VII,chevrolet,malibu,vii,4,5,11.2 m,4865 mm,1855 mm,2131 mm,1465 mm,2737 mm,1583 mm,1585 mm,151 mm,991 mm,952 mm,1461 mm
+Chevrolet Malibu VII 2.4 DOHC 167KM 2013,chevrolet,malibu,vi,4,5,12.3 m,4872 mm,1785 mm,1451 mm,2852 mm,1514 mm,1524 mm,1421 mm,1369 mm,1346 mm,1323 mm,427 l
+BMW i3 Hatchback i3s 120Ah 184KM 135kW 2018-2022,i3,hatchback-i3s,silnik-elektryczny-120ah-184km-2018-2022,5,4,9.9 m,5.0 m,4006 mm,1791 mm,2039 mm,1570 mm,2570 mm,1592 mm,1569 mm,714 mm,722 mm,139 mm
+BMW i3 Hatchback i3 Facelifting,bmw,i3,hatchback-i3-facelifting,4,5,9.9 m,5.0 m,4011 mm,1775 mm,2039 mm,1598 mm,2570 mm,1571 mm,1566 mm,715 mm,726 mm,139 mm
+Chevrolet Tahoe GMT900,chevrolet,tahoe,gmt900,5,11.9 m,5131 mm,2007 mm,1953 mm,2946 mm,1732 mm,1702 mm,229 mm,1659 mm,1659 mm,3084 l,479 l,802 mm
+Chevrolet Cruze Sedan,chevrolet,cruze,sedan,4,5,10.9 m,5.5 m,4597 mm,1788 mm,1477 mm,2685 mm,1544 mm,1558 mm,160 mm,999 mm,963 mm,1800 l
+Chevrolet Impala I 5.7 264KM 194kW 1994-1996,impala,i,silnik-benzynowy-5.7-264km-1994-1996,4,5,12.7 m,5438 mm,1968 mm,1389 mm,2944 mm,1582 mm,1593 mm,1610 mm,1610 mm,578 l,od 1994 do 1996 roku,5733 cm³
+Chevrolet TrailBlazer II,chevrolet,trailblazer,ii,5,5,4877 mm,1902 mm,2132 mm,1842 mm,2845 mm,1570 mm,1588 mm,948 mm,1085 mm,231 mm,231 mm,235 l
+Chevrolet Cruze Hatchback 5d 1.6 16V DOHC 124KM 2012,chevrolet,cruze,kombi,5,5,10.9 m,4681 mm,1797 mm,2067 mm,1484 mm,1521 mm,2685 mm,1544 mm,1558 mm,145 mm,1074 mm,998 mm
+Citroen Nemo Van,citroen,nemo,van,2,3864 mm,1716 mm,2019 mm,1721 mm,2513 mm,1464 mm,1465 mm,760 mm,591 mm,530 mm,1056 mm,1046 mm,410 mm
+Citroen Grand C4 Picasso I 2009,citroen,grand-c4-picasso,i,5,7,10.6 m,5.3 m,4590 mm,1830 mm,2100 mm,1660 mm,1690 mm,2728 mm,1505 mm,1539 mm,995 mm,867 mm
+Citroen Evasion II,citroen,evasion,ii,4,5,11.6 m,5.8 m,4454 mm,1816 mm,1714 mm,2824 mm,1534 mm,1540 mm,881 mm,749 mm,145 mm,1695 mm
+Citroen GS Kombi,citroen,gs,kombi,5,5,4120 mm,1349 mm,1860 mm,2550 mm,1378 mm,1328 mm,818 mm,752 mm,154 mm,980 mm,975 mm,1570 mm
+Chevrolet Captiva I,chevrolet,captiva,i,5,5,11.5 m,5.8 m,4635 mm,1849 mm,1720 mm,2707 mm,1562 mm,1572 mm,175 mm,930 l,465 l,100 kg
+Citroen C4 Cactus Crossover,citroen,c4-cactus,crossover,5,5,10.9 m,4157 mm,1729 mm,1946 mm,1480 mm,1530 mm,2595 mm,1477 mm,1477 mm,827 mm,735 mm,130 mm
+Citroen C4 Cactus Crossover 1.2 PureTech 82KM 2017,citroen,c4-cactus,crossover-facelifting,5,5,10.9 m,5.5 m,4170 mm,1714 mm,1979 mm,1480 mm,2595 mm,1479 mm,1477 mm,833 mm,741 mm,165 mm
+Citroen C4 Picasso I,citroen,c4-picasso,i,5,5,11.3 m,5.7 m,4470 mm,1830 mm,2100 mm,1660 mm,2728 mm,1505 mm,1539 mm,995 mm,747 mm,160 mm
+Citroen C4 Spacetourer Grand,citroen,c4-spacetourer,grand,5,7,10.8 m,5.4 m,4602 mm,1826 mm,2117 mm,1971 mm,1638 mm,1644 mm,2840 mm,1573 mm,1576 mm,889 mm
+Citroen C4 Spacetourer Van,citroen,c4-spacetourer,van,5,5,10.8 m,5.4 m,4438 mm,1826 mm,2117 mm,1971 mm,1610 mm,1625 mm,2785 mm,1573 mm,1576 mm,889 mm
+Citroen Jumper I,citroen,jumper,i,4,3,12.8 m,6.4 m,4749 mm,2024 mm,1441 mm,2850 mm,1720 mm,1720 mm,901 mm,998 mm,145 mm,3400 mm
+Citroen BX Sport 1.9 126KM 93kW 1985-1987,bx,sport,silnik-benzynowy-1.9-126km-1985-1987,5,5,4220 mm,1670 mm,1350 mm,2655 mm,1430 mm,1374 mm,805 mm,760 mm,od 1985 do 1987 roku,benzynowy,126 , (93 
+Citroen C-Elysee II Sedan 1.6 VTi 115KM 2013,c-elysee,i,silnik-benzynowy-1.6-109km-2003-2012,4,5,4305 mm,1707 mm,1413 mm,2540 mm,od 2003 do 2012 roku,1587 cm³,benzynowy,109 , (80 ,) przy 5750 obr/min,147 , przy 4000 obr/min
+Citroen BX GTi 1.9 160KM 118kW 1987-1994,bx,gti,silnik-benzynowy-1.9-160km-1987-1994,5,5,4237 mm,1682 mm,1350 mm,2655 mm,1434 mm,1378 mm,822 mm,760 mm,od 1987 do 1994 roku,benzynowy,160 , (118 
+Citroen Spacetourer Van M 2.0 BlueHDI 177KM 2018,citroen,spacetourer,van-xl,4,9,11.3 m,5.7 m,5306 mm,1920 mm,2204 mm,2010 mm,1890 mm,3275 mm,878 mm,1153 mm,1712 mm,1586 mm
+Citroen Spacetourer Van XS,citroen,spacetourer,van-xs,5,8,11.3 m,5.7 m,4606 mm,1920 mm,2204 mm,2010 mm,1905 mm,2925 mm,878 mm,803 mm,1712 mm,1586 mm
+Citroen Spacetourer Van M,citroen,spacetourer,van-m,4,8,11.3 m,5.7 m,4956 mm,1920 mm,2204 mm,2010 mm,1890 mm,3275 mm,878 mm,803 mm,1712 mm,1586 mm
+Citroen C5 X Plug-In 1.6 PureTech Plug-In 225KM 165kW od 2021,c5-x,plug-in,silnik-hybrydowy-1.6-puretech-plug-in-225km-od-2021,5,5,10.8 m,5.4 m,4805 mm,1865 mm,2062 mm,1485 mm,2785 mm,1595 mm,1605 mm,985 mm,1035 mm,150 mm
+Citroen Spacetourer e-Van M,citroen,spacetourer,e-van-m,4,5,12.4 m,4959 mm,1920 mm,2204 mm,2010 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,803 mm,2550 l
+Citroen Spacetourer 2022,citroen,spacetourer,e-van-xl,4,5,12.4 m,5306 mm,1920 mm,2204 mm,2010 mm,1900 mm,3275 mm,1627 mm,1600 mm,881 mm,1153 mm,3100 l
+Citroen C5 Aircross SUV,citroen,c5-aircross,suv,5,5,10.7 m,5.3 m,4500 mm,1840 mm,2099 mm,1969 mm,1670 mm,2730 mm,1601 mm,1610 mm,230 mm,1025 mm
+Citroen C3 Aircross  Crossover Facelifting,citroen,c3-aircross,crossover-facelifting,5,5,10.8 m,5.4 m,4160 mm,1976 mm,1824 mm,1597 mm,1637 mm,2604 mm,1513 mm,1513 mm,842 mm,714 mm
+Citroen C5 Aircross SUV Facelifting,citroen,c5-aircross,suv-facelifting,5,5,10.7 m,5.3 m,4500 mm,1969 mm,2099 mm,1969 mm,1654 mm,1689 mm,2730 mm,1579 mm,1608 mm,917 mm
+Citroen C5 Aircross SUV Plug-In Facelifting 1.6 PureTech Plug-In 225KM 165kW od 2022,c5-aircross,suv-plug-in-facelifting,silnik-hybrydowy-1.6-puretech-plug-in-225km-od-2022,5,5,10.7 m,5.3 m,4500 mm,1969 mm,2099 mm,1969 mm,1654 mm,1689 mm,2730 mm,1579 mm,1608 mm,917 mm
+Citroen C3 Aircross  Crossover 1.2 PureTech 110KM 2021,citroen,c3-aircross,crossover,5,5,10.8 m,5.4 m,4154 mm,1756 mm,1976 mm,1824 mm,1597 mm,1637 mm,2604 mm,1513 mm,1491 mm,842 mm
+Citroen Spacetourer e-VAN XS 50 kWh 136KM 100kW od 2021,spacetourer,e-van-xs,silnik-elektryczny-50-kwh-136km-od-2021,4,5,11.3 m,4609 mm,1920 mm,2204 mm,1950 mm,2925 mm,1627 mm,1600 mm,881 mm,803 mm,150 mm,1400 l
+Citroen AMI Kombi,citroen,ami,kombi,5,11.4 m,3960 mm,1520 mm,1490 mm,2400 mm,1260 mm,1220 mm,970 mm,930 mm,1180 mm,1130 mm,135 mm,948 mm
+Citroen Berlingo I 2003,citroen,berlingo,i,5,5,10.4 m,5.2 m,4137 mm,1724 mm,1960 mm,1810 mm,2693 mm,1420 mm,1440 mm,836 mm,608 mm,145 mm
+Citroen C5 Aircross SUV Plug-In 1.6 PureTech 225KM 165kW 2020-2022,c5-aircross,suv-plug-in,silnik-hybrydowy-1.6-puretech-225km-2020-2022,5,5,10.7 m,5.3 m,4500 mm,1969 mm,2099 mm,1969 mm,1654 mm,1689 mm,2730 mm,1579 mm,1608 mm,917 mm
+Chrysler LHS II 3.5 i V6 24V 257KM 189kW 1998-2001,lhs,ii,silnik-benzynowy-3.5-i-v6-24v-257km-1998-2001,4,5,5275 mm,1890 mm,1420 mm,2870 mm,530 l,od 1998 do 2001 roku,3518 cm³,benzynowy,257 , (189 ,) przy 6400 obr/min,346 
+Chrysler LHS I 3.5 i V6 24V 218KM 160kW 1993-1997,lhs,i,silnik-benzynowy-3.5-i-v6-24v-218km-1993-1997,4,5,5268 mm,1890 mm,1416 mm,2870 mm,530 l,od 1993 do 1997 roku,3518 cm³,benzynowy,218 , (160 ,) przy 5800 obr/min,300 
+Chrysler Pacifica II,chrysler,pacifica,ii,5,7,12.1 m,6.0 m,5176 mm,2022 mm,2297 mm,1777 mm,3089 mm,1735 mm,1736 mm,131 mm,3979 l,915 l
+Dacia Lodgy Minivan 1.6 84KM 2014,dacia,lodgy,minivan,5,5,11.1 m,4498 mm,1751 mm,2004 mm,1682 mm,1683 mm,2015 mm,2810 mm,1492 mm,1478 mm,822 mm,866 mm
+Dacia Lodgy Minivan Facelifting,dacia,lodgy,minivan-facelifting,5,5,10.4 m,5.2 m,4498 mm,1751 mm,2000 mm,1822 mm,1683 mm,2008 mm,2810 mm,1492 mm,1478 mm,822 mm
+Dacia Lodgy Stepway,dacia,lodgy,stepway,5,5,11.1 m,5.5 m,4521 mm,1767 mm,2004 mm,1683 mm,2810 mm,1492 mm,1478 mm,834 mm,877 mm,120 mm
+Dacia 1300 Kombi 1.3 54KM 40kW 1969-1979,1300,kombi,silnik-benzynowy-1.3-54km-1969-1979,5,10.8 m,4400 mm,1636 mm,1455 mm,2441 mm,1312 mm,1312 mm,od 1969 do 1979 roku,1289 cm³,benzynowy,54 , (40 ,) przy 5250 obr/min
+Dacia 1300 Sedan 1.3 54KM 40kW 1969-1979,1300,sedan,silnik-benzynowy-1.3-54km-1969-1979,4,10.8 m,4340 mm,1636 mm,1434 mm,2441 mm,1312 mm,1312 mm,420 l,od 1969 do 1979 roku,1289 cm³,benzynowy,54 , (40 
+Dacia Logan III 2022,logan,iii,silnik-benzynowy-1.0-tce-lpg-100km-od-2021,4,5,10.6 m,5.3 m,4396 mm,1848 mm,2007 mm,1501 mm,2649 mm,1518 mm,1518 mm,819 mm,928 mm,145 mm
+Daewoo Lublin II,daewoo,lublin,ii,4,3,4770 mm,1940 mm,2260 mm,2320 mm,2900 mm,1620 mm,1620 mm,780 mm,170 mm,720 mm,38.0 °,26.0 °
+Daewoo Lanos Sedan,daewoo,lanos,sedan,4,5,4237 mm,1678 mm,1432 mm,2520 mm,1405 mm,1425 mm,638 mm,670 mm,160 mm,958 l,322 l,560 kg
+Daewoo Kalos Sedan,daewoo,kalos,sedan,4,5,4236 mm,1670 mm,1495 mm,2480 mm,1450 mm,1410 mm,150 mm,1860 mm,1390 mm,1220 mm,725 l,320 l
+Abarth 500 Cabrio Seria 4,abarth,500,cabrio-seria-4,2,4,9.3 m,4.7 m,3660 mm,1627 mm,1883 mm,1485 mm,2300 mm,1415 mm,1408 mm,130 mm,625 l,185 l
+Abarth 500 Hatchback Seria 4,abarth,500,hatchback-seria-4,2,4,9.3 m,4.7 m,3660 mm,1627 mm,1883 mm,1485 mm,2300 mm,1415 mm,1408 mm,130 mm,625 l,185 l
+Abarth 500 Hatchback Seria 4 1.4 T-Jet 180KM 2022,500,hatchback,silnik-benzynowy-1.4-t-jet-16v-135km-2008-2012,2,10.6 m,3657 mm,1627 mm,1893 mm,1485 mm,2300 mm,1409 mm,1402 mm,776 mm,581 mm,625 l,185 l,od 2008 do 2012 roku
